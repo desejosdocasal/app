@@ -1,0 +1,535 @@
+{
+ "leve": {
+  "verdades": [
+   "O que você reparou primeiro em {par} e nunca teve coragem de contar?",
+   "Tem alguma mania de {par} que te irrita, mas você finge que não liga? Qual?",
+   "Se vocês trocassem de corpo por um dia, o que você faria primeiro?",
+   "Conta o maior mico que você já pagou na frente de {par}.",
+   "Que comida de {par} você come só por educação?",
+   "Que apelido você quase deu pra {par} e desistiu na hora?",
+   "Se {par} fosse personagem de novela, quem seria? E por quê?",
+   "No primeiro encontro, o que passou de verdade pela sua cabeça?",
+   "Qual foi o ciúme mais bobo que você já sentiu de {par}?",
+   "Conta um hábito seu que {par} ainda não descobriu.",
+   "Vocês ganharam na loteria. Qual vai ser a primeira briga?",
+   "Qual foi a pior comida que você já fez pra {par}? Conta tudo.",
+   "Que série você continuou assistindo sem contar pra {par}?",
+   "Como é dormir do lado de {par}? Pode reclamar à vontade.",
+   "Qual foi a última mentirinha que você contou pra {par}?",
+   "Se desse pra apagar uma foto de vocês da face da Terra, qual seria?",
+   "De {par}, que mania você pegou sem perceber?",
+   "Tem algum presente de {par} que você fingiu que amou? Conta.",
+   "Que palavra {par} fala errado e você acha uma graça?",
+   "Quem ronca mais nessa casa? Descreve o pior ronco que você já ouviu.",
+   "O que você faz em casa sem {par} e nunca faria com {par} olhando?",
+   "Lembra o que dizia a primeira mensagem que você mandou pra {par}?",
+   "O que {par} faz no celular que mais te tira do sério?",
+   "Qual defeito seu {par} aguenta sem reclamar?",
+   "O que te pareceu estranho na família de {par} lá no começo?",
+   "Que roupa de {par} você sumiria do armário se pudesse?",
+   "Em que situação {par} te faz passar mais vergonha alheia?",
+   "Qual foi a briga mais besta que vocês já tiveram?",
+   "Se você pudesse criar uma regra nova aqui em casa, qual seria?",
+   "O que {par} faz que te faz rir até no meio de uma briga?",
+   "Talento inútil: qual é o seu que {par} ainda não conhece?",
+   "De zero a dez, quanto {par} dança mal? Justifica a nota.",
+   "Qual é a sua desculpa favorita pra não sair de casa?",
+   "Qual programa de vocês deu mais errado até hoje?",
+   "Se {par} tivesse um bordão, qual seria?",
+   "Que assunto você já fingiu entender numa conversa com {par}?",
+   "Quando foi na casa de {par} pela primeira vez, o que você achou? Sem filtro.",
+   "Quando ninguém tá olhando, que tipo de vídeo você mais vê?",
+   "Quem desiste primeiro numa discussão aqui, e por quê?",
+   "Qual foi o sonho mais sem pé nem cabeça que você já teve com {par}?",
+   "Se {par} fosse uma comida, qual seria? Explica a escolha.",
+   "Quando foi a última vez que vocês riram até chorar? O que aconteceu?",
+   "Que emprego seria um desastre total pra {par}?",
+   "O que você fazia pra impressionar {par} no começo e parou de fazer?",
+   "Na sua opinião, que famoso tem a cara de {par}?",
+   "Qual foi a coisa mais aleatória que você já pesquisou na internet por causa de {par}?",
+   "Se {par} virasse bicho por um dia, que bicho seria? Explica.",
+   "Qual música você tem vergonha de admitir que sabe de cor?",
+   "O que {par} faz na cozinha que te dá agonia só de olhar?",
+   "Se você tivesse que descrever {par} com três palavras só, quais seriam?",
+   "O que você pensou do jeito de {par} se vestir quando se conheceram?",
+   "Qual é a coisa mais estranha que você já comeu escondido de madrugada?",
+   "Se {par} tivesse um canal na internet, sobre o que seria? E quantos seguidores ia ter?",
+   "Quem aqui sobreviveria mais tempo num apocalipse zumbi? Por quê?",
+   "Qual mania sua você acha que mais testa a paciência de {par}?",
+   "Qual foi a desculpa mais esfarrapada que você já deu pra {par}?",
+   "Se desse pra ler a mente de {par} por um minuto, em que momento você escolhia?",
+   "Qual foi a vez que vocês mais se perderam tentando chegar num lugar? De quem foi a culpa?",
+   "Que filme você viu com {par}, dormiu no meio e depois disse que tinha gostado?",
+   "Qual prato você jura que faz melhor que {par}? Pode se gabar."
+  ],
+  "desafios": [
+   {
+    "t": "Imita {par} acordando de manhã. Capricha nos detalhes."
+   },
+   {
+    "t": "Olha no olho de {par} sem rir até o tempo acabar.",
+    "seg": 30
+   },
+   {
+    "t": "Faz uma declaração de amor com voz de narrador de futebol."
+   },
+   {
+    "t": "Canta o refrão de uma música que te lembra {par}, do jeito que sair."
+   },
+   {
+    "t": "Deixa {par} fazer um penteado em você só com as mãos.",
+    "seg": 60
+   },
+   {
+    "t": "Conta a pior piada que você souber. Se {par} rir, você tá livre."
+   },
+   {
+    "t": "Faz cócegas em {par} até ouvir um pedido de trégua."
+   },
+   {
+    "t": "Fala três coisas boas de {par} com sotaque de outro estado."
+   },
+   {
+    "t": "Desenha {par} num papel ou no celular. Sem apagar nada.",
+    "seg": 60
+   },
+   {
+    "t": "Manda um áudio pra {par}, aí do lado mesmo, contando como foi seu dia."
+   },
+   {
+    "t": "Faz a sua melhor cara de paquera pra {par} e segura até {par} rir."
+   },
+   {
+    "t": "Vai até a cozinha e volta desfilando como modelo de passarela."
+   },
+   {
+    "t": "Escolhe uma música e dança só com os ombros.",
+    "seg": 30
+   },
+   {
+    "t": "Deixa {par} ver as últimas cinco fotos da sua galeria."
+   },
+   {
+    "t": "Narra o que {par} tá fazendo agora como se fosse documentário de bicho.",
+    "seg": 30
+   },
+   {
+    "t": "Fala o nome de {par} de cinco jeitos: cantando, sussurrando, com raiva, chorando e rindo."
+   },
+   {
+    "t": "Vende {par} como se fosse produto de TV. Inventa até o preço.",
+    "seg": 30
+   },
+   {
+    "t": "Encena a última discussão de vocês, fazendo os dois papéis."
+   },
+   {
+    "t": "Fica numa perna só falando o que você mais gosta em {par}.",
+    "seg": 30
+   },
+   {
+    "t": "Conta o seu dia só com mímica. {par} tem que adivinhar.",
+    "seg": 60
+   },
+   {
+    "t": "Faz {par} rir sem encostar e sem falar nada.",
+    "seg": 60
+   },
+   {
+    "t": "Troca uma peça de roupa com {par} e fica assim até a próxima rodada."
+   },
+   {
+    "t": "Inventa uma poesia de quatro versos sobre o pé de {par}. Tem que rimar."
+   },
+   {
+    "t": "Tenta lamber o próprio cotovelo. Vale fazer força.",
+    "seg": 15
+   },
+   {
+    "t": "Até a próxima rodada, você só fala com {par} cantando."
+   },
+   {
+    "t": "{par} escolhe um apelido ridículo pra você. Vale até o fim do jogo."
+   },
+   {
+    "t": "Imita {par} pedindo comida no delivery, com todos os detalhes."
+   },
+   {
+    "t": "Equilibra uma almofada na cabeça e anda até a porta sem deixar cair."
+   },
+   {
+    "t": "Abre o WhatsApp e lê em voz alta a última mensagem que você mandou."
+   },
+   {
+    "t": "Faz com {par} a pose de foto de casamento mais brega que vocês conseguirem."
+   },
+   {
+    "t": "Olha pra {par} e faz um elogio bem exagerado, sem rir."
+   },
+   {
+    "t": "Faz um rap de quatro linhas sobre como vocês se conheceram."
+   },
+   {
+    "t": "Cheira o pescoço de {par} e descreve o cheiro como se fosse um vinho caro."
+   },
+   {
+    "t": "Fecha os olhos. {par} põe alguma coisa da sala na sua mão e você adivinha o que é."
+   },
+   {
+    "t": "Repete tudo o que {par} falar, igual papagaio.",
+    "seg": 60
+   },
+   {
+    "t": "Inventa uma história de terror com {par} de personagem principal.",
+    "seg": 60
+   },
+   {
+    "t": "Deixa {par} tirar uma foto sua fazendo a pior careta que você conseguir."
+   },
+   {
+    "t": "Imita um bicho sem fazer barulho. {par} tem que adivinhar qual é."
+   },
+   {
+    "t": "Dá três pulos e grita o nome de {par} no último."
+   },
+   {
+    "t": "Entrevista {par} como repórter de TV. Três perguntas, microfone imaginário."
+   },
+   {
+    "t": "Escolhe um objeto da sala e conta a história de amor dele.",
+    "seg": 60
+   },
+   {
+    "t": "{par} desenha alguma coisa nas suas costas com o dedo. Você tenta adivinhar."
+   },
+   {
+    "t": "Dá a sua melhor risada de vilão de novela."
+   },
+   {
+    "t": "Faz uma serenata pra {par} usando o controle remoto de microfone.",
+    "seg": 30
+   },
+   {
+    "t": "Conta como foi seu dia sem falar a palavra não. Errou, começa de novo.",
+    "seg": 30
+   },
+   {
+    "t": "Faz uma propaganda do seu prato favorito, com jingle e tudo.",
+    "seg": 30
+   },
+   {
+    "t": "Imita {par} contando uma fofoca. Capricha nas caras e bocas."
+   },
+   {
+    "t": "Faz {par} adivinhar um filme só com mímica.",
+    "seg": 60
+   },
+   {
+    "t": "Fala o alfabeto de trás pra frente o mais rápido que conseguir. Errou, {par} escolhe uma careta pra você fazer."
+   },
+   {
+    "t": "Tenta ficar sem piscar enquanto {par} faz caretas pra você.",
+    "seg": 30
+   },
+   {
+    "t": "Pega uma colher na cozinha e tenta equilibrar no nariz.",
+    "seg": 30
+   },
+   {
+    "t": "Inventa um nome de casal juntando o seu nome e o de {par}. Depois grita como torcida de estádio."
+   },
+   {
+    "t": "Apresenta a previsão do tempo do humor de {par} pra semana que vem, com gesto de apresentador e tudo."
+   },
+   {
+    "t": "Deixa {par} trocar o papel de parede do seu celular. Fica assim até amanhã."
+   },
+   {
+    "t": "Até a próxima rodada, você só fala com {par} com voz de bebê."
+   },
+   {
+    "t": "Conta como vocês se conheceram, só que tudo mentira. Quanto mais absurdo, melhor.",
+    "seg": 60
+   },
+   {
+    "t": "Inventa um passinho de dança e ensina pra {par}. No fim, dancem o passinho lado a lado.",
+    "seg": 60
+   },
+   {
+    "t": "Lê em voz alta a última conversa de vocês no celular, interpretando como novela mexicana."
+   },
+   {
+    "t": "Imita três famosos, um atrás do outro. {par} tem que adivinhar quem é cada um.",
+    "seg": 60
+   },
+   {
+    "t": "Escolhe uma palavra proibida pra {par}. Se {par} falar até a próxima rodada, paga uma prenda que você inventar."
+   }
+  ]
+ },
+ "romantico": {
+  "verdades": [
+   "Quando você percebeu que tava gostando de {par} de verdade?",
+   "Conta um dia em que você sentiu muito orgulho de {par}.",
+   "O que {par} faz sem perceber que te deixa com o coração mole?",
+   "Lembra do primeiro beijo de vocês? Conta do seu jeito.",
+   "Que lugar você quer muito conhecer com {par}? Por que lá?",
+   "Qual música você dedicaria pra {par} hoje?",
+   "No jeito que {par} te olha, o que você mais gosta?",
+   "Quando você tá num dia ruim, o que {par} faz que ajuda?",
+   "Qual foi a fase mais difícil de vocês? O que fez vocês aguentarem?",
+   "Que detalhe de {par} você acha bonito e quase nunca fala?",
+   "Como você imagina vocês daqui a dez anos, num domingo qualquer?",
+   "Qual foi a coisa mais fofa que {par} já fez por você?",
+   "Se vocês ficassem um mês longe, de que hábito de {par} você ia sentir mais falta?",
+   "O que você mais gosta na hora de dormir do lado de {par}?",
+   "Quem falou eu te amo primeiro? Como foi?",
+   "Tem alguma coisa que você nunca agradeceu a {par}? Agradece agora.",
+   "Tem algum cheiro que te lembra {par} na hora? Qual?",
+   "Se desse pra reviver um dia com {par}, qual você escolhia?",
+   "Que coisa {par} te ensinou sem nem saber?",
+   "Em que momento você pensou: é com essa pessoa que eu quero ficar?",
+   "Na rotina de vocês, o que você não trocaria por nada?",
+   "Qual foi o beijo mais marcante de vocês até hoje? Por quê?",
+   "Qual foi a maior surpresa que {par} já te fez?",
+   "O que você sente quando {par} chega em casa?",
+   "Pensa numa coisinha que você queria que {par} fizesse mais vezes. Qual é?",
+   "Qual foto de vocês é a sua favorita? O que tava acontecendo nela?",
+   "O que mudou em você depois que conheceu {par}?",
+   "Que promessa você quer fazer pra {par} hoje?",
+   "Qual foi o melhor date de vocês? O que fez ele ser tão bom?",
+   "Como você descreveria {par} pra quem nunca viu?",
+   "Aposto que {par} ama alguma mania sua em segredo. Qual você acha que é?",
+   "Qual elogio de {par} você guarda até hoje?",
+   "Bate vontade de beijar {par} do nada às vezes? Em que situação?",
+   "Aqui em casa, qual é o seu canto favorito pra ficar com {par}?",
+   "O que {par} faz que te faz sentir em casa?",
+   "De tudo o que vocês já viveram, o que você conta pros amigos com mais orgulho?",
+   "Quando bate saudade de {par}, o que você faz?",
+   "Que sonho você ainda quer realizar com {par}?",
+   "Quando foi que {par} cuidou de você de um jeito que você nunca esqueceu?",
+   "O que você acha mais charmoso em {par} quando ninguém tá vendo?",
+   "Que tipo de carinho você gosta mais e talvez {par} nem saiba?",
+   "Como foi a primeira vez que você viu {par}? Onde vocês tavam?",
+   "Se vocês fugissem por um fim de semana, pra onde iam?",
+   "Uma palavra pro que {par} é pra você. Qual é, e por quê?",
+   "O que você quer viver com {par} que vocês ainda não viveram?",
+   "Qual foi a primeira vez que você sentiu saudade de {par}?",
+   "Que mensagem de {par} você guardaria pra sempre?",
+   "Qual abraço de {par} você mais gosta: o de chegada, o de despedida ou o do nada?",
+   "Em que momento você mais sentiu o amor de {par}?",
+   "O que você ainda quer aprender com {par}?",
+   "Qual foi o pedido de desculpas de {par} que mais te tocou?",
+   "Que tradição só de vocês você quer criar com {par}?",
+   "Qual foi o dia mais simples com {par} que virou inesquecível?",
+   "Se você pudesse mandar um recado pra {par} do primeiro encontro, o que diria?",
+   "O que te dá mais vontade de cuidar de {par}?",
+   "Qual foi a viagem mais gostosa de vocês? O que fez ela ser especial?",
+   "Que qualidade de {par} você queria ter também?",
+   "Qual lembrança de vocês você queria guardar num potinho pra sempre?",
+   "Que frase de {par} você repete na sua cabeça quando precisa de força?",
+   "Que coisa pequena {par} faz que pra você vale como um eu te amo?"
+  ],
+  "desafios": [
+   {
+    "t": "Dá um beijo demorado na testa de {par}."
+   },
+   {
+    "t": "Olha nos olhos de {par} e conta o que você sentiu quando viu {par} pela primeira vez."
+   },
+   {
+    "t": "Faz cafuné em {par} sem falar nada.",
+    "seg": 120
+   },
+   {
+    "t": "Faz uma massagem nas mãos de {par}, dedo por dedo.",
+    "seg": 60
+   },
+   {
+    "t": "Beija a palma da mão de {par} e fala uma coisa que você admira em {par}."
+   },
+   {
+    "t": "Abraça {par} bem apertado e não solta até o tempo acabar.",
+    "seg": 60
+   },
+   {
+    "t": "Sussurra no ouvido de {par} o que fez você se interessar lá no começo."
+   },
+   {
+    "t": "Põe uma música lenta baixinho no celular e dança com {par} aqui mesmo.",
+    "seg": 120
+   },
+   {
+    "t": "Dá um beijo em {par} do jeito que foi o primeiro de vocês."
+   },
+   {
+    "t": "De olhos fechados, faz carinho no rosto de {par} como se fosse decorar.",
+    "seg": 60
+   },
+   {
+    "t": "Escreve com o dedo nas costas de {par} uma palavra carinhosa. {par} tem que adivinhar."
+   },
+   {
+    "t": "Beija {par} em três lugares do rosto. Você escolhe quais."
+   },
+   {
+    "t": "Pra cada beijo que você der no braço de {par}, fala uma qualidade."
+   },
+   {
+    "t": "Faz uma declaração pra {par} como se fosse no altar, com convidado e tudo."
+   },
+   {
+    "t": "Deita no colo de {par} e conta uma lembrança boa de vocês."
+   },
+   {
+    "t": "Manda agora uma mensagem pra {par} com o que você escreveria se tivesse longe."
+   },
+   {
+    "t": "Massageia os ombros de {par} bem devagar.",
+    "seg": 120
+   },
+   {
+    "t": "Dá um beijo de cinema em {par}, com direito a inclinar pra trás."
+   },
+   {
+    "t": "Encosta a testa na de {par} e respira no mesmo ritmo, sem falar.",
+    "seg": 30
+   },
+   {
+    "t": "Faz um carinho de leve no braço de {par}, do ombro até a mão.",
+    "seg": 30
+   },
+   {
+    "t": "Beija o pescoço de {par} uma vez só, bem de leve."
+   },
+   {
+    "t": "Fala pra {par} uma coisa bonita que você nunca teve coragem de dizer."
+   },
+   {
+    "t": "Lista em voz alta cinco momentos com {par} que você amou viver."
+   },
+   {
+    "t": "Segura o rosto de {par} com as duas mãos e agradece por uma coisa específica."
+   },
+   {
+    "t": "Faz massagem nos pés de {par}.",
+    "seg": 120
+   },
+   {
+    "t": "Dá um beijo de esquimó em {par}, nariz com nariz. Depois um de verdade."
+   },
+   {
+    "t": "Olhando nos olhos de {par}, conta o dia em que você teve certeza."
+   },
+   {
+    "t": "Abraça {par} por trás e fala uma coisa boa no ouvido."
+   },
+   {
+    "t": "Grava agora um áudio pra {par} ouvir num dia difícil. {par} guarda."
+   },
+   {
+    "t": "Beija a mão de {par} como em filme antigo e faz um elogio bem exagerado."
+   },
+   {
+    "t": "Imita a cara que {par} faz quando tá feliz. Depois dá um beijo."
+   },
+   {
+    "t": "Desenha um coração nas costas de {par} com a ponta do dedo."
+   },
+   {
+    "t": "Faz uma promessa pra {par} que dá pra cumprir ainda essa semana."
+   },
+   {
+    "t": "Dá um beijo em cada dedo da mão de {par}."
+   },
+   {
+    "t": "Fica de conchinha com {par}, em silêncio.",
+    "seg": 120
+   },
+   {
+    "t": "Canta baixinho no ouvido de {par} um pedaço da música de vocês."
+   },
+   {
+    "t": "Faz {par} sorrir só com carinho, sem falar nada.",
+    "seg": 60
+   },
+   {
+    "t": "Abre uma foto antiga de vocês no celular e conta o que você lembra daquele dia."
+   },
+   {
+    "t": "Beija as pálpebras de {par}, devagar, uma de cada vez."
+   },
+   {
+    "t": "Escolhe um pedaço do braço de {par} e enche de beijinho.",
+    "seg": 30
+   },
+   {
+    "t": "Fala três coisas que você quer fazer com {par} até o fim do ano."
+   },
+   {
+    "t": "Olhando pra {par}, completa a frase: eu fico feliz quando você..."
+   },
+   {
+    "t": "Pega a mão de {par} e fala o que essa mão já fez por você."
+   },
+   {
+    "t": "Dá um selinho em {par} toda vez que {par} sorrir.",
+    "seg": 60
+   },
+   {
+    "t": "Fala o nome completo de {par} do jeito mais carinhoso que você conseguir."
+   },
+   {
+    "t": "Fala no ouvido de {par} três coisas que você ama e que não têm nada a ver com aparência."
+   },
+   {
+    "t": "Segura as mãos de {par} e conta, olhando nos olhos, como seria o dia perfeito de vocês.",
+    "seg": 60
+   },
+   {
+    "t": "Dá um beijo bem devagar no ombro de {par}."
+   },
+   {
+    "t": "Escreve um bilhete de amor de três linhas num papel e entrega pra {par} dobradinho."
+   },
+   {
+    "t": "Faz carinho no cabelo de {par} enquanto conta como foi o dia em que vocês se conheceram.",
+    "seg": 60
+   },
+   {
+    "t": "Beija {par} e, entre um beijo e outro, fala uma coisa que você agradece."
+   },
+   {
+    "t": "De mãos dadas com {par}, conta um segredo bom que você nunca contou."
+   },
+   {
+    "t": "Pede pra {par} fechar os olhos e descreve em voz alta, com todo carinho, o rosto de {par}.",
+    "seg": 60
+   },
+   {
+    "t": "Dá selinhos em {par}, contando em voz alta, até {par} pedir pra parar."
+   },
+   {
+    "t": "Abraça {par} de lado e planeja em voz alta o próximo fim de semana a dois."
+   },
+   {
+    "t": "Massageia a cabeça de {par} com a ponta dos dedos, bem devagar.",
+    "seg": 90
+   },
+   {
+    "t": "Faz o pedido de namoro de novo pra {par}, como se fosse a primeira vez."
+   },
+   {
+    "t": "Tira agora uma selfie com {par}, do jeito mais apaixonado possível, e põe de fundo de tela."
+   },
+   {
+    "t": "Deita a cabeça no peito de {par} e escuta o coração em silêncio.",
+    "seg": 60
+   },
+   {
+    "t": "Dança com {par} sem música nenhuma, só no ritmo da respiração.",
+    "seg": 60
+   }
+  ]
+ }
+}
