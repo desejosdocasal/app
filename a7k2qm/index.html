@@ -313,6 +313,8 @@ h1.marca,h1.env-topo,h1.selo{font-weight:inherit;margin:0} h1.marca,h1.env-topo{
 /* menu: uma tela só, sem rolagem. A grade dos jogos ocupa o que sobra da altura */
 .tela.menu{display:flex;flex-direction:column;height:calc(100vh - 46px - var(--topo) - var(--base));height:calc(100dvh - 46px - var(--topo) - var(--base))}
 .menu .barra{margin-bottom:6px}
+/* marca mais comprida que "Desejos do Casal" (ex.: "Desideri di Coppia"): numa linha só, com menos espaço entre as letras */
+.barra h1.selo.longo{white-space:nowrap;letter-spacing:.1em;font-size:21px}
 .menu .ola{margin:0 0 clamp(8px,1.6vh,14px)} .menu .ola h2{font-size:clamp(25px,4vh,32px)}
 .menu .modos{flex:1;min-height:0;grid-template-rows:1.2fr 1fr 1fr;gap:10px}
 .menu .modo,.menu .modo.grande{min-height:0;padding:clamp(10px,1.7vh,16px) 14px}
@@ -350,18 +352,16 @@ const ACESSO_PASTA = ["base"];
 const CHECKOUT = { proibido: '#', datas: '#', pro: '#' };
 const RAIZ = '../';
 const C = window.CARTAS;
+const L = {"lang": "pt-BR", "marca": "Desejos do Casal", "marca1": "Desejos", "marca2": "do Casal", "curto": "Desejos", "manifesto": "Jogos para casal: verdade ou desafio, roleta, dados e match de desejos.", "niveis": {"leve": {"nome": "Iniciante", "desc": "para o casal que quer começar"}, "romantico": {"nome": "Romântico", "desc": "carinho, beijo, memória"}, "picante": {"nome": "Picante", "desc": "toque, provocação, quarto"}, "proibido": {"nome": "Sem Censura", "desc": "sem filtro nenhum"}}, "pacotes": {"proibido": {"titulo": "Sem Censura", "texto": "O nível sem filtro nenhum, para quando vocês quiserem ir até o fim.", "itens": ["Verdades e desafios sem censura", "Roleta e dados sem censura", "Mais posições e lugares nos dados", "Desejos sem censura no Match"]}, "datas": {"titulo": "Datas Especiais", "texto": "Cartas feitas para as noites que merecem algo diferente.", "itens": ["Aniversário", "Dia dos Namorados", "Viagem a dois", "Depois de uma briga", "Noite especial em casa"]}, "pro": {"titulo": "Desejos Pro", "texto": "Mais jogos para quando a rotina voltar a bater na porta.", "itens": ["Modo Fantasia: cenários e papéis para interpretar", "30 Noites a Dois: um encontro em casa por noite", "Desafios a Distância: para quando estiverem longe"]}}, "tipo": {"verdade": "verdade", "desafio": "desafio"}, "ocasioes": {"aniversario": "Aniversário", "namorados": "Dia dos Namorados", "viagem": "Viagem a dois", "reconciliacao": "Depois de uma briga", "em_casa": "Noite especial em casa"}, "tiposCriar": {"verdade": "Verdade", "desafio": "Desafio", "roleta": "Roleta", "acao": "Ação do dado", "lugar": "Lugar do dado"}, "voce": "Você", "seuPar": "seu par", "cronoAria": "Começar o cronômetro de {t}", "cronoComecar": "Começar", "cronoContinuar": "Continuar", "cronoValendo": "Valendo", "cronoTempo": "Tempo!", "voltarAria": "Voltar", "nivelAria": "Nível {n}", "envSelo": "Uma carta só para vocês dois", "envAbrirAria": "Abrir a carta", "envToque": "Toque no selo para abrir", "envPe1": "Abram juntos.", "envPe2": "O que está aqui dentro foi escrito para os dois.", "convite": "Hoje à noite, o jogo pede por vocês.", "campoVoce": "Você", "phNome": "Seu nome", "campoPar": "Seu par", "phPar": "Nome do par", "escolhaNivel": "Escolha o nível", "comecar": "Começar", "maiores": "Para maiores de 18 anos.", "rodapeMarca": "Desejos do Casal · para maiores de 18 anos.", "ajustesAria": "Ajustes", "vdNome": "Verdade ou Desafio", "vdSub": "Desafio vale 2, verdade vale 1. Quem fizer mais vence", "roletaNome": "Roleta do Desejo", "roletaSub": "Gire e faça o que sair", "dadosNome": "Dados do Casal", "dadosSub": "Uma ação, um lugar", "matchNome": "Match de Desejos", "matchSub": "Só o que os dois topam", "quizMenu": "Quanto me conhece", "quizSub": "Quem acertar mais vence", "extras": "Extras", "exDatas": "Datas especiais", "exFantasia": "Fantasia", "exNoites": "30 Noites", "exDistancia": "A distância", "exCriar": "Criar os seus", "exFavoritos": "Favoritos", "favoritarAria": "Favoritar", "pular": "Pular", "cumpri": "Cumpri, +{n}", "verdade": "Verdade", "desafio": "Desafio", "vale": "vale {n}", "quemGira": "Quem gira", "girar": "Girar a roleta", "trocarRoleta": "Trocar a roleta", "quemJoga": "Quem joga", "acao": "Ação", "lugar": "Lugar", "jogarDados": "Jogar os dados", "matchGrande": "Só aparece o que os dois querem", "matchP": "Cada um responde em segredo, no seu turno, se toparia {n} desejos para fazer agora. No fim, o app mostra só o que vocês dois marcaram. Ninguém fica exposto.", "matchComecar": "Começar com {nome}", "semEspiar": "Sem espiar", "entregue": "Entregue o celular para {nome}", "matchVez2": "Agora é a vez de {nome} responder os mesmos desejos, sem ver o que o outro marcou.", "matchVez1": "Responda com sinceridade. O outro só vai ver o que vocês dois toparem.", "sou": "Sou {nome}, pode mostrar", "iDeT": "{i} de {t}", "naoTopo": "Não topo", "topo": "Topo", "nenhum": "Nenhum em comum", "nenhumP": "Desta vez vocês não marcaram os mesmos desejos. Joguem de novo: os desejos mudam a cada partida.", "jogarNovo": "Jogar de novo", "voltarMenu": "Voltar ao menu", "desejosVoces": "Os desejos de vocês", "emComum": "{n} de {t} em comum.", "toquem": "Toquem no que vão fazer agora.", "escolhido": "Está escolhido. Agora é com vocês.", "menu": "Menu", "empateTxt": "Ninguém perde hoje. Cada um escolhe um desejo para o outro realizar.", "fimQuiz": "{v} conhece mais. {p} paga a prenda.", "fimVd": "{v} teve mais coragem. {p} paga a prenda.", "fimPartida": "Fim da partida", "empate": "Empate", "venceu": "{v} venceu", "contra": "contra", "sortearPrenda": "Sortear a prenda de {p}", "quizTitulo": "Quanto você me conhece", "respondePor": "{eu} responde por {par}", "dizSe": "{par} diz se acertou.", "errou": "Errou", "acertou": "Acertou", "datasTitulo": "Datas Especiais", "nCartas": "{n} cartas", "todasViradas": "Todas viradas", "todasP": "Vocês passaram pelas {t} cartas desta ocasião. Que a noite continue do jeito de vocês.", "comecarNovo": "Começar de novo", "outraOcasiao": "Outra ocasião", "cartaDe": "Carta {v} de {t} · vez de", "vezDe": "Vez de", "terminar": "Terminar", "proximaCarta": "Próxima carta", "virar": "Virar a carta", "fantasiaTitulo": "Modo Fantasia", "fantasia": "Fantasia", "cena": "cena", "combinem": "Combinem antes o que vale", "outraFantasia": "Outra fantasia", "sortearFantasia": "Sortear uma fantasia", "noitesTitulo": "30 Noites a Dois", "noitesTudo": "Vocês fizeram as 30 noites. Trinta encontros, só de vocês.", "noitesFeitas": "{n} de 30 noites feitas. Toquem no próximo número.", "noitesInicio": "Uma noite por vez. Toquem no número para revelar o encontro.", "noiteFeitaAria": "Noite {n}, feita", "noitesNovas": "Começar 30 noites novas", "recomecar": "Recomeçar as 30 noites", "toqueApagar": "Toque de novo para apagar o progresso", "noite": "Noite {n}", "fechar": "Fechar", "fizemos": "Fizemos", "distTitulo": "Desafios a Distância", "distSub": "Por mensagem, áudio ou chamada de vídeo.", "deLonge": "De longe", "aDistancia": "A distância", "proximoDesafio": "Próximo desafio", "criarTitulo": "Criar os seus", "tipoCampo": "Tipo", "nivelCampo": "Nível", "textoCampo": "Texto", "phTexto": "Use {par} para o nome do seu par", "guardar": "Guardar no jogo", "criados": "Criados por vocês", "apagar": "Apagar", "vazioCriar": "Ainda nada. O que vocês criarem entra no jogo junto com as cartas do app.", "favoritos": "Favoritos", "tirar": "Tirar", "vazioFav": "Toque na estrela de uma carta para guardar aqui.", "ajustes": "Ajustes", "salvarNomes": "Salvar nomes", "nivel": "Nível", "jogo": "Jogo", "esquentar": "Esquentar aos poucos: o nível sobe sozinho a cada {n} cartas", "esquentarAria": "Esquentar aos poucos", "embaralhar": "Embaralhar tudo de novo", "trancadoP": "Abra o app pelo link que chegou no seu e-mail depois da compra. É ele que libera o seu acesso neste celular.", "resultadoAria": "Resultado", "roletaMandou": "{eu}, a roleta mandou", "feito": "Feito", "esquentando": "Esquentando: agora é {n}", "boasAria": "Carta de boas-vindas", "boasH2": "Só para vocês dois", "boasP": "Tem desejo que fica guardado porque dá vergonha de pedir. Aqui, quem pede é o jogo. Vocês só precisam ter coragem de virar a carta.", "boasSussurro": "O que acontece depois fica entre vocês.", "boasAntes": "Antes de começar", "boasLi": ["Escolham o nível de vocês. Todo o jogo segue ele, e dá para trocar quando quiserem.", "Cada um na sua vez. Não topou? Pula, sem explicação.", "Digam seus nomes: o jogo escreve o nome do seu par dentro das cartas."], "boasPrivB": "Tudo fica só neste celular.", "boasPriv": "Sem cadastro, sem login, sem nuvem. Nenhum rastro.", "abrirJogo": "Abrir o jogo", "coloquemNomes": "Coloquem os dois nomes", "prendaSua": "{nome}, a prenda é sua", "escrevaTexto": "Escreva o texto", "guardado": "Guardado no jogo", "nomesSalvos": "Nomes salvos", "embaralhado": "Baralho embaralhado", "trocarNivelAria": "Trocar o nível", "segueNivel": "O jogo inteiro segue o nível", "naoLiberado": "Não liberado", "liberar": "Liberar {p}", "agoraNao": "Agora não", "instB": "Instale na tela do celular", "instS": "Abre como app, sem anúncio e sem internet", "instalar": "Instalar", "iosB": "Coloque na tela de início", "iosS": "Toque em Compartilhar e depois em Adicionar à Tela de Início", "rodada": "Rodada {r} de {t}"};
+const fx = (s, o) => String(s).replace(/\{(\w+)\}/g, (m, k) => k in o ? o[k] : m);
 const NIVEIS = [
   /* os ids ficam os antigos (conteúdo, acesso e estado salvo dependem deles); o que muda é o nome na tela */
-  { id: 'leve', ic: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M11 3.5l1.9 5.6 5.6 1.9-5.6 1.9L11 18.5l-1.9-5.6L3.5 11l5.6-1.9z"/><path d="M18.5 15.5l.8 2.2 2.2.8-2.2.8-.8 2.2-.8-2.2-2.2-.8 2.2-.8z"/></svg>', nome: 'Iniciante', cor: 'var(--leve)', desc: 'para o casal que quer começar' },
-  { id: 'romantico', ic: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20s-7-4.4-8.9-8.6C1.8 8.3 3.7 5 7 5c2 0 3.6 1.1 5 2.8C13.4 6.1 15 5 17 5c3.3 0 5.2 3.3 3.9 6.4C19 15.6 12 20 12 20z"/></svg>', nome: 'Romântico', cor: 'var(--romantico)', desc: 'carinho, beijo, memória' },
-  { id: 'picante', ic: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M15.6 8.4c2.4 2.4 2 7.3-1.8 10.1-3.1 2.3-7.4 2.6-10.3 1 3.6-.9 6.3-3.6 7.4-7.2.7-2.2 2-3.6 3.3-4.1.5-.2 1-.2 1.4.2z"/><path d="M15.4 8.3c.2-2.1 1.3-3.6 3.3-4.3"/><path d="M13.4 8.9c1-1.2 3-1.6 4.2-.4"/></svg>', nome: 'Picante', cor: 'var(--picante)', desc: 'toque, provocação, quarto' },
-  { id: 'proibido', ic: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21c-3.9 0-6.5-2.7-6.5-6.2 0-3.4 2.4-5.4 3.6-8.3.5 1.8 1.5 2.9 2.6 3.4.2-2.8 1.6-5.3 3.8-6.9-.3 2.6.6 4.4 2 6.1 1.2 1.5 1.9 3.2 1.9 5.2 0 4-2.9 6.7-7.4 6.7z"/><path d="M12 21c-1.7 0-2.8-1.2-2.8-2.8 0-1.7 1.3-2.7 2-4 .9 1.3 3.6 2.2 3.6 4.2 0 1.5-1.2 2.6-2.8 2.6z"/></svg>', nome: 'Sem Censura', cor: 'var(--proibido)', desc: 'sem filtro nenhum', item: 'proibido' },
+  { id: 'leve', ic: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M11 3.5l1.9 5.6 5.6 1.9-5.6 1.9L11 18.5l-1.9-5.6L3.5 11l5.6-1.9z"/><path d="M18.5 15.5l.8 2.2 2.2.8-2.2.8-.8 2.2-.8-2.2-2.2-.8 2.2-.8z"/></svg>', nome: L.niveis.leve.nome, cor: 'var(--leve)', desc: L.niveis.leve.desc },
+  { id: 'romantico', ic: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20s-7-4.4-8.9-8.6C1.8 8.3 3.7 5 7 5c2 0 3.6 1.1 5 2.8C13.4 6.1 15 5 17 5c3.3 0 5.2 3.3 3.9 6.4C19 15.6 12 20 12 20z"/></svg>', nome: L.niveis.romantico.nome, cor: 'var(--romantico)', desc: L.niveis.romantico.desc },
+  { id: 'picante', ic: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M15.6 8.4c2.4 2.4 2 7.3-1.8 10.1-3.1 2.3-7.4 2.6-10.3 1 3.6-.9 6.3-3.6 7.4-7.2.7-2.2 2-3.6 3.3-4.1.5-.2 1-.2 1.4.2z"/><path d="M15.4 8.3c.2-2.1 1.3-3.6 3.3-4.3"/><path d="M13.4 8.9c1-1.2 3-1.6 4.2-.4"/></svg>', nome: L.niveis.picante.nome, cor: 'var(--picante)', desc: L.niveis.picante.desc },
+  { id: 'proibido', ic: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21c-3.9 0-6.5-2.7-6.5-6.2 0-3.4 2.4-5.4 3.6-8.3.5 1.8 1.5 2.9 2.6 3.4.2-2.8 1.6-5.3 3.8-6.9-.3 2.6.6 4.4 2 6.1 1.2 1.5 1.9 3.2 1.9 5.2 0 4-2.9 6.7-7.4 6.7z"/><path d="M12 21c-1.7 0-2.8-1.2-2.8-2.8 0-1.7 1.3-2.7 2-4 .9 1.3 3.6 2.2 3.6 4.2 0 1.5-1.2 2.6-2.8 2.6z"/></svg>', nome: L.niveis.proibido.nome, cor: 'var(--proibido)', desc: L.niveis.proibido.desc, item: 'proibido' },
 ];
-const PACOTES = {
-  proibido: { titulo: 'Sem Censura', texto: 'O nível sem filtro nenhum, para quando vocês quiserem ir até o fim.', itens: ['Verdades e desafios sem censura', 'Roleta e dados sem censura', 'Mais posições e lugares nos dados', 'Desejos sem censura no Match'] },
-  datas: { titulo: 'Datas Especiais', texto: 'Cartas feitas para as noites que merecem algo diferente.', itens: ['Aniversário', 'Dia dos Namorados', 'Viagem a dois', 'Depois de uma briga', 'Noite especial em casa'] },
-  pro: { titulo: 'Desejos Pro', texto: 'Mais jogos para quando a rotina voltar a bater na porta.', itens: ['Modo Fantasia: cenários e papéis para interpretar', '30 Noites a Dois: um encontro em casa por noite', 'Desafios a Distância: para quando estiverem longe'] },
-};
+const PACOTES = L.pacotes;
 
 const LS = { ler(k, p) { try { const v = JSON.parse(localStorage.getItem(k)); return v == null ? p : v; } catch (e) { return p; } },
              gravar(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} } };
@@ -382,8 +382,8 @@ let T = { tela: 'envelope' };
 /* ===== utilidades ===== */
 const $ = s => document.querySelector(s);
 const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
-const eu = () => E.nomes[E.vez] || 'Você';
-const par = () => E.nomes[1 - E.vez] || 'seu par';
+const eu = () => E.nomes[E.vez] || L.voce;
+const par = () => E.nomes[1 - E.vez] || L.seuPar;
 const troca = t => esc(t).replace(/\{par\}/g, '<b>' + esc(par()) + '</b>');
 const nivelObj = id => NIVEIS.find(n => n.id === id);
 const liberado = id => { const n = nivelObj(id); return !n.item || tem(n.item); };
@@ -437,24 +437,24 @@ const ICR = {
   denovo: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M4.5 12a7.5 7.5 0 1 0 2.2-5.3"/><path d="M4.5 4.5v4h4"/></svg>',
 };
 function cronoHTML(seg, id) {
-  return `<button class="crono" data-acao="crono" data-seg="${seg}" id="${id || 'crono'}" aria-label="Começar o cronômetro de ${fmt(seg)}">
-    <span class="cr-ic">${ICR.play}</span><span class="cr-txt">Começar</span><span class="cr-t">${fmt(seg)}</span><i class="cr-barra"></i></button>`;
+  return `<button class="crono" data-acao="crono" data-seg="${seg}" id="${id || 'crono'}" aria-label="${fx(L.cronoAria, { t: fmt(seg) })}">
+    <span class="cr-ic">${ICR.play}</span><span class="cr-txt">${L.cronoComecar}</span><span class="cr-t">${fmt(seg)}</span><i class="cr-barra"></i></button>`;
 }
 const fmt = s => Math.floor(s / 60) + ':' + String(s % 60).padStart(2, '0');
 function iniciaCrono(el) {
   const total = +el.dataset.seg, estado = el.dataset.estado || 'pronto';
   const ic = el.querySelector('.cr-ic'), txt = el.querySelector('.cr-txt'), t = el.querySelector('.cr-t'), barra = el.querySelector('.cr-barra');
   clearInterval(cronoIntervalo);
-  if (estado === 'correndo') { el.dataset.estado = 'pausado'; ic.innerHTML = ICR.play; txt.textContent = 'Continuar'; return; }
+  if (estado === 'correndo') { el.dataset.estado = 'pausado'; ic.innerHTML = ICR.play; txt.textContent = L.cronoContinuar; return; }
   let resta = estado === 'pausado' ? +el.dataset.resta : total;
-  el.dataset.estado = 'correndo'; el.classList.remove('fim'); ic.innerHTML = ICR.pausa; txt.textContent = 'Valendo'; vibra(15);
+  el.dataset.estado = 'correndo'; el.classList.remove('fim'); ic.innerHTML = ICR.pausa; txt.textContent = L.cronoValendo; vibra(15);
   const mostra = () => { t.textContent = fmt(Math.max(resta, 0)); barra.style.transform = `scaleX(${Math.max(resta, 0) / total})`; el.dataset.resta = resta; };
   mostra();
   cronoIntervalo = setInterval(() => {
     resta--; mostra();
     if (resta <= 0) {
       clearInterval(cronoIntervalo); el.dataset.estado = 'fim'; el.classList.add('fim');
-      ic.innerHTML = ICR.denovo; txt.textContent = 'Tempo!'; t.textContent = ''; barra.style.transform = 'scaleX(1)'; vibra([200, 100, 200]); toque();
+      ic.innerHTML = ICR.denovo; txt.textContent = L.cronoTempo; t.textContent = ''; barra.style.transform = 'scaleX(1)'; vibra([200, 100, 200]); toque();
     }
   }, 1000);
 }
@@ -462,7 +462,7 @@ function iniciaCrono(el) {
 /* ===== telas ===== */
 function barra(titulo, acao) {
   const n = nivelObj(E.nivel);   /* nos jogos o nível só aparece; quem troca é o menu ou os ajustes */
-  return `<div class="barra"><button class="voltar" data-acao="ir" data-tela="menu" aria-label="Voltar">${I.voltar}</button><h1>${titulo}</h1>${acao || `<span class="acao nivel-ind" role="img" style="color:${n.cor}" aria-label="Nível ${n.nome}">${n.ic}</span>`}</div>`;
+  return `<div class="barra"><button class="voltar" data-acao="ir" data-tela="menu" aria-label="${L.voltarAria}">${I.voltar}</button><h1>${titulo}</h1>${acao || `<span class="acao nivel-ind" role="img" style="color:${n.cor}" aria-label="${fx(L.nivelAria, { n: n.nome })}">${n.ic}</span>`}</div>`;
 }
 function seletorNiveis(comProibido = true) {
   return `<div class="niveis">${NIVEIS.filter(n => comProibido || n.id !== 'proibido').map(n => `<button class="nv ${E.nivel === n.id ? 'on' : ''}" data-acao="nivel" data-nivel="${n.id}">
@@ -472,218 +472,217 @@ function seletorNiveis(comProibido = true) {
 const TELAS = {
   envelope() {
     return `<div class="tela envelope-tela">
-      <h1 class="env-topo"><div class="d">Desejos</div><div class="c">do Casal</div></h1>
-      <div class="env-meio"><span class="selo">Uma carta só para vocês dois</span>
+      <h1 class="env-topo"><div class="d">${L.marca1}</div><div class="c">${L.marca2}</div></h1>
+      <div class="env-meio"><span class="selo">${L.envSelo}</span>
         <div class="env" id="env"><div class="corpo"></div><div class="papel"></div><div class="bolso"></div><div class="aba"></div>
-          <button class="cera" data-acao="abrirEnvelope" aria-label="Abrir a carta"><img src="${RAIZ}img/marca/labios.webp" alt=""></button></div>
-        <div class="toque">Toque no selo para abrir</div></div>
-      <p class="env-pe">Abram juntos.<span>O que está aqui dentro foi escrito para os dois.</span></p></div>`;
+          <button class="cera" data-acao="abrirEnvelope" aria-label="${L.envAbrirAria}"><img src="${RAIZ}img/marca/labios.webp" alt=""></button></div>
+        <div class="toque">${L.envToque}</div></div>
+      <p class="env-pe">${L.envPe1}<span>${L.envPe2}</span></p></div>`;
   },
 
   abertura() {
     return `<div class="tela abertura">
       <img class="labios" src="${RAIZ}img/marca/labios.webp" alt="" width="900" height="575">
-      <h1 class="marca"><div class="d">Desejos</div><div class="c">do Casal</div></h1>
-      <p class="convite">Hoje à noite, o jogo pede por vocês.</p>
-      <div class="duplo"><label class="campo"><span>Você</span><input id="n0" maxlength="16" value="${esc(E.nomes[0])}" placeholder="Seu nome" autocomplete="off"></label>
-      <label class="campo"><span>Seu par</span><input id="n1" maxlength="16" value="${esc(E.nomes[1])}" placeholder="Nome do par" autocomplete="off"></label></div>
-      <span class="campo"><span>Escolha o nível</span></span>${seletorNiveis(false)}
-      <button class="btn p" data-acao="comecar">Começar</button>
-      <p class="rodape">Para maiores de 18 anos.</p></div>`;
+      <h1 class="marca"><div class="d">${L.marca1}</div><div class="c">${L.marca2}</div></h1>
+      <p class="convite">${L.convite}</p>
+      <div class="duplo"><label class="campo"><span>${L.campoVoce}</span><input id="n0" maxlength="16" value="${esc(E.nomes[0])}" placeholder="${L.phNome}" autocomplete="off"></label>
+      <label class="campo"><span>${L.campoPar}</span><input id="n1" maxlength="16" value="${esc(E.nomes[1])}" placeholder="${L.phPar}" autocomplete="off"></label></div>
+      <span class="campo"><span>${L.escolhaNivel}</span></span>${seletorNiveis(false)}
+      <button class="btn p" data-acao="comecar">${L.comecar}</button>
+      <p class="rodape">${L.maiores}</p></div>`;
   },
 
   menu() {
     const nome0 = esc(E.nomes[0]), nome1 = esc(E.nomes[1]);
     return `<div class="tela menu">
-      <div class="barra"><img src="${RAIZ}img/marca/labios.webp" alt="" style="width:46px;height:auto"><h1 class="selo" style="flex:1;text-align:center">Desejos do Casal</h1>
-        <button class="acao" data-acao="ir" data-tela="ajustes" aria-label="Ajustes">${I.ajuste}</button></div>
+      <div class="barra"><img src="${RAIZ}img/marca/labios.webp" alt="" style="width:46px;height:auto"><h1 class="selo${L.marca.length > 16 ? ' longo' : ''}" style="flex:1;text-align:center">${L.marca}</h1>
+        <button class="acao" data-acao="ir" data-tela="ajustes" aria-label="${L.ajustesAria}">${I.ajuste}</button></div>
       ${blocoInstalar()}
       <div class="ola"><div><h2>${nome0} <span class="e">&amp;</span> ${nome1}</h2></div>${chipNivel()}</div>
       <div class="modos">
-        <button class="modo grande" data-acao="ir" data-tela="vd"><span class="ic">${I.cartas}</span><span><b>Verdade ou Desafio</b><small>Desafio vale 2, verdade vale 1. Quem fizer mais vence</small></span></button>
-        <button class="modo" data-acao="ir" data-tela="roleta"><span class="ic">${I.roleta}</span><span><b>Roleta do Desejo</b><small>Gire e faça o que sair</small></span></button>
-        <button class="modo" data-acao="ir" data-tela="dados"><span class="ic">${I.dados}</span><span><b>Dados do Casal</b><small>Uma ação, um lugar</small></span></button>
-        <button class="modo" data-acao="ir" data-tela="matchIntro"><span class="ic">${I.match}</span><span><b>Match de Desejos</b><small>Só o que os dois topam</small></span></button>
-        <button class="modo" data-acao="ir" data-tela="quiz"><span class="ic">${I.quiz}</span><span><b>Quanto me conhece</b><small>Quem acertar mais vence</small></span></button>
+        <button class="modo grande" data-acao="ir" data-tela="vd"><span class="ic">${I.cartas}</span><span><b>${L.vdNome}</b><small>${L.vdSub}</small></span></button>
+        <button class="modo" data-acao="ir" data-tela="roleta"><span class="ic">${I.roleta}</span><span><b>${L.roletaNome}</b><small>${L.roletaSub}</small></span></button>
+        <button class="modo" data-acao="ir" data-tela="dados"><span class="ic">${I.dados}</span><span><b>${L.dadosNome}</b><small>${L.dadosSub}</small></span></button>
+        <button class="modo" data-acao="ir" data-tela="matchIntro"><span class="ic">${I.match}</span><span><b>${L.matchNome}</b><small>${L.matchSub}</small></span></button>
+        <button class="modo" data-acao="ir" data-tela="quiz"><span class="ic">${I.quiz}</span><span><b>${L.quizMenu}</b><small>${L.quizSub}</small></span></button>
       </div>
-      <div class="secao">Extras</div>
+      <div class="secao">${L.extras}</div>
       <div class="extras">
-        ${itemExtra('datas', I.datas, 'Datas especiais', 'datas')}
-        ${itemExtra('fantasia', I.fantasia, 'Fantasia', 'pro')}
-        ${itemExtra('noites', I.noites, '30 Noites', 'pro')}
-        ${itemExtra('distancia', I.distancia, 'A distância', 'pro')}
-        ${itemExtra('criar', I.criar, 'Criar os seus')}
-        ${itemExtra('favoritos', I.estrela(false), 'Favoritos')}
+        ${itemExtra('datas', I.datas, L.exDatas, 'datas')}
+        ${itemExtra('fantasia', I.fantasia, L.exFantasia, 'pro')}
+        ${itemExtra('noites', I.noites, L.exNoites, 'pro')}
+        ${itemExtra('distancia', I.distancia, L.exDistancia, 'pro')}
+        ${itemExtra('criar', I.criar, L.exCriar)}
+        ${itemExtra('favoritos', I.estrela(false), L.exFavoritos)}
       </div>
-      <p class="rodape">Para maiores de 18 anos.</p></div>`;
+      <p class="rodape">${L.maiores}</p></div>`;
   },
 
   vd() {
     const n = nivelObj(E.nivel), escura = E.nivel === 'proibido';
     const c = T.carta;
-    return `<div class="tela">${barra('Verdade ou Desafio')}
+    return `<div class="tela">${barra(L.vdNome)}
       ${vezPlacar(partida('pvd'), RODADAS.vd)}
       <div class="palco"><div class="carta" ${c ? 'data-virar' : ''} id="carta">
-        <div class="face verso"><img src="${RAIZ}img/marca/labios.webp" alt=""><div class="nome">Desejos</div></div>
+        <div class="face verso"><img src="${RAIZ}img/marca/labios.webp" alt=""><div class="nome">${L.marca1}</div></div>
         <div class="face frente ${escura ? 'escura' : ''}">${c ? `
-          <div class="cab"><span><span class="ni" style="color:${n.cor}">${n.ic}</span>${n.nome}</span><span class="tipo">${c.tipo}</span></div>
+          <div class="cab"><span><span class="ni" style="color:${n.cor}">${n.ic}</span>${n.nome}</span><span class="tipo">${L.tipo[c.tipo] || c.tipo}</span></div>
           <div class="txt">${troca(c.t)}</div>
           <div class="rod">${c.seg ? cronoHTML(c.seg) : `<span>${esc(eu())}</span>`}
-            <button data-acao="favoritar" aria-label="Favoritar" class="estrela ${ehFavorito(c.t) ? '' : 'vazia'}">${I.estrela(ehFavorito(c.t))}</button></div>` : ''}</div>
+            <button data-acao="favoritar" aria-label="${L.favoritarAria}" class="estrela ${ehFavorito(c.t) ? '' : 'vazia'}">${I.estrela(ehFavorito(c.t))}</button></div>` : ''}</div>
       </div></div>
-      ${c ? `<div class="linha-btn"><button class="btn s" data-acao="vdPular">Pular</button><button class="btn p" data-acao="vdCumpri">Cumpri, +${c.tipo === 'desafio' ? 2 : 1}</button></div>`
-          : `<div class="escolha"><button class="btn s" data-acao="vd" data-tipo="verdade">Verdade<small>vale 1</small></button><button class="btn p" data-acao="vd" data-tipo="desafio">Desafio<small>vale 2</small></button></div>`}
+      ${c ? `<div class="linha-btn"><button class="btn s" data-acao="vdPular">${L.pular}</button><button class="btn p" data-acao="vdCumpri">${fx(L.cumpri, { n: c.tipo === 'desafio' ? 2 : 1 })}</button></div>`
+          : `<div class="escolha"><button class="btn s" data-acao="vd" data-tipo="verdade">${L.verdade}<small>${fx(L.vale, { n: 1 })}</small></button><button class="btn p" data-acao="vd" data-tipo="desafio">${L.desafio}<small>${fx(L.vale, { n: 2 })}</small></button></div>`}
     </div>`;
   },
 
   roleta() {
-    return `<div class="tela">${barra('Roleta do Desejo')}
-      <div class="vez"><span>Quem gira</span><b>${esc(eu())}</b></div>
+    return `<div class="tela">${barra(L.roletaNome)}
+      <div class="vez"><span>${L.quemGira}</span><b>${esc(eu())}</b></div>
       <div class="roleta-box">${svgRoleta()}
         <svg class="ponteiro" viewBox="0 0 34 44"><defs><linearGradient id="pt" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f4d6bc"/><stop offset="1" stop-color="#9c6b45"/></linearGradient></defs><path d="M17 42 L3 10 A14 14 0 1 1 31 10 Z" fill="url(#pt)" stroke="#14060b" stroke-width="2"/><circle cx="17" cy="14" r="5" fill="#b0123e"/></svg>
       </div>
-      <button class="btn p" data-acao="girar" ${T.girando ? 'disabled' : ''}>Girar a roleta</button>
-      <button class="btn f trocar" data-acao="trocarRoleta" ${T.girando ? 'disabled' : ''}>${I.trocar} Trocar a roleta</button></div>`;
+      <button class="btn p" data-acao="girar" ${T.girando ? 'disabled' : ''}>${L.girar}</button>
+      <button class="btn f trocar" data-acao="trocarRoleta" ${T.girando ? 'disabled' : ''}>${I.trocar} ${L.trocarRoleta}</button></div>`;
   },
 
   dados() {
     const r = T.dados || {};
-    return `<div class="tela">${barra('Dados do Casal')}
-      <div class="vez"><span>Quem joga</span><b>${esc(eu())}</b></div>
-      <div class="mesa">${dadoHTML('a', r.acao || 'Ação')}${dadoHTML('b', r.lugar || 'Lugar', 'b')}</div>
+    return `<div class="tela">${barra(L.dadosNome)}
+      <div class="vez"><span>${L.quemJoga}</span><b>${esc(eu())}</b></div>
+      <div class="mesa">${dadoHTML('a', r.acao || L.acao)}${dadoHTML('b', r.lugar || L.lugar, 'b')}</div>
       <div class="frase-dado" id="frase">${r.acao && !T.rolando ? esc(r.acao + ' ' + r.lugar) : '&nbsp;'}</div>
       <div class="tempos">${[30, 60, 90].map(s => `<button class="${(E.tempoDado || 30) === s ? 'on' : ''}" data-acao="tempoDado" data-seg="${s}">${s} s</button>`).join('')}</div>
       ${r.acao && !T.rolando ? `<div class="centro-crono">${cronoHTML(E.tempoDado || 30)}</div>` : ''}
-      <div class="linha-btn"><button class="btn p" data-acao="rolar" ${T.rolando ? 'disabled' : ''}>Jogar os dados</button></div></div>`;
+      <div class="linha-btn"><button class="btn p" data-acao="rolar" ${T.rolando ? 'disabled' : ''}>${L.jogarDados}</button></div></div>`;
   },
 
   matchIntro() {
-    return `<div class="tela">${barra('Match de Desejos')}
+    return `<div class="tela">${barra(L.matchNome)}
       <div class="passa" style="padding-top:2vh"><div style="color:var(--champ)">${I.match.replace('width="22" height="22"', 'width="64" height="64"')}</div>
-      <div class="grande">Só aparece o que os dois querem</div>
-      <p>Cada um responde em segredo, no seu turno, se toparia ${MATCH_QTD} desejos para fazer agora. No fim, o app mostra só o que vocês dois marcaram. Ninguém fica exposto.</p>
-      <button class="btn p" data-acao="matchComeca">Começar com ${esc(E.nomes[0])}</button></div></div>`;
+      <div class="grande">${L.matchGrande}</div>
+      <p>${fx(L.matchP, { n: MATCH_QTD })}</p>
+      <button class="btn p" data-acao="matchComeca">${fx(L.matchComecar, { nome: esc(E.nomes[0]) })}</button></div></div>`;
   },
 
   matchPassa() {
     const quem = E.nomes[T.match.jogador];
-    return `<div class="tela passa"><span class="selo">Sem espiar</span><div class="grande">Entregue o celular para ${esc(quem)}</div>
-      <p>${T.match.jogador === 1 ? 'Agora é a vez de ' + esc(quem) + ' responder os mesmos desejos, sem ver o que o outro marcou.' : 'Responda com sinceridade. O outro só vai ver o que vocês dois toparem.'}</p>
-      <button class="btn p" data-acao="matchPronto">Sou ${esc(quem)}, pode mostrar</button></div>`;
+    return `<div class="tela passa"><span class="selo">${L.semEspiar}</span><div class="grande">${fx(L.entregue, { nome: esc(quem) })}</div>
+      <p>${T.match.jogador === 1 ? fx(L.matchVez2, { nome: esc(quem) }) : L.matchVez1}</p>
+      <button class="btn p" data-acao="matchPronto">${fx(L.sou, { nome: esc(quem) })}</button></div>`;
   },
 
   matchPergunta() {
     const m = T.match, d = m.lista[m.i], tot = m.lista.length;
-    return `<div class="tela">${barra('Match de Desejos')}
+    return `<div class="tela">${barra(L.matchNome)}
       <div class="progresso"><i style="width:${(m.i / tot) * 100}%"></i></div>
-      <div class="desejo"><span class="selo">${esc(E.nomes[m.jogador])} · ${m.i + 1} de ${tot}</span><div class="t">${esc(d.t)}</div></div>
-      <div class="escolha"><button class="btn s" data-acao="matchResp" data-v="0">Não topo</button><button class="btn p" data-acao="matchResp" data-v="1">Topo</button></div></div>`;
+      <div class="desejo"><span class="selo">${esc(E.nomes[m.jogador])} · ${fx(L.iDeT, { i: m.i + 1, t: tot })}</span><div class="t">${esc(d.t)}</div></div>
+      <div class="escolha"><button class="btn s" data-acao="matchResp" data-v="0">${L.naoTopo}</button><button class="btn p" data-acao="matchResp" data-v="1">${L.topo}</button></div></div>`;
   },
 
   matchFim() {
     const m = T.match, res = m.lista.filter((_, i) => m.resp[0][i] && m.resp[1][i]);
-    if (!res.length) return `<div class="tela fim-partida"><div class="coroa">${I.match.replace('width="22" height="22"', 'width="58" height="58"')}</div><h2>Nenhum em comum</h2>
-      <p>Desta vez vocês não marcaram os mesmos desejos. Joguem de novo: os desejos mudam a cada partida.</p>
-      <div class="acoes"><button class="btn p" data-acao="matchComeca">Jogar de novo</button><button class="btn f" data-acao="ir" data-tela="menu">Voltar ao menu</button></div></div>`;
-    return `<div class="tela">${barra('Os desejos de vocês')}
-      <p class="sub" style="text-align:center">${res.length} de ${m.lista.length} em comum. ${m.escolhido == null ? 'Toquem no que vão fazer agora.' : 'Está escolhido. Agora é com vocês.'}</p>
+    if (!res.length) return `<div class="tela fim-partida"><div class="coroa">${I.match.replace('width="22" height="22"', 'width="58" height="58"')}</div><h2>${L.nenhum}</h2>
+      <p>${L.nenhumP}</p>
+      <div class="acoes"><button class="btn p" data-acao="matchComeca">${L.jogarNovo}</button><button class="btn f" data-acao="ir" data-tela="menu">${L.voltarMenu}</button></div></div>`;
+    return `<div class="tela">${barra(L.desejosVoces)}
+      <p class="sub" style="text-align:center">${fx(L.emComum, { n: res.length, t: m.lista.length })} ${m.escolhido == null ? L.toquem : L.escolhido}</p>
       <div class="match-res">${res.map((d, i) => `<button class="m ${m.escolhido === i ? 'on' : ''}" data-acao="escolheDesejo" data-i="${i}" style="animation-delay:${i * 120}ms">${esc(d.t)}</button>`).join('')}</div>
-      <div class="linha-btn"><button class="btn s" data-acao="ir" data-tela="menu">Menu</button><button class="btn p" data-acao="matchComeca">Jogar de novo</button></div></div>`;
+      <div class="linha-btn"><button class="btn s" data-acao="ir" data-tela="menu">${L.menu}</button><button class="btn p" data-acao="matchComeca">${L.jogarNovo}</button></div></div>`;
   },
 
   fim() {
     const jogo = T.jogo, p = partida(jogo === 'vd' ? 'pvd' : 'pquiz'), [a, b] = p.pts, vence = a === b ? -1 : (a > b ? 0 : 1);
     const nv = vence >= 0 ? esc(E.nomes[vence]) : '', np = vence >= 0 ? esc(E.nomes[1 - vence]) : '';
-    const txt = vence < 0 ? 'Ninguém perde hoje. Cada um escolhe um desejo para o outro realizar.'
-      : jogo === 'quiz' ? `${nv} conhece mais. ${np} paga a prenda.` : `${nv} teve mais coragem. ${np} paga a prenda.`;
-    return `<div class="tela fim-partida"><div class="coroa">${I.coroa}</div><span class="selo">Fim da partida</span><h2>${vence < 0 ? 'Empate' : nv + ' venceu'}</h2>
-      <div class="placar"><div><b>${a}</b><small>${esc(E.nomes[0])}</small></div><span class="x">contra</span><div><b>${b}</b><small>${esc(E.nomes[1])}</small></div></div>
+    const txt = vence < 0 ? L.empateTxt : fx(jogo === 'quiz' ? L.fimQuiz : L.fimVd, { v: nv, p: np });
+    return `<div class="tela fim-partida"><div class="coroa">${I.coroa}</div><span class="selo">${L.fimPartida}</span><h2>${vence < 0 ? L.empate : fx(L.venceu, { v: nv })}</h2>
+      <div class="placar"><div><b>${a}</b><small>${esc(E.nomes[0])}</small></div><span class="x">${L.contra}</span><div><b>${b}</b><small>${esc(E.nomes[1])}</small></div></div>
       <p>${txt}</p>
-      <div class="acoes">${vence >= 0 ? `<button class="btn p" data-acao="prenda" data-quem="${1 - vence}">Sortear a prenda de ${np}</button>` : ''}
-        <button class="btn s" data-acao="novaPartida">Jogar de novo</button><button class="btn f" data-acao="ir" data-tela="menu">Voltar ao menu</button></div></div>`;
+      <div class="acoes">${vence >= 0 ? `<button class="btn p" data-acao="prenda" data-quem="${1 - vence}">${fx(L.sortearPrenda, { p: np })}</button>` : ''}
+        <button class="btn s" data-acao="novaPartida">${L.jogarNovo}</button><button class="btn f" data-acao="ir" data-tela="menu">${L.voltarMenu}</button></div></div>`;
   },
 
   quiz() {
     const q = T.quiz;
-    return `<div class="tela">${barra('Quanto você me conhece')}
+    return `<div class="tela">${barra(L.quizTitulo)}
       ${vezPlacar(partida('pquiz'), RODADAS.quiz)}
-      <div class="desejo" style="min-height:240px"><span class="selo">${esc(eu())} responde por ${esc(par())}</span><div class="t">${q ? troca(q.p) : ''}</div></div>
-      <p class="sub" style="text-align:center;margin:-4px 0 14px">${esc(par())} diz se acertou.</p>
-      <div class="escolha"><button class="btn s" data-acao="quizResp" data-v="0">Errou</button><button class="btn p" data-acao="quizResp" data-v="1">Acertou</button></div></div>`;
+      <div class="desejo" style="min-height:240px"><span class="selo">${fx(L.respondePor, { eu: esc(eu()), par: esc(par()) })}</span><div class="t">${q ? troca(q.p) : ''}</div></div>
+      <p class="sub" style="text-align:center;margin:-4px 0 14px">${fx(L.dizSe, { par: esc(par()) })}</p>
+      <div class="escolha"><button class="btn s" data-acao="quizResp" data-v="0">${L.errou}</button><button class="btn p" data-acao="quizResp" data-v="1">${L.acertou}</button></div></div>`;
   },
 
   datas() {
-    const ocas = [['aniversario', 'Aniversário'], ['namorados', 'Dia dos Namorados'], ['viagem', 'Viagem a dois'], ['reconciliacao', 'Depois de uma briga'], ['em_casa', 'Noite especial em casa']];
-    if (!T.ocasiao) return `<div class="tela">${barra('Datas Especiais')}<div class="lista">${ocas.map(([k, n]) => `<button class="item" data-acao="ocasiao" data-k="${k}"><span class="ic">${I.datas}</span><span><b>${n}</b><small>${C.datas[k].length} cartas</small></span><span class="fim">${I.seta}</span></button>`).join('')}</div></div>`;
+    const ocas = Object.entries(L.ocasioes);
+    if (!T.ocasiao) return `<div class="tela">${barra(L.datasTitulo)}<div class="lista">${ocas.map(([k, n]) => `<button class="item" data-acao="ocasiao" data-k="${k}"><span class="ic">${I.datas}</span><span><b>${n}</b><small>${fx(L.nCartas, { n: C.datas[k].length })}</small></span><span class="fim">${I.seta}</span></button>`).join('')}</div></div>`;
     const c = T.carta, nome = ocas.find(o => o[0] === T.ocasiao)[1], tot = C.datas[T.ocasiao].length, vistas = (E.usados['datas:' + T.ocasiao] || []).length;
-    if (T.datasFim) return `<div class="tela fim-partida"><div class="coroa">${I.datas.replace(/width="22" height="22"/, 'width="58" height="58"')}</div><span class="selo">${nome}</span><h2>Todas viradas</h2>
-      <p>Vocês passaram pelas ${tot} cartas desta ocasião. Que a noite continue do jeito de vocês.</p>
-      <div class="acoes"><button class="btn p" data-acao="datasDeNovo">Começar de novo</button><button class="btn s" data-acao="ocasiao" data-k="">Outra ocasião</button></div></div>`;
-    return `<div class="tela">${barra(nome)}<div class="vez"><span>${c ? `Carta ${vistas} de ${tot} · vez de` : 'Vez de'}</span><b>${esc(eu())}</b></div>
+    if (T.datasFim) return `<div class="tela fim-partida"><div class="coroa">${I.datas.replace(/width="22" height="22"/, 'width="58" height="58"')}</div><span class="selo">${nome}</span><h2>${L.todasViradas}</h2>
+      <p>${fx(L.todasP, { t: tot })}</p>
+      <div class="acoes"><button class="btn p" data-acao="datasDeNovo">${L.comecarNovo}</button><button class="btn s" data-acao="ocasiao" data-k="">${L.outraOcasiao}</button></div></div>`;
+    return `<div class="tela">${barra(nome)}<div class="vez"><span>${c ? fx(L.cartaDe, { v: vistas, t: tot }) : L.vezDe}</span><b>${esc(eu())}</b></div>
       <div class="palco"><div class="carta" ${c ? 'data-virar' : ''}><div class="face verso"><img src="${RAIZ}img/marca/labios.webp" alt=""><div class="nome">${nome}</div></div>
-        <div class="face frente">${c ? `<div class="cab"><span><i style="background:var(--champ)"></i>${nome}</span><span class="tipo">${c.tipo}</span></div><div class="txt">${troca(c.t)}</div>
+        <div class="face frente">${c ? `<div class="cab"><span><i style="background:var(--champ)"></i>${nome}</span><span class="tipo">${L.tipo[c.tipo] || c.tipo}</span></div><div class="txt">${troca(c.t)}</div>
         <div class="rod"><span>${esc(eu())}</span><button data-acao="favoritar" class="estrela ${ehFavorito(c.t) ? '' : 'vazia'}">${I.estrela(ehFavorito(c.t))}</button></div>` : ''}</div></div></div>
-      <div class="linha-btn"><button class="btn p" data-acao="cartaData">${c ? (vistas >= tot ? 'Terminar' : 'Próxima carta') : 'Virar a carta'}</button></div></div>`;
+      <div class="linha-btn"><button class="btn p" data-acao="cartaData">${c ? (vistas >= tot ? L.terminar : L.proximaCarta) : L.virar}</button></div></div>`;
   },
 
   fantasia() {
     const f = T.fantasia;
-    return `<div class="tela">${barra('Modo Fantasia')}
-      <div class="palco"><div class="carta" ${f ? 'data-virar' : ''}><div class="face verso"><img src="${RAIZ}img/marca/labios.webp" alt=""><div class="nome">Fantasia</div></div>
-      <div class="face frente escura">${f ? `<div class="cab"><span><i style="background:var(--proibido)"></i>Fantasia</span><span class="tipo">cena</span></div>
+    return `<div class="tela">${barra(L.fantasiaTitulo)}
+      <div class="palco"><div class="carta" ${f ? 'data-virar' : ''}><div class="face verso"><img src="${RAIZ}img/marca/labios.webp" alt=""><div class="nome">${L.fantasia}</div></div>
+      <div class="face frente escura">${f ? `<div class="cab"><span><i style="background:var(--proibido)"></i>${L.fantasia}</span><span class="tipo">${L.cena}</span></div>
         <div class="txt" style="font-size:clamp(20px,5.6vw,25px)">${esc(f.titulo)}<small>${troca(f.cena)}</small>
         <small><b style="color:var(--champ)">${esc(eu())}:</b> ${troca(f.papel_voce)}</small><small><b style="color:var(--champ)">${esc(par())}:</b> ${troca(f.papel_par)}</small></div>
-        <div class="rod"><span>Combinem antes o que vale</span></div>` : ''}</div></div></div>
-      <button class="btn p" data-acao="fantasia">${f ? 'Outra fantasia' : 'Sortear uma fantasia'}</button></div>`;
+        <div class="rod"><span>${L.combinem}</span></div>` : ''}</div></div></div>
+      <button class="btn p" data-acao="fantasia">${f ? L.outraFantasia : L.sortearFantasia}</button></div>`;
   },
 
   noites() {
     const ciclo = cicloAtual(), feitas = E.noitesFeitas.length, tudo = feitas >= ciclo.length;
-    return `<div class="tela">${barra('30 Noites a Dois')}<p class="sub" style="text-align:center;margin-bottom:18px">${tudo ? 'Vocês fizeram as 30 noites. Trinta encontros, só de vocês.' : feitas ? `${feitas} de 30 noites feitas. Toquem no próximo número.` : 'Uma noite por vez. Toquem no número para revelar o encontro.'}</p>
+    return `<div class="tela">${barra(L.noitesTitulo)}<p class="sub" style="text-align:center;margin-bottom:18px">${tudo ? L.noitesTudo : feitas ? fx(L.noitesFeitas, { n: feitas }) : L.noitesInicio}</p>
       <div class="noites">${ciclo.map((_, i) => E.noitesFeitas.includes(i)
-        ? `<button class="noite feita" data-acao="noite" data-i="${i}" aria-label="Noite ${i + 1}, feita"><small>${i + 1}</small>${CORACAO}</button>`
+        ? `<button class="noite feita" data-acao="noite" data-i="${i}" aria-label="${fx(L.noiteFeitaAria, { n: i + 1 })}"><small>${i + 1}</small>${CORACAO}</button>`
         : `<button class="noite" data-acao="noite" data-i="${i}">${i + 1}</button>`).join('')}</div>
-      <button class="btn f" data-acao="noitesDeNovo" style="margin-top:14px">${tudo ? 'Começar 30 noites novas' : 'Recomeçar as 30 noites'}</button></div>`;
+      <button class="btn f" data-acao="noitesDeNovo" style="margin-top:14px">${tudo ? L.noitesNovas : L.recomecar}</button></div>`;
   },
 
   distancia() {
     const c = T.carta;
-    return `<div class="tela">${barra('Desafios a Distância')}<p class="sub" style="text-align:center;margin-bottom:6px">Por mensagem, áudio ou chamada de vídeo.</p>
-      <div class="palco"><div class="carta" ${c ? 'data-virar' : ''}><div class="face verso"><img src="${RAIZ}img/marca/labios.webp" alt=""><div class="nome">De longe</div></div>
-      <div class="face frente">${c ? `<div class="cab"><span><i style="background:var(--romantico)"></i>A distância</span><span class="tipo">desafio</span></div><div class="txt">${troca(c.t)}</div><div class="rod"><span>${esc(eu())}</span></div>` : ''}</div></div></div>
-      <button class="btn p" data-acao="distancia">${c ? 'Próximo desafio' : 'Virar a carta'}</button></div>`;
+    return `<div class="tela">${barra(L.distTitulo)}<p class="sub" style="text-align:center;margin-bottom:6px">${L.distSub}</p>
+      <div class="palco"><div class="carta" ${c ? 'data-virar' : ''}><div class="face verso"><img src="${RAIZ}img/marca/labios.webp" alt=""><div class="nome">${L.deLonge}</div></div>
+      <div class="face frente">${c ? `<div class="cab"><span><i style="background:var(--romantico)"></i>${L.aDistancia}</span><span class="tipo">${L.tipo.desafio}</span></div><div class="txt">${troca(c.t)}</div><div class="rod"><span>${esc(eu())}</span></div>` : ''}</div></div></div>
+      <button class="btn p" data-acao="distancia">${c ? L.proximoDesafio : L.virar}</button></div>`;
   },
 
   criar() {
-    const tipos = [['verdade', 'Verdade'], ['desafio', 'Desafio'], ['roleta', 'Roleta'], ['acao', 'Ação do dado'], ['lugar', 'Lugar do dado']];
-    return `<div class="tela">${barra('Criar os seus')}
-      <label class="campo"><span>Tipo</span><select id="cTipo">${tipos.map(([k, n]) => `<option value="${k}">${n}</option>`).join('')}</select></label>
-      <label class="campo"><span>Nível</span><select id="cNivel">${NIVEIS.filter(n => liberado(n.id)).map(n => `<option value="${n.id}" ${n.id === E.nivel ? 'selected' : ''}>${n.nome}</option>`).join('')}</select></label>
-      <label class="campo"><span>Texto</span><textarea id="cTexto" maxlength="140" placeholder="Use {par} para o nome do seu par"></textarea></label>
-      <button class="btn p" data-acao="salvarMeu">Guardar no jogo</button>
-      <div class="secao">Criados por vocês</div>
-      <div class="lista">${E.meus.length ? E.meus.map((m, i) => `<div class="item"><span><b style="font-size:17px">${esc(m.t)}</b><small>${tipos.find(t => t[0] === m.tipo)[1]} · ${nivelObj(m.nivel).nome}</small></span><button class="fim" data-acao="apagarMeu" data-i="${i}" aria-label="Apagar">Apagar</button></div>`).join('') : '<div class="vazio">Ainda nada. O que vocês criarem entra no jogo junto com as cartas do app.</div>'}</div></div>`;
+    const tipos = Object.entries(L.tiposCriar);
+    return `<div class="tela">${barra(L.criarTitulo)}
+      <label class="campo"><span>${L.tipoCampo}</span><select id="cTipo">${tipos.map(([k, n]) => `<option value="${k}">${n}</option>`).join('')}</select></label>
+      <label class="campo"><span>${L.nivelCampo}</span><select id="cNivel">${NIVEIS.filter(n => liberado(n.id)).map(n => `<option value="${n.id}" ${n.id === E.nivel ? 'selected' : ''}>${n.nome}</option>`).join('')}</select></label>
+      <label class="campo"><span>${L.textoCampo}</span><textarea id="cTexto" maxlength="140" placeholder="${L.phTexto}"></textarea></label>
+      <button class="btn p" data-acao="salvarMeu">${L.guardar}</button>
+      <div class="secao">${L.criados}</div>
+      <div class="lista">${E.meus.length ? E.meus.map((m, i) => `<div class="item"><span><b style="font-size:17px">${esc(m.t)}</b><small>${tipos.find(t => t[0] === m.tipo)[1]} · ${nivelObj(m.nivel).nome}</small></span><button class="fim" data-acao="apagarMeu" data-i="${i}" aria-label="${L.apagar}">${L.apagar}</button></div>`).join('') : `<div class="vazio">${L.vazioCriar}</div>`}</div></div>`;
   },
 
   favoritos() {
-    return `<div class="tela">${barra('Favoritos')}<div class="lista">${E.favoritos.length ? E.favoritos.map((f, i) => `<div class="item"><span><b style="font-size:17px">${troca(f.t)}</b><small>${f.onde}</small></span><button class="fim" data-acao="desfavoritar" data-i="${i}">Tirar</button></div>`).join('')
-      : '<div class="vazio">Toque na estrela de uma carta para guardar aqui.</div>'}</div></div>`;
+    return `<div class="tela">${barra(L.favoritos)}<div class="lista">${E.favoritos.length ? E.favoritos.map((f, i) => `<div class="item"><span><b style="font-size:17px">${troca(f.t)}</b><small>${f.onde}</small></span><button class="fim" data-acao="desfavoritar" data-i="${i}">${L.tirar}</button></div>`).join('')
+      : `<div class="vazio">${L.vazioFav}</div>`}</div></div>`;
   },
 
   ajustes() {
-    return `<div class="tela">${barra('Ajustes')}
-      <div class="duplo"><label class="campo"><span>Você</span><input id="n0" maxlength="16" value="${esc(E.nomes[0])}"></label><label class="campo"><span>Seu par</span><input id="n1" maxlength="16" value="${esc(E.nomes[1])}"></label></div>
-      <button class="btn p" data-acao="salvarNomes">Salvar nomes</button>
-      <div class="secao">Nível</div>${seletorNiveis()}
-      <div class="secao">Jogo</div>
-      <div class="esquentar"><span>Esquentar aos poucos: o nível sobe sozinho a cada ${PASSO} cartas</span><button class="chave ${E.esquentar ? 'on' : ''}" data-acao="esquentar" aria-label="Esquentar aos poucos"></button></div>
-      <button class="btn s" data-acao="zerarUsados">Embaralhar tudo de novo</button>
-      <p class="rodape">Desejos do Casal · para maiores de 18 anos.</p></div>`;
+    return `<div class="tela">${barra(L.ajustes)}
+      <div class="duplo"><label class="campo"><span>${L.campoVoce}</span><input id="n0" maxlength="16" value="${esc(E.nomes[0])}"></label><label class="campo"><span>${L.campoPar}</span><input id="n1" maxlength="16" value="${esc(E.nomes[1])}"></label></div>
+      <button class="btn p" data-acao="salvarNomes">${L.salvarNomes}</button>
+      <div class="secao">${L.nivel}</div>${seletorNiveis()}
+      <div class="secao">${L.jogo}</div>
+      <div class="esquentar"><span>${fx(L.esquentar, { n: PASSO })}</span><button class="chave ${E.esquentar ? 'on' : ''}" data-acao="esquentar" aria-label="${L.esquentarAria}"></button></div>
+      <button class="btn s" data-acao="zerarUsados">${L.embaralhar}</button>
+      <p class="rodape">${L.rodapeMarca}</p></div>`;
   },
 
   trancado() {
-    return `<div class="tela trancado"><img src="${RAIZ}img/marca/labios.webp" alt="" style="width:62%"><h1 class="marca"><div class="d">Desejos</div><div class="c">do Casal</div></h1>
-      <p>Abra o app pelo link que chegou no seu e-mail depois da compra. É ele que libera o seu acesso neste celular.</p></div>`;
+    return `<div class="tela trancado"><img src="${RAIZ}img/marca/labios.webp" alt="" style="width:62%"><h1 class="marca"><div class="d">${L.marca1}</div><div class="c">${L.marca2}</div></h1>
+      <p>${L.trancadoP}</p></div>`;
   },
 };
 
@@ -710,7 +709,7 @@ function partida(chave) { return E[chave] || (E[chave] = { jogadas: 0, pts: [0, 
 function vezPlacar(p, total) {
   const r = Math.min(Math.floor(p.jogadas / 2) + 1, total);
   return `<div class="vez partida"><div class="pt ${E.vez === 0 ? 'ativo' : ''}">${p.pts[0]}<small>${esc(E.nomes[0])}</small></div>
-    <div><span>Rodada ${r} de ${total}</span><b>${esc(eu())}</b></div><div class="pt ${E.vez === 1 ? 'ativo' : ''}">${p.pts[1]}<small>${esc(E.nomes[1])}</small></div></div>`;
+    <div><span>${fx(L.rodada, { r, t: total })}</span><b>${esc(eu())}</b></div><div class="pt ${E.vez === 1 ? 'ativo' : ''}">${p.pts[1]}<small>${esc(E.nomes[1])}</small></div></div>`;
 }
 function fimDaVez(jogo) {
   const p = partida(jogo === 'vd' ? 'pvd' : 'pquiz');
@@ -793,11 +792,11 @@ function girar() {
 }
 function mostraResultado(r, selo) {
   const escura = E.nivel === 'proibido';
-  const d = document.createElement('div'); d.className = 'resultado'; d.setAttribute('aria-label', 'Resultado'); d.setAttribute('role', 'dialog'); d.setAttribute('aria-modal', 'true');
-  d.innerHTML = `<div class="cartao ${escura ? 'escura' : ''}"><span class="selo">${selo || esc(eu()) + ', a roleta mandou'}</span><div class="t">${troca(r.t)}</div>
+  const d = document.createElement('div'); d.className = 'resultado'; d.setAttribute('aria-label', L.resultadoAria); d.setAttribute('role', 'dialog'); d.setAttribute('aria-modal', 'true');
+  d.innerHTML = `<div class="cartao ${escura ? 'escura' : ''}"><span class="selo">${selo || fx(L.roletaMandou, { eu: esc(eu()) })}</span><div class="t">${troca(r.t)}</div>
     ${r.seg ? `<div class="centro-crono">${cronoHTML(r.seg, 'crono-r')}</div>` : ''}
-    ${selo ? '<div class="linha-btn"><button class="btn p" data-acao="fecharRes">Feito</button></div>'
-      : '<div class="linha-btn"><button class="btn s" data-acao="fecharRes">Pular</button><button class="btn p" data-acao="fecharRes" data-passa="1">Feito</button></div>'}</div>`;
+    ${selo ? `<div class="linha-btn"><button class="btn p" data-acao="fecharRes">${L.feito}</button></div>`
+      : `<div class="linha-btn"><button class="btn s" data-acao="fecharRes">${L.pular}</button><button class="btn p" data-acao="fecharRes" data-passa="1">${L.feito}</button></div>`}</div>`;
   document.body.appendChild(d); vibra([30, 40, 30]);
 }
 
@@ -835,7 +834,7 @@ function cartaVD(tipo) {
 function esquentaSePreciso() {
   if (!E.esquentar || E.contador % PASSO !== 0) return;
   const ordem = NIVEIS.map(n => n.id), i = ordem.indexOf(E.nivel), prox = ordem[i + 1];
-  if (prox && liberado(prox)) { E.nivel = prox; salvar(); aviso('Esquentando: agora é ' + nivelObj(prox).nome); }
+  if (prox && liberado(prox)) { E.nivel = prox; salvar(); aviso(fx(L.esquentando, { n: nivelObj(prox).nome })); }
 }
 
 /* ===== ações ===== */
@@ -843,17 +842,15 @@ const ACOES = {
   abrirEnvelope() {
     $('#env').classList.add('aberto'); $('.envelope-tela').classList.add('aberta'); vibra([15, 60, 15]); explodeCoracoes();
     setTimeout(() => {
-      const d = document.createElement('div'); d.className = 'carta-boas'; d.setAttribute('aria-label', 'Carta de boas-vindas'); d.setAttribute('role', 'dialog'); d.setAttribute('aria-modal', 'true');
+      const d = document.createElement('div'); d.className = 'carta-boas'; d.setAttribute('aria-label', L.boasAria); d.setAttribute('role', 'dialog'); d.setAttribute('aria-modal', 'true');
       d.innerHTML = `<div class="folha-papel"><div class="rolo"><img class="lab" src="${RAIZ}img/marca/labios.webp" alt="">
-        <h2>Só para vocês dois</h2><div class="assin">Desejos do Casal</div>
-        <p>Tem desejo que fica guardado porque dá vergonha de pedir. Aqui, quem pede é o jogo. Vocês só precisam ter coragem de virar a carta.</p>
-        <p class="sussurro">O que acontece depois fica entre vocês.</p>
-        <h4>Antes de começar</h4>
-        <ul><li>Escolham o nível de vocês. Todo o jogo segue ele, e dá para trocar quando quiserem.</li>
-          <li>Cada um na sua vez. Não topou? Pula, sem explicação.</li>
-          <li>Digam seus nomes: o jogo escreve o nome do seu par dentro das cartas.</li></ul>
-        <div class="priv"><b>Tudo fica só neste celular.</b> Sem cadastro, sem login, sem nuvem. Nenhum rastro.</div>
-        <button class="btn p" data-acao="lerCarta">Abrir o jogo</button></div></div>`;
+        <h2>${L.boasH2}</h2><div class="assin">${L.marca}</div>
+        <p>${L.boasP}</p>
+        <p class="sussurro">${L.boasSussurro}</p>
+        <h4>${L.boasAntes}</h4>
+        <ul>${L.boasLi.map(x => `<li>${x}</li>`).join('')}</ul>
+        <div class="priv"><b>${L.boasPrivB}</b> ${L.boasPriv}</div>
+        <button class="btn p" data-acao="lerCarta">${L.abrirJogo}</button></div></div>`;
       document.body.appendChild(d);
     }, 1500);
   },
@@ -866,7 +863,7 @@ const ACOES = {
   },
   comecar() {
     const a = $('#n0').value.trim(), b = $('#n1').value.trim();
-    if (!a || !b) { aviso('Coloquem os dois nomes'); return; }
+    if (!a || !b) { aviso(L.coloquemNomes); return; }
     E.nomes = [a, b]; salvar(); T = { tela: 'menu' }; render();
   },
   nivel(el) {
@@ -886,12 +883,12 @@ const ACOES = {
   prenda(el) {
     const quem = +el.dataset.quem; E.vez = quem; salvar();
     const base = ((C.vd[E.nivel] || {}).desafios || []).map(x => typeof x === 'string' ? { t: x } : x);
-    mostraResultado(tira(`vd:${E.nivel}:desafio`, base), `${esc(E.nomes[quem])}, a prenda é sua`);
+    mostraResultado(tira(`vd:${E.nivel}:desafio`, base), fx(L.prendaSua, { nome: esc(E.nomes[quem]) }));
   },
   escolheDesejo(el) { T.match.escolhido = +el.dataset.i; vibra([20, 30, 20]); render(true); },
   favoritar() {
     const t = T.carta.t, i = E.favoritos.findIndex(f => f.t === t);
-    if (i >= 0) E.favoritos.splice(i, 1); else E.favoritos.unshift({ t, onde: T.tela === 'datas' ? 'Datas Especiais' : nivelObj(E.nivel).nome + ' · ' + T.carta.tipo });
+    if (i >= 0) E.favoritos.splice(i, 1); else E.favoritos.unshift({ t, onde: T.tela === 'datas' ? L.datasTitulo : nivelObj(E.nivel).nome + ' · ' + (L.tipo[T.carta.tipo] || T.carta.tipo) });
     salvar(); render();
   },
   desfavoritar(el) { E.favoritos.splice(+el.dataset.i, 1); salvar(); render(); },
@@ -922,7 +919,7 @@ const ACOES = {
   datasDeNovo() { delete E.usados['datas:' + T.ocasiao]; salvar(); T.datasFim = false; T.carta = null; render(); },
   noitesDeNovo(el) {
     const feitas = E.noitesFeitas.length, tudo = feitas >= cicloAtual().length;
-    if (feitas && !tudo && !el.dataset.ok) { el.dataset.ok = '1'; el.textContent = 'Toque de novo para apagar o progresso'; setTimeout(() => { if (el.isConnected) { delete el.dataset.ok; el.textContent = 'Recomeçar as 30 noites'; } }, 3500); return; }
+    if (feitas && !tudo && !el.dataset.ok) { el.dataset.ok = '1'; el.textContent = L.toqueApagar; setTimeout(() => { if (el.isConnected) { delete el.dataset.ok; el.textContent = L.recomecar; } }, 3500); return; }
     const vistas = [...new Set([...(E.noitesVistas || []), ...cicloAtual()])];
     E.noitesVistas = vistas.length >= C.noites.length ? [] : vistas;
     E.noitesCiclo = novoCiclo(E.noitesVistas); E.noitesFeitas = []; salvar(); render(true);
@@ -931,20 +928,20 @@ const ACOES = {
   distancia() { if (T.carta) proximaVez(); T.carta = tira('distancia', C.distancia.map(t => ({ t }))); render(true); },
   noite(el) {
     const i = +el.dataset.i, n = C.noites[cicloAtual()[i]];
-    const d = document.createElement('div'); d.className = 'resultado'; d.setAttribute('aria-label', 'Resultado'); d.setAttribute('role', 'dialog'); d.setAttribute('aria-modal', 'true');
-    d.innerHTML = `<div class="cartao"><span class="selo">Noite ${i + 1}</span><div class="t" style="font-size:28px">${esc(n.titulo)}</div>
+    const d = document.createElement('div'); d.className = 'resultado'; d.setAttribute('aria-label', L.resultadoAria); d.setAttribute('role', 'dialog'); d.setAttribute('aria-modal', 'true');
+    d.innerHTML = `<div class="cartao"><span class="selo">${fx(L.noite, { n: i + 1 })}</span><div class="t" style="font-size:28px">${esc(n.titulo)}</div>
       <ol class="passos">${n.passos.map(p => `<li>${troca(p)}</li>`).join('')}</ol>
-      <div class="linha-btn"><button class="btn s" data-acao="fecharRes">Fechar</button><button class="btn p" data-acao="noiteFeita" data-i="${i}">Fizemos</button></div></div>`;
+      <div class="linha-btn"><button class="btn s" data-acao="fecharRes">${L.fechar}</button><button class="btn p" data-acao="noiteFeita" data-i="${i}">${L.fizemos}</button></div></div>`;
     document.body.appendChild(d);
   },
   noiteFeita(el) { const i = +el.dataset.i; if (!E.noitesFeitas.includes(i)) E.noitesFeitas.push(i); salvar(); document.querySelector('.resultado')?.remove(); render(true); if (E.noitesFeitas.length >= cicloAtual().length) festa(); },
   salvarMeu() {
-    const t = $('#cTexto').value.trim(); if (!t) { aviso('Escreva o texto'); return; }
-    E.meus.unshift({ t, tipo: $('#cTipo').value, nivel: $('#cNivel').value }); salvar(); aviso('Guardado no jogo'); render();
+    const t = $('#cTexto').value.trim(); if (!t) { aviso(L.escrevaTexto); return; }
+    E.meus.unshift({ t, tipo: $('#cTipo').value, nivel: $('#cNivel').value }); salvar(); aviso(L.guardado); render();
   },
   apagarMeu(el) { E.meus.splice(+el.dataset.i, 1); salvar(); render(); },
-  salvarNomes() { const a = $('#n0').value.trim(), b = $('#n1').value.trim(); if (a && b) { E.nomes = [a, b]; salvar(); aviso('Nomes salvos'); } },
-  zerarUsados() { E.usados = {}; E.contador = 0; salvar(); aviso('Baralho embaralhado'); },
+  salvarNomes() { const a = $('#n0').value.trim(), b = $('#n1').value.trim(); if (a && b) { E.nomes = [a, b]; salvar(); aviso(L.nomesSalvos); } },
+  zerarUsados() { E.usados = {}; E.contador = 0; salvar(); aviso(L.embaralhado); },
   bloqueado(el) { abreBloqueio(el.dataset.item); },
   fecharFolha() { document.querySelector('.folha')?.remove(); },
   abreNiveis() { abreNiveis(); },
@@ -957,24 +954,24 @@ function novaPergunta() {
 }
 function chipNivel() {
   const n = nivelObj(E.nivel);
-  return `<button class="chip-nivel" data-acao="abreNiveis" aria-label="Trocar o nível"><span class="ni" style="color:${n.cor}">${n.ic}</span><span><small>Nível</small>${n.nome}</span>${I.seta}</button>`;
+  return `<button class="chip-nivel" data-acao="abreNiveis" aria-label="${L.trocarNivelAria}"><span class="ni" style="color:${n.cor}">${n.ic}</span><span><small>${L.nivel}</small>${n.nome}</span>${I.seta}</button>`;
 }
 function abreNiveis() {
-  const d = document.createElement('div'); d.className = 'folha'; d.setAttribute('aria-label', 'Escolha o nível'); d.setAttribute('role', 'dialog'); d.setAttribute('aria-modal', 'true');
-  d.innerHTML = `<div class="corpo"><span class="selo">O jogo inteiro segue o nível</span><h3>Escolha o nível</h3>
+  const d = document.createElement('div'); d.className = 'folha'; d.setAttribute('aria-label', L.escolhaNivel); d.setAttribute('role', 'dialog'); d.setAttribute('aria-modal', 'true');
+  d.innerHTML = `<div class="corpo"><span class="selo">${L.segueNivel}</span><h3>${L.escolhaNivel}</h3>
     <div class="op-niveis">${NIVEIS.map(n => `<button class="op-nivel ${E.nivel === n.id ? 'on' : ''}" data-acao="nivel" data-nivel="${n.id}">
       <span class="ni" style="color:${n.cor}">${n.ic}</span><span><b>${n.nome}</b><small>${n.desc}</small></span><span class="fim">${liberado(n.id) ? (E.nivel === n.id ? I.check : '') : I.cadeado}</span></button>`).join('')}</div>
-    <button class="btn f" data-acao="fecharFolha">Fechar</button></div>`;
+    <button class="btn f" data-acao="fecharFolha">${L.fechar}</button></div>`;
   d.addEventListener('click', e => { if (e.target === d) d.remove(); });
   document.body.appendChild(d);
 }
 function abreBloqueio(item) {
   const p = PACOTES[item]; if (!p) return;
   const d = document.createElement('div'); d.className = 'folha'; d.setAttribute('aria-label', p.titulo); d.setAttribute('role', 'dialog'); d.setAttribute('aria-modal', 'true');
-  d.innerHTML = `<div class="corpo"><span class="selo" style="color:var(--proibido)">${I.cadeado} Não liberado</span><h3>${p.titulo}</h3><p>${p.texto}</p>
+  d.innerHTML = `<div class="corpo"><span class="selo" style="color:var(--proibido)">${I.cadeado} ${L.naoLiberado}</span><h3>${p.titulo}</h3><p>${p.texto}</p>
     <ul>${p.itens.map(x => `<li>${x}</li>`).join('')}</ul>
-    <a class="btn p" href="${CHECKOUT[item]}" target="_blank" rel="noopener" style="text-decoration:none">Liberar ${p.titulo}</a>
-    <button class="btn f" data-acao="fecharFolha">Agora não</button></div>`;
+    <a class="btn p" href="${CHECKOUT[item]}" target="_blank" rel="noopener" style="text-decoration:none">${fx(L.liberar, { p: p.titulo })}</a>
+    <button class="btn f" data-acao="fecharFolha">${L.agoraNao}</button></div>`;
   d.addEventListener('click', e => { if (e.target === d) d.remove(); });
   document.body.appendChild(d);
 }
@@ -985,8 +982,8 @@ const ios = /iphone|ipad|ipod/i.test(navigator.userAgent);
 window.addEventListener('beforeinstallprompt', e => { e.preventDefault(); window.__prompt = e; if (T.tela === 'menu') render(); });
 function blocoInstalar() {
   if (instalado()) return '';
-  if (window.__prompt) return `<div class="instalar"><img src="${RAIZ}img/icones/icone-192.png" alt=""><span><b>Instale na tela do celular</b><small>Abre como app, sem anúncio e sem internet</small></span><button class="btn p" data-acao="instalar">Instalar</button></div>`;
-  if (ios) return `<div class="instalar"><img src="${RAIZ}img/icones/icone-192.png" alt=""><span><b>Coloque na tela de início</b><small>Toque em Compartilhar e depois em Adicionar à Tela de Início</small></span></div>`;
+  if (window.__prompt) return `<div class="instalar"><img src="${RAIZ}img/icones/icone-192.png" alt=""><span><b>${L.instB}</b><small>${L.instS}</small></span><button class="btn p" data-acao="instalar">${L.instalar}</button></div>`;
+  if (ios) return `<div class="instalar"><img src="${RAIZ}img/icones/icone-192.png" alt=""><span><b>${L.iosB}</b><small>${L.iosS}</small></span></div>`;
   return '';
 }
 

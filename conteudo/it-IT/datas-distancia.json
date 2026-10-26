@@ -1,0 +1,716 @@
+{
+ "datas": {
+  "aniversario": [
+   {
+    "t": "Qual è stato il compleanno o l'anniversario più bello che avete passato, e cosa l'ha reso così speciale?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Canta \"Tanti auguri a te\" a {par} sottovoce, all'orecchio, nel modo più stonato e tenero che ti riesce.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Racconta una cosa che hai imparato da {par} dall'ultimo anniversario a oggi.",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Esprimi tre desideri ad alta voce per il vostro prossimo anno. {par} sceglie quale realizzare per primo.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Se oggi potessi fare a {par} un regalo qualsiasi, senza pensare al prezzo, quale sarebbe?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Dai a {par} un bacio per ogni anno della vostra storia, dove vuoi tu.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "In quale momento dell'ultimo anno hai sentito di più la mancanza di {par}?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Scrivi su un foglietto un buono che {par} può usare quando vuole: una cena, un massaggio o qualcosa di più audace.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Quale ricordo dei vostri inizi ti fa ancora sorridere senza volerlo?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Fai un brindisi a {par} e spiega, in meno di un minuto, perché questo giorno merita una festa.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Quale sorpresa hai sempre voluto fare a {par} senza mai trovare il coraggio?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Spegni la luce, accendi una candela e lascia che {par} esprima un desiderio. Se si può realizzare stasera, ci pensi tu.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Cosa vuoi che provi {par} ripensando a questo giorno tra dieci anni?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Sfila a {par} un indumento, piano piano, come se stessi scartando un regalo.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Quale desiderio piccante hai tenuto da parte proprio per oggi?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "In quale momento dell'ultimo anno hai provato più orgoglio per {par}?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Elenca dieci motivi per festeggiare {par}, uno dopo l'altro, senza fermarti troppo.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Cosa vuoi fare con {par} prima del prossimo anniversario?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Scegli la canzone che somiglia di più a {par} e ballate guancia a guancia fino alla fine.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Quale regalo di {par} ti è rimasto più nel cuore, e perché?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Racconta i momenti migliori del vostro ultimo anno come se fosse un programma TV, con tanto di sigla.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Se potessi guardare una giornata della vita di {par} prima che vi conosceste, quale sceglieresti?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Fai subito un regalo a {par} con qualcosa che hai sotto mano, e spiega perché l'hai scelto.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Cos'è cambiato in te da quando nella tua vita c'è {par}?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Benda gli occhi a {par} e dai tre baci in punti diversi. Prima di ognuno, {par} prova a indovinare dove arriverà.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Quale tradizione per il vostro anniversario vorresti iniziare da oggi?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Fai un discorso di due minuti su {par}, come se fossi davanti a una sala piena di invitati.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Che cosa di {par} diventa ancora più bello con il passare degli anni?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Fai a {par} un massaggio per l'occasione: un minuto per ogni anno della vostra storia, dove dice {par}.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Quale fantasia ti va di realizzare stasera, solo perché è un giorno speciale?",
+    "tipo": "verdade"
+   }
+  ],
+  "namorados": [
+   {
+    "t": "Cosa ti passava per la testa al vostro primo San Valentino insieme?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Scrivi un biglietto di tre righe per {par} e nascondilo da qualche parte in casa. {par} ha cinque minuti per trovarlo.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Quale cliché di San Valentino trovi smielato ma, sotto sotto, adori?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Dai a {par} un bacio da film, di quelli in bianco e nero, con tanto di casqué.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Qual è la cosa più romantica che {par} ha fatto per te in un giorno qualunque, senza nessuna ricorrenza?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Scegliete una canzone, sdraiatevi sul pavimento del soggiorno e ascoltatela tutta tenendovi per mano.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "In quale momento della giornata pensi di più a {par}?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Riempi {par} di complimenti per un minuto senza ripeterne nessuno. Se ti blocchi, paghi con un bacio.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Se foste la coppia di una serie TV, quale sarebbe il dramma della vostra storia?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Fai una dichiarazione a {par} come se fosse una proposta di matrimonio, con tanto di ginocchio a terra.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Cosa vuoi ancora vivere con {par} che nessun San Valentino vi ha dato finora?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Imbocca {par}, che tiene gli occhi chiusi e deve indovinare cosa sta mangiando.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Se adesso potessi baciare solo una parte di {par}, quale sceglieresti?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Sussurra all'orecchio di {par} cosa hai in mente per quando il gioco finisce.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Lascia che {par} ti scriva una parola sulla schiena con la punta del dito, sotto i vestiti. Tu provi a indovinarla.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "In quale momento preciso hai capito che {par} ti stava rubando il cuore?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Rifate adesso il vostro primo bacio, con le stesse frasi e la stessa agitazione, per come ve lo ricordate.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Quale nomignolo affettuoso non hai mai avuto il coraggio di usare con {par}?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Scrivi un messaggio corto sullo specchio del bagno, con quello che trovi, e porta {par} a leggerlo.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Quale dettaglio di {par} hai notato già al primo appuntamento e non hai mai detto?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Guardatevi negli occhi per un minuto intero, in silenzio. Chi ride prima dà un bacio dove decide chi ha resistito.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Se poteste rivivere un solo giorno insieme, quale sarebbe?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Racconta la vostra storia come una favola, cominciando con \"C'era una volta\".",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Quale canzone ti gira in testa quando pensi a {par}?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Disegna {par} in trenta secondi senza guardare il foglio, poi regala il disegno con una dedica.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Cosa pensi che {par} ancora non sappia di quanto tieni a questa relazione?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Fate un brindisi e completate a turno la frase: \"Io resto perché...\"",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Quale bacio di {par} non hai mai dimenticato?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Bacia {par} in tre punti che non hai mai baciato prima.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Quale promessa vuoi fare a {par} oggi, sapendo che riuscirai a mantenerla davvero?",
+    "tipo": "verdade"
+   }
+  ],
+  "viagem": [
+   {
+    "t": "Quale vostro viaggio è andato peggio ed è diventato una bella storia da raccontare?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Trovate l'angolo più bello della stanza e fatevi una foto che capite solo voi.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Cosa faresti questo weekend se avessi la certezza che nessuno lo verrà mai a sapere?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Fai un brindisi al viaggio e di' quale momento di oggi vuoi conservare per sempre.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Qual è il posto al mondo che vuoi vedere con {par} prima di qualsiasi altro?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Fate la doccia insieme e lavatevi i capelli a vicenda, con calma, senza nessuna fretta.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Cosa ti piace di più del viaggiare con {par}, e cosa ti fa perdere la pazienza?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Fissate una regola per questo viaggio: niente telefono dopo le nove di sera. Chi lo riprende paga una penitenza.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "In quale viaggio hai sentito che eravate una coppia vera?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Spegnete la luce della stanza e raccontatevi al buio il momento più bello della giornata.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Se questo viaggio fosse un film, che titolo avrebbe?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Fai un massaggio ai piedi di {par}, che ha camminato tutto il giorno. Dieci minuti, senza lamentarti.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Qual è la cosa più audace che hai pensato di fare in una camera d'albergo?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Appendete il cartellino \"Non disturbare\" e passate i prossimi quindici minuti solo a baciarvi.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Cosa vuoi portare da questo viaggio nella vostra routine di casa?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "In quale momento di questo viaggio hai guardato {par} e hai pensato: che fortuna ho avuto?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Scegli una parola nella lingua del posto, o inventala, e sussurrala all'orecchio di {par} come una frase per fare colpo.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Cosa hai scoperto di {par} in questo viaggio che a casa non avevi mai notato?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Aprite la finestra o uscite sul balcone e datevi un bacio come se fosse l'ultimo del viaggio.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Se poteste restare qui un'altra settimana, senza nessuna conseguenza, cosa fareste?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Scegliete una foto del viaggio e, a turno, raccontate cosa avevate in testa nel momento dello scatto.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Qual è stato il bacio più bello di questo viaggio finora, e dov'era?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Prepara il letto della camera nel modo più romantico possibile in tre minuti, solo con quello che hai intorno.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Cosa hai accettato di fare in questo viaggio che a casa non faresti mai?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Organizzate il prossimo viaggio in cinque minuti: meta, data e la prima cosa che farete all'arrivo.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Quale profumo, sapore o suono di qui ti ricorderà {par} quando sarete di nuovo a casa?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Mettete una canzone del posto e ballate in mezzo alla stanza, anche senza conoscere i passi.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Se dovessi descrivere {par} in questo viaggio con tre parole, quali sceglieresti?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Inventate una regola audace per l'ultima notte del viaggio e ditela ad alta voce. Vale da adesso.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Oggi, mentre eravate in giro, quando hai avuto più voglia di mollare tutto e tornare in camera con {par}?",
+    "tipo": "verdade"
+   }
+  ],
+  "reconciliacao": [
+   {
+    "t": "Cosa hai provato davvero durante la lite e non hai saputo dire in quel momento?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Abbraccia {par} per un minuto intero, senza parlare e senza mollare prima.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Cosa ha fatto o detto {par} che ti ha fatto più male? Dillo con calma, senza accusare.",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Guardando {par} negli occhi, completa la frase: \"Mi ha fatto stare male quando... e avevo bisogno di...\"",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Cosa avresti potuto fare in modo diverso in questa lite?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Chiedi scusa per una cosa precisa, senza usare la parola \"ma\" subito dopo.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Di cosa hai paura quando litigate?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Di' tre cose che ami di {par}, anche adesso, dopo la discussione.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "In che modo preferisci che {par} ti cerchi dopo una lite?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Tenetevi per mano e fate dieci respiri profondi, allo stesso ritmo, prima della prossima carta.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "C'è qualcosa in questa lite che, sotto sotto, riguarda un'altra questione?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Fate un patto per la prossima volta che la discussione si scalda e ditelo ad alta voce.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Cosa hai bisogno di sentirti dire da {par} adesso per stare in pace?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Dai a {par} un bacio per fare pace, lento, come se fosse il primo dopo tanto tempo.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Lascia scegliere a {par} come finisce la serata: parlando, dormendo a cucchiaio o con qualcosa di più caldo.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "In quale momento della lite avresti voluto fermarti, ma non ce l'hai fatta?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Di' a {par}, con calma: \"Ho capito che per te è stato difficile perché...\" e completa con quello che hai ascoltato.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Di cosa avevi bisogno in quel momento senza riuscire a chiederlo?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Sedetevi fianco a fianco, spalla contro spalla, e restate due minuti in silenzio prima di dire qualsiasi cosa.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Quale cosa detta durante la lite vorresti poterti rimangiare?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Scegli una cosa che {par} ha detto durante la lite e ripetila con parole tue, finché {par} non conferma che era proprio quello.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Come ti senti di solito il giorno dopo una lite con {par}?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Offri a {par} una piccola attenzione adesso: un bicchiere d'acqua, una coperta o una carezza tra i capelli. Sceglie {par}.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Quale cosa bella tra voi questa lite non è riuscita a cancellare?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Di' una cosa che ammiri nel modo in cui {par} sta affrontando questa conversazione.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "C'è qualcosa che ti tieni dentro e che, se non lo dici stasera, diventerà un'altra lite?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Fronte contro fronte, dite insieme: \"Siamo dalla stessa parte\".",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Cosa può fare {par} nei prossimi giorni per farti sentire di nuovo la sua vicinanza?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Chiedi a {par} un abbraccio come piace a te riceverlo, e spiega com'è.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Cosa ti è mancato di più mentre non vi parlavate?",
+    "tipo": "verdade"
+   }
+  ],
+  "em_casa": [
+   {
+    "t": "Trasformate il soggiorno in un ristorante: tovaglia, candela e musica. Avete dieci minuti.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Qual è stata la serata in casa più bella che avete passato, e cosa aveva di diverso?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Battaglia di cuscini per un minuto. Chi perde sceglie la prossima canzone e la ballate insieme.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Cosa ti piace di più vedere fare a {par} in casa quando pensa che nessuno guardi?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Metti una canzone lenta e invita {par} a ballare in mezzo al soggiorno, anche in pigiama.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Quale tua mania in casa {par} sopporta solo per amore, e lo sai benissimo?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Costruite una capanna di lenzuola in soggiorno e restateci dentro a chiacchierare fino alla prossima carta.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Con la casa tutta per voi per un weekend intero, senza ospiti né lavoro, cosa faresti?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Fai a {par} un massaggio di cinque minuti alle spalle, con crema o olio, come chiede {par}.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Quale stanza della casa secondo te non avete ancora sfruttato a dovere?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Spegni tutte le luci e racconta un segreto a {par} al buio. Poi tocca a {par}.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Cosa vorresti vedere addosso a {par} stasera?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Preparate un bagno con le luci basse ed entrate nella doccia o nella vasca, senza fretta di uscire.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Porta {par} a occhi chiusi in un punto della casa. Lì decidi tu il prossimo bacio.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Quale film avete iniziato a guardare e non avete mai finito, perché a un certo punto è successo dell'altro?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Quale angolo della casa custodisce il ricordo più bello di voi, e perché?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Cucinate insieme qualcosa con quello che c'è in frigo, in quindici minuti. Chi si lamenta lava i piatti.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Quale abitudine di {par} in casa trovi tenera e non hai mai ammesso?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Scegli dall'armadio i vestiti che {par} indosserà per il resto della serata. Niente cambi.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Se casa vostra avesse una regola segreta solo per la notte, quale sarebbe?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Spegnete i telefoni, chiudeteli in un cassetto e riprendeteli solo quando il gioco è finito.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Cosa vorresti fare più spesso in casa insieme e continuate a rimandare?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Fate una sfilata in corridoio con l'abbinamento di vestiti più ridicolo che trovate. Poi vi date un voto a vicenda.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Qual è la cosa più inaspettata che è successa tra voi in casa?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Leggi ad alta voce un vostro vecchio messaggio sul telefono, con un'interpretazione molto drammatica.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Quale profumo ti fa pensare a casa vostra quando sei via?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Preparate uno spuntino e mangiatelo a letto, fregandovene delle briciole.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Quale tuo indumento sai che {par} adora toglierti?",
+    "tipo": "verdade"
+   },
+   {
+    "t": "Metti una canzone e fai a {par} uno spogliarello per gioco, solo fino al primo indumento.",
+    "tipo": "desafio"
+   },
+   {
+    "t": "Cosa ti piace di più della vostra routine, quella parte che nessuno da fuori vede?",
+    "tipo": "verdade"
+   }
+  ]
+ },
+ "distancia": [
+  "Manda un vocale a {par} raccontando la prima cosa che farai quando vi rivedrete.",
+  "Fai una foto di dove sei adesso e mandala a {par} con una didascalia che capite solo voi.",
+  "Cenate alla stessa ora in videochiamata, dalle vostre due case.",
+  "Manda a {par} una canzone che oggi ti ha fatto pensare a voi, senza spiegare perché.",
+  "Scrivi un messaggio con tre dettagli di {par} che ti mancano da morire.",
+  "Guardate lo stesso film alla stessa ora, commentando per messaggio. Vietato mettere in pausa senza avvisare.",
+  "Registra un vocale della buonanotte per {par} da ascoltare prima di dormire. Anche sussurrato.",
+  "Manda una vostra vecchia foto e racconta cosa ricordi di quel giorno.",
+  "Fai una lista di cinque posti che visiterete insieme quando la distanza sarà finita.",
+  "In videochiamata, cucinate la stessa ricetta. Alla fine, confrontate i risultati davanti alla telecamera.",
+  "Manda il buongiorno prima che {par} si svegli, raccontando un sogno che hai fatto, vero o inventato.",
+  "Disegna {par} su un foglio come ti viene e manda la foto del disegno.",
+  "Manda un vocale cantando il ritornello della vostra canzone, anche stonando.",
+  "Fate una partita a un gioco online qualsiasi. Chi perde registra un vocale con una dichiarazione d'amore.",
+  "Racconta per messaggio in quale momento di oggi hai pensato di più a {par}.",
+  "Addormentatevi in videochiamata, lasciando la telecamera accesa finché non arriva il sonno.",
+  "Manda tre foto della tua giornata senza nessun testo. {par} deve indovinare cosa hai fatto.",
+  "Scrivi una poesia di quattro versi per {par}. Brutta va bene, copiata da internet no.",
+  "In videochiamata, guardatevi per un minuto intero in silenzio, senza ridere.",
+  "Manda un messaggio con tutto quello che hai organizzato per il prossimo appuntamento, ora per ora.",
+  "Manda un vocale descrivendo nei dettagli l'ultimo bacio tra voi.",
+  "Scrivi un messaggio che inizi con \"Se fossi qui adesso...\" e finisca nel modo più audace che hai il coraggio di scrivere.",
+  "In videochiamata, scegli i vestiti che {par} metterà al prossimo appuntamento mentre {par} ti mostra le opzioni.",
+  "Manda una foto solo del tuo sorriso, o dei tuoi occhi, e lascia che {par} indovini a cosa stai pensando.",
+  "Registra un vocale sussurrando cosa faresti se adesso potessi essere a letto con {par}.",
+  "In videochiamata, lascia scegliere una canzone a {par} e balla davanti alla telecamera come ti viene.",
+  "Manda un messaggio raccontando una fantasia che non hai mai confessato a nessuno.",
+  "Giocate a obbligo o verità per messaggio: tre verità piccanti a testa.",
+  "Manda una foto di quello che indosserai per dormire stanotte e di' cosa manca.",
+  "In videochiamata, mettete il profumo e descrivetelo, come se si potesse sentire attraverso lo schermo.",
+  "Scrivi a {par} le cinque cose che vuoi fare di più la prima notte che passerete di nuovo insieme.",
+  "Manda un vocale solo con il tuo respiro e una parola alla fine. {par} risponde allo stesso modo.",
+  "In videochiamata, scegli una parte del corpo di {par} e riempila di complimenti per trenta secondi.",
+  "Registra un vocale leggendo un vostro vecchio messaggio con la voce più seducente che ti riesce.",
+  "Manda un messaggio dicendo dove vorresti ricevere un bacio adesso, e perché.",
+  "In videochiamata, lascia che {par} ti dia tre ordini da eseguire davanti alla telecamera. Niente nudità, il resto vale.",
+  "Manda un selfie con un capo di {par} rimasto da te. Se non ce l'hai, prometti di rubarne uno.",
+  "Scrivi un messaggio di cinque righe che inizi innocente e finisca molto piccante.",
+  "Fissate una videochiamata senza orario di fine e presentatevi appena fatta la doccia, con le luci basse.",
+  "Manda un vocale dicendo cosa sussurrerai all'orecchio di {par} quando vi rivedrete.",
+  "Manda un vocale imitando come parla {par} appena apre gli occhi la mattina.",
+  "Fatti un selfie con la faccia che fai quando ti manca {par} e mandalo.",
+  "In videochiamata, mostra a {par} ogni stanza di dove sei, come un agente immobiliare.",
+  "Manda a {par} la foto più brutta che hai nel telefono. {par} risponde con la più brutta della sua galleria.",
+  "Scrivi un messaggio con solo cinque domande a cui vuoi che {par} risponda oggi.",
+  "Registra un video di dieci secondi mandando un bacio alla telecamera nel modo più sdolcinato che ti riesce.",
+  "In videochiamata, giocate a sasso, carta, forbici. Chi perde racconta un segreto.",
+  "Manda un vocale leggendo ad alta voce l'inizio della vostra prima chat.",
+  "Restate dieci minuti a parlare solo con i vocali, senza scrivere niente.",
+  "Manda una foto di quello che stai mangiando con una recensione del piatto da critico gastronomico.",
+  "In chiamata, contate fino a tre e dite nello stesso momento la parola che riassume la vostra settimana.",
+  "Manda a {par} la canzone che hai ascoltato di più questa settimana e spiega perché.",
+  "Scrivi la sceneggiatura del momento in cui vi rivedrete, come la scena di un film, con colonna sonora e tutto.",
+  "Registra un vocale di trenta secondi su cosa ammiri di più in {par}, senza mai fermarti.",
+  "In videochiamata, appoggiate la mano sullo schermo nello stesso momento e restate così per un po', senza parlare.",
+  "Scrivi un messaggio che {par} leggerà nella prossima giornata difficile e chiedi a {par} di fissarlo in alto nella chat.",
+  "In videochiamata, insegna a {par} una cosa che sai fare tu e {par} no.",
+  "Manda un vocale raccontando un ricordo di voi che probabilmente {par} ha già dimenticato.",
+  "Fai una foto del cielo da dove sei e mandala a {par}. {par} risponde con il suo cielo.",
+  "Manda per messaggio un quiz di cinque domande su di te. Per ogni errore, {par} ti deve un vocale cantato.",
+  "Manda una foto del lato del letto che resta vuoto senza {par}.",
+  "In videochiamata, sistemati i capelli seguendo solo le istruzioni di {par}.",
+  "Manda un vocale dando il buongiorno a {par} con cinque accenti regionali diversi.",
+  "Scrivi una lista di cinque manie di {par} che giuravi ti dessero fastidio e che adesso ti mancano.",
+  "In chiamata, brindate con qualsiasi cosa abbiate da bere e fate a turno un discorso di un minuto sulla vostra coppia.",
+  "Manda la foto di un oggetto di casa tua che ha una storia con {par} e racconta quella storia.",
+  "Registra un breve video sulla tua giornata, in stile vlog.",
+  "Manda un vocale dicendo \"ti amo\" in tre lingue diverse, anche a costo di cercare la pronuncia.",
+  "Decidete un orario oggi per fermarvi e mandarvi nello stesso momento un messaggio su come vi sentite.",
+  "In videochiamata, fate la smorfia più brutta che vi riesce e fate uno screenshot della chiamata.",
+  "Manda un vocale dicendo il nome di {par} come lo diresti all'orecchio, a luci spente.",
+  "Manda la foto di un tuo dettaglio che {par} adora, senza mostrare il viso. Niente di esplicito, solo il dettaglio.",
+  "Scrivi a {par} come vuoi che sia il primo bacio quando vi rivedrete, secondo per secondo.",
+  "Registra un vocale su quale capo di {par} ti fa più effetto e perché.",
+  "In videochiamata, morditi il labbro guardando la telecamera e conta quanto resiste {par} senza commentare.",
+  "Manda un messaggio con tre punti della casa dove vorresti essere con {par} adesso.",
+  "Manda un vocale di dieci secondi dicendo, molto lentamente, cosa indossi in questo momento.",
+  "Scrivi un messaggio che descriva il profumo di {par} e l'effetto che ti fa.",
+  "In videochiamata, spegni la luce, lascia accesa solo la luce dello schermo e racconta a {par} cosa stai immaginando.",
+  "Manda una foto del tuo collo con la didascalia: riservato a {par}.",
+  "Registra un vocale sussurrando tre parole che riassumono cosa vuoi fare quando vi rivedrete.",
+  "Manda a {par} la foto più bella che hai di te, con la didascalia: ti aspetto.",
+  "Scrivi un messaggio molto provocante senza usare nessuna parola esplicita. {par} dà un voto da zero a dieci.",
+  "In videochiamata, metti il pigiama più bello che hai e sfila davanti alla telecamera.",
+  "Manda un vocale raccontando il sogno più bollente che hai fatto su {par}, senza scendere troppo nei dettagli.",
+  "Scrivi a {par} cosa faresti nei primi cinque minuti senza nessuno intorno, quando vi rivedrete.",
+  "Manda un messaggio con una regola per quando vi rivedrete, che {par} dovrà rispettare senza lamentarsi.",
+  "Registra un vocale rispondendo: qual è stata la volta in cui {par} ha risvegliato in te più desiderio senza nemmeno accorgersene?",
+  "Manda una foto del tuo letto con la didascalia: manchi solo tu.",
+  "Manda un vocale di tre minuti raccontando tutta la tua giornata, senza saltare le parti noiose. {par} risponde solo alla fine.",
+  "Scrivi a {par} cosa ti ha insegnato la distanza sul vostro amore.",
+  "In videochiamata, leggi ad alta voce a {par} una pagina di un libro qualsiasi che hai vicino, con la voce di chi legge le favole ai bambini.",
+  "Manda la foto di qualcosa che oggi ti ha fatto pensare a {par} e racconta perché.",
+  "Registra un vocale raccontando cosa cucinerai per {par} quando vi rivedrete, passo dopo passo.",
+  "Scrivi a {par} quanti giorni mancano al prossimo incontro e una cosa che prometti di fare il primo giorno.",
+  "In videochiamata, organizzate il vostro prossimo viaggio: meta, date e cosa non può mancare in valigia.",
+  "In videochiamata, guardate un video divertente nello stesso momento. Chi ride prima sceglie il film del prossimo appuntamento.",
+  "Manda un vocale come se stessi conducendo un programma radio notturno, dedicando una canzone a {par}.",
+  "Fai una foto al tuo cuscino e mandala a {par} con il nome che gli hai dato finché {par} non torna.",
+  "In videochiamata, mostra a {par} la cosa più strana che hai nel cassetto e inventaci sopra una storia."
+ ]
+}

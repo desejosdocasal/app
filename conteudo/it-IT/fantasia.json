@@ -1,0 +1,604 @@
+{
+ "fantasia": [
+  {
+   "titulo": "Chi l'ha offerto?",
+   "cena": "Un cocktail bar in penombra, venerdì sera. Due persone che non si sono mai viste dividono il bancone, e una offre da bere all'altra senza dire perché.",
+   "papel_voce": "Offri il drink e aspetti di vedere se nasce una conversazione.",
+   "papel_par": "{par} riceve il drink, sospetta qualcosa e decide di scoprire chi l'ha offerto."
+  },
+  {
+   "titulo": "L'ultimo appuntamento",
+   "cena": "Ultimo appuntamento della giornata in un centro massaggi. Luci basse, asciugamani caldi, e l'ora prenotata sembra troppo breve.",
+   "papel_voce": "Fai massaggi di mestiere e te la prendi con calma, chiedendo dove senti più tensione.",
+   "papel_par": "{par} ha prenotato per dimenticare una settimana intera."
+  },
+  {
+   "titulo": "Colloquio di lavoro",
+   "cena": "Sala riunioni, fine giornata. Il posto è conteso e il colloquio comincia serio, ma le domande escono sempre più dal copione.",
+   "papel_voce": "Conduci il colloquio e fai domande sempre meno professionali.",
+   "papel_par": "{par} vuole quel posto a tutti i costi e risponde con sicurezza, anche alle domande più strane."
+  },
+  {
+   "titulo": "Visita dal 1920",
+   "cena": "Una persona arriva dal 1920 e non capisce niente di telefoni, frigoriferi o app. Ma di corteggiamento all'antica se ne intende eccome.",
+   "papel_voce": "Vivi nel presente e devi spiegare il mondo moderno con pazienza.",
+   "papel_par": "{par} arriva dal passato e corteggia come si faceva cento anni fa."
+  },
+  {
+   "titulo": "Check-in a tarda notte",
+   "cena": "Piccolo albergo, le due di notte. C'è una sola persona alla reception, una sola camera libera, e la chiave non salta fuori.",
+   "papel_voce": "Lavori alla reception e non hai nessuna fretta di trovare la chiave.",
+   "papel_par": "{par} arriva da un lungo viaggio senza un briciolo di pazienza, ma l'umore cambia piano piano."
+  },
+  {
+   "titulo": "Servizio fotografico",
+   "cena": "Uno studio con il fondale bianco e una macchina fotografica. Le foto sono per un catalogo di moda, e ogni cambio d'abito dura più del precedente.",
+   "papel_voce": "Scatti le foto e dirigi ogni posa nei minimi dettagli.",
+   "papel_par": "{par} posa per le foto e ogni tanto disobbedisce apposta."
+  },
+  {
+   "titulo": "Rimpatriata di classe",
+   "cena": "Cena di classe del liceo, quindici anni dopo. Due persone che a scuola si parlavano appena finiscono allo stesso tavolo.",
+   "papel_voce": "Ricordi tutto di quegli anni e non fai niente per nasconderlo.",
+   "papel_par": "{par} fa finta di non ricordare niente, ma ricorda benissimo."
+  },
+  {
+   "titulo": "Missione segreta",
+   "cena": "Una serata di gala, una busta piena di segreti e due spie di agenzie rivali. Ognuna vuole la busta, e nessuna ha intenzione di andarsene.",
+   "papel_voce": "Hai un'identità falsa e devi prendere la busta senza destare sospetti.",
+   "papel_par": "{par} lavora per l'altra parte e sa benissimo chi sei."
+  },
+  {
+   "titulo": "Lezione di salsa",
+   "cena": "Lezione privata di ballo in salotto. Chi insegna è esigente e deve correggere la postura da vicino. Molto da vicino.",
+   "papel_voce": "Dai la lezione e correggi ogni passo con le mani.",
+   "papel_par": "{par} non ha mai ballato prima d'ora e sbaglia apposta per farsi correggere."
+  },
+  {
+   "titulo": "Un po' di zucchero",
+   "cena": "Qualcuno bussa per chiedere un po' di zucchero. È la terza volta in una settimana, e tutti sanno che lo zucchero non c'entra.",
+   "papel_voce": "Abiti nell'appartamento accanto e la scusa dello zucchero l'hai inventata tu.",
+   "papel_par": "{par} apre la porta e stavolta decide di farti entrare."
+  },
+  {
+   "titulo": "Match sull'app",
+   "cena": "Primo appuntamento nato su un'app di incontri. Le foto erano belle, la chat ancora meglio, e ora si vede se dal vivo funziona.",
+   "papel_voce": "Arrivi in anticipo e ripassi a mente cosa dire.",
+   "papel_par": "{par} arriva con dieci minuti di ritardo e una scusa molto creativa."
+  },
+  {
+   "titulo": "Il solito cappuccino",
+   "cena": "Il bar sotto casa. La stessa persona ordina lo stesso cappuccino ogni mattina, e oggi chi sta al bancone decide di scrivere qualcosa sullo scontrino.",
+   "papel_voce": "Lavori al bancone e scrivi un messaggio sfacciato sullo scontrino.",
+   "papel_par": "{par} passa ogni mattina e legge il messaggio lì, davanti a te."
+  },
+  {
+   "titulo": "Ritratto a olio",
+   "cena": "Uno studio di pittura al tramonto. Un ritratto su commissione, una poltrona e ore passate a fissare un'altra persona.",
+   "papel_voce": "Dipingi e devi studiare ogni dettaglio di {par}.",
+   "papel_par": "{par} posa e non può muoversi, per quanta voglia abbia."
+  },
+  {
+   "titulo": "Interrogatorio",
+   "cena": "Una stanza con una lampadina sola e qualcuno che ha visto tutto e sa più di quanto dica. La conversazione diventa una gara a chi cede prima.",
+   "papel_voce": "Conduci l'interrogatorio e cerchi di strappare la verità con il fascino.",
+   "papel_par": "{par} ha visto tutto e racconta quello che sa solo in cambio di qualcosa."
+  },
+  {
+   "titulo": "Allenamento privato",
+   "cena": "Primo allenamento privato a domicilio. Tanto stretching, conteggi ad alta voce e un aiuto con le posizioni che dura più del normale.",
+   "papel_voce": "Fai da personal trainer e prendi l'allenamento sul serio. O quasi.",
+   "papel_par": "{par} ha appena comprato il pacchetto di lezioni e vuole fare colpo fin dal primo giorno."
+  },
+  {
+   "titulo": "Ballo a palazzo",
+   "cena": "Ballo in maschera in un palazzo nobiliare. Una persona di sangue reale scappa dalla festa e si scontra con l'unica che non ha idea di chi sia.",
+   "papel_voce": "Hai sangue reale e vuoi una notte in cui nessuno lo sappia.",
+   "papel_par": "{par} lavora a palazzo e ti tratta come chiunque altro."
+  },
+  {
+   "titulo": "Cuccetta per due",
+   "cena": "Un treno notte che attraversa l'Europa. Due persone che si sono solo incrociate nel corridoio scoprono di dividere lo stesso scompartimento.",
+   "papel_voce": "Occupi lo scompartimento da un'ora e hai già scelto la cuccetta di sotto.",
+   "papel_par": "{par} entra con una valigia enorme e nessuna intenzione di dormire presto."
+  },
+  {
+   "titulo": "Isola deserta",
+   "cena": "Dopo un naufragio, due persone si svegliano su una spiaggia deserta. Ci sono noci di cocco, un falò e tutto il tempo del mondo.",
+   "papel_voce": "Sai accendere il fuoco e ci tieni a fartelo pagare.",
+   "papel_par": "{par} sa pescare e contratta ogni pesce con te."
+  },
+  {
+   "titulo": "Camerino",
+   "cena": "Fine concerto. La star della serata fa chiamare una persona del pubblico in camerino, e nessuno capisce bene perché.",
+   "papel_voce": "Hai appena finito il concerto e hai scelto {par} in mezzo alla folla.",
+   "papel_par": "{par} è fan da anni e prova a nascondere l'agitazione."
+  },
+  {
+   "titulo": "Degustazione alla cieca",
+   "cena": "Degustazione di vini a occhi chiusi. Ogni calice arriva con una domanda, e chi sbaglia il vitigno paga pegno.",
+   "papel_voce": "Guidi la degustazione e scegli le penitenze.",
+   "papel_par": "{par} assaggia a occhi chiusi e prova a indovinare ogni vino."
+  },
+  {
+   "titulo": "Gomma a terra",
+   "cena": "Un'auto ferma sulla corsia d'emergenza, una gomma a terra e il sole che tramonta. Qualcuno si ferma ad aiutare e il cambio gomma diventa una lunga chiacchierata.",
+   "papel_voce": "Ti fermi ad aiutare e di gomme sai tutto. O fai finta.",
+   "papel_par": "{par} ha l'auto in panne e ringrazia come può."
+  },
+  {
+   "titulo": "Silenzio, prego",
+   "cena": "Una biblioteca quasi vuota, poco prima della chiusura. Due persone vogliono lo stesso libro dell'ultimo scaffale, e lì non si può alzare la voce.",
+   "papel_voce": "Lavori in biblioteca e pretendi silenzio da tutti.",
+   "papel_par": "{par} vuole quel libro a ogni costo e tratta a bisbigli."
+  },
+  {
+   "titulo": "Stazione spaziale",
+   "cena": "Sei mesi su una stazione spaziale, nessun altro a bordo. La radio con la Terra è muta e non si sa quando tornerà.",
+   "papel_voce": "Comandi la missione e insisti nel seguire il protocollo.",
+   "papel_par": "{par} si occupa della parte scientifica e pensa che il protocollo possa aspettare."
+  },
+  {
+   "titulo": "Tortellini a mano",
+   "cena": "Lezione privata di pasta fresca. I tortellini si chiudono a mano, uno per uno, e chi insegna ci tiene a mostrare come si fa, da vicino.",
+   "papel_voce": "Tiri la sfoglia da una vita e la pasta fatta male ti fa perdere la pazienza.",
+   "papel_par": "{par} è lì per imparare e si distrae con tutto, tranne che con la pasta."
+  },
+  {
+   "titulo": "Suite sbagliata",
+   "cena": "Per un errore dell'albergo, due persone che si sono appena conosciute ricevono la suite per la luna di miele. Ora devono fingere di essere una coppia.",
+   "papel_voce": "Accetti di fingere solo per non perdere la suite vista mare.",
+   "papel_par": "{par} prende la recita fin troppo sul serio, con tua grande sorpresa."
+  },
+  {
+   "titulo": "Guardia medica",
+   "cena": "Guardia medica notturna quasi deserta, le tre di notte. Arriva una persona con un dolore che non sa spiegare bene, e la visita si allunga sempre di più.",
+   "papel_voce": "Sei di turno e prendi molto sul serio ogni sintomo.",
+   "papel_par": "{par} si presenta con un disturbo vago e inventa sintomi nuovi per allungare la visita."
+  },
+  {
+   "titulo": "Accesso negato",
+   "cena": "Un palazzo di uffici chiuso di notte. Una persona viene sorpresa in corridoio senza badge, e la vigilanza non crede a nessuna scusa.",
+   "papel_voce": "Fai la vigilanza notturna e non lasci uscire nessuno senza una spiegazione.",
+   "papel_par": "{par} si trova dove non dovrebbe e prova a negoziare l'uscita con il fascino."
+  },
+  {
+   "titulo": "Porta chiusa",
+   "cena": "Ufficio vuoto dopo l'orario di lavoro. Chi dirige il reparto convoca una persona del team per parlare del rendimento, a porta chiusa.",
+   "papel_voce": "Guidi il team e hai una lista di cose da contestare.",
+   "papel_par": "{par} lavora per te e ha argomenti molto convincenti per difendersi."
+  },
+  {
+   "titulo": "Un'ora di penitenza",
+   "cena": "Due persone hanno scommesso sul derby: chi perdeva avrebbe fatto tutto quello che l'altra ordinava, per un'ora. La partita è finita.",
+   "papel_voce": "Hai vinto la scommessa e hai già pronta una lista di richieste.",
+   "papel_par": "{par} ha perso e obbedisce a tutto, ma tratta su ogni punto della lista."
+  },
+  {
+   "titulo": "Rumore al piano di sopra",
+   "cena": "Mezzanotte, e il rumore nell'appartamento di sopra non smette. Una persona sale in pigiama a lamentarsi, e la chiacchierata sulla porta si allunga.",
+   "papel_voce": "Abiti al piano di sotto e sali a lamentarti con la faccia scura.",
+   "papel_par": "{par} abita di sopra, chiede scusa e ti invita a entrare per capire da dove arriva il rumore."
+  },
+  {
+   "titulo": "Francese in una settimana",
+   "cena": "Lezione privata di francese per un viaggio a Parigi tra una settimana. Chi insegna accetta solo risposte in francese, e chi impara sa dire solo sciocchezze.",
+   "papel_voce": "Dai la lezione e pretendi la pronuncia giusta di ogni parola.",
+   "papel_par": "{par} ha fretta di imparare e paga ogni errore con una penitenza."
+  },
+  {
+   "titulo": "Ultimo rilancio",
+   "cena": "Un'asta di beneficenza e un'opera che due persone vogliono a tutti i costi. Ogni rilancio arriva con una provocazione dall'altro lato della sala.",
+   "papel_voce": "Vuoi l'opera e rilanci solo per provocare.",
+   "papel_par": "{par} odia perdere e decide di trattare fuori dall'asta."
+  },
+  {
+   "titulo": "Un passaggio sotto la pioggia",
+   "cena": "Pioggia fitta e una fermata dell'autobus deserta. Un'auto accosta e offre un passaggio, e la strada diventa molto più lunga del solito.",
+   "papel_voce": "Guidi e scegli apposta la strada più lunga.",
+   "papel_par": "{par} sale in macchina grondando pioggia e vuole sapere perché hai accostato."
+  },
+  {
+   "titulo": "Scacco",
+   "cena": "Finale di un torneo di scacchi. A ogni pezzo perso, chi lo perde risponde a una domanda di chi l'ha mangiato, senza poter mentire.",
+   "papel_voce": "Difendi il titolo e giochi per intimidire.",
+   "papel_par": "{par} vuole il titolo e prova a deconcentrarti tra una mossa e l'altra."
+  },
+  {
+   "titulo": "La collana nella cassaforte",
+   "cena": "Una villa, una cassaforte e una collana preziosa. Il furto va storto, chi abita lì accende la luce, e ora c'è molto di cui parlare.",
+   "papel_voce": "Sei lì per rubare la collana e devi trovare un buon motivo per non far chiamare la polizia.",
+   "papel_par": "{par} abita nella villa e trova l'intrusione più interessante della collana."
+  },
+  {
+   "titulo": "Gate 23",
+   "cena": "Volo notturno cancellato e aeroporto quasi chiuso. Due persone restano al gate con una notte intera davanti.",
+   "papel_voce": "Viaggi per lavoro e hai accesso alla lounge.",
+   "papel_par": "{par} ha perso la coincidenza e accetta qualsiasi piano per far passare la notte più in fretta."
+  },
+  {
+   "titulo": "Non sei in lista",
+   "cena": "L'ingresso di una festa esclusiva. Il nome non è in lista, e chi controlla l'entrata può fare un'eccezione. Oppure no.",
+   "papel_voce": "Controlli la lista e fai eccezioni solo per un ottimo motivo.",
+   "papel_par": "{par} giura di essere in lista e deve dimostrare di meritarsi l'ingresso."
+  },
+  {
+   "titulo": "Dimostrazione gratuita",
+   "cena": "Suona il campanello: c'è chi vende porta a porta un prodotto miracoloso. La dimostrazione è lunga, piena di dettagli, e va fatta sul divano.",
+   "papel_voce": "Vendi il prodotto ed esageri ogni vantaggio.",
+   "papel_par": "{par} ha aperto la porta senza voler comprare niente, ma ha accettato di vedere la dimostrazione."
+  },
+  {
+   "titulo": "Un punto nascosto",
+   "cena": "Uno studio di tatuaggi poco prima della chiusura. Il disegno è piccolo, ma il punto scelto è molto nascosto.",
+   "papel_voce": "Tatui e chiedi di non muoversi per nessun motivo.",
+   "papel_par": "{par} fa il primo tatuaggio e ha scelto un punto audace."
+  },
+  {
+   "titulo": "Ancora un ciak",
+   "cena": "Provino per il ruolo da protagonista in un film romantico. La scena del provino è quella del primo bacio, e la regia chiede di ripeterla più volte.",
+   "papel_voce": "Dirigi il provino e la scena non ti convince mai.",
+   "papel_par": "{par} vuole la parte e mette in ogni ciak più trasporto."
+  },
+  {
+   "titulo": "Tre desideri",
+   "cena": "Una persona strofina una vecchia lampada presa al mercatino dell'usato ed ecco tre desideri. Chi esce dalla lampada ha regole tutte sue e un senso dell'umorismo discutibile.",
+   "papel_voce": "Esci dalla lampada e concedi i desideri a modo tuo, con le clausole scritte in piccolo.",
+   "papel_par": "{par} ha trovato la lampada e ci pensa bene prima di usare ogni desiderio."
+  },
+  {
+   "titulo": "Rifugio nel castello",
+   "cena": "Un castello antico, una creatura che non esce mai alla luce del sole e una visita che bussa chiedendo riparo dal temporale.",
+   "papel_voce": "Vivi nel castello da trecento anni e non ricevi visite da decenni.",
+   "papel_par": "{par} ha chiesto riparo e comincia a sospettare che entrare sia stato un errore."
+  },
+  {
+   "titulo": "Neanche un minuto",
+   "cena": "Una celebrità riceve minacce e assume una guardia del corpo. La regola è non allontanarsi mai, neanche per un minuto.",
+   "papel_voce": "Sei la guardia del corpo e prendi la regola alla lettera.",
+   "papel_par": "{par} è la celebrità e prova in continuazione a seminarti."
+  },
+  {
+   "titulo": "Ultima prova",
+   "cena": "Una sartoria, l'ultima prova prima della festa. L'abito ha bisogno di ritocchi, e ogni spillo richiede molta attenzione.",
+   "papel_voce": "Cuci e prendi le misure con tutta la calma del mondo.",
+   "papel_par": "{par} ha fretta e si lamenta di ogni spillo, ma non si muove di lì."
+  },
+  {
+   "titulo": "Appuntamento al buio",
+   "cena": "Un appuntamento al buio organizzato da amici in comune. A tutte e due le persone hanno detto che l'altra ha qualcosa di strano.",
+   "papel_voce": "Arrivi con qualche sospetto e metti alla prova {par} con domande assurde.",
+   "papel_par": "{par} ha portato una lista di domande per scoprire cosa ci sia di strano in te."
+  },
+  {
+   "titulo": "Servizio in camera",
+   "cena": "Albergo di lusso, le undici di sera. L'ordinazione dalla camera è strana, e chi porta il vassoio muore dalla curiosità di sapere chi l'ha fatta.",
+   "papel_voce": "Porti il servizio in camera e te la prendi comoda prima di andartene.",
+   "papel_par": "{par} ha fatto quell'ordinazione apposta e ne spiega il motivo molto lentamente."
+  },
+  {
+   "titulo": "Il matrimonio degli amici",
+   "cena": "Due persone che stavano insieme all'università si ritrovano al matrimonio di amici comuni. Lì nessuno sa che tra loro c'è stata una storia.",
+   "papel_voce": "Vuoi sapere perché è finita e lo chiedi al primo ballo.",
+   "papel_par": "{par} giura di averci messo una pietra sopra, ma accetta il ballo fin troppo in fretta."
+  },
+  {
+   "titulo": "Numero sbagliato",
+   "cena": "Un messaggio piccante è finito al numero sbagliato. Chi l'ha ricevuto ha deciso di rispondere, e ora le due persone sono faccia a faccia.",
+   "papel_voce": "Hai mandato il messaggio per sbaglio e cerchi di chiarire l'equivoco.",
+   "papel_par": "{par} ha ricevuto il messaggio e vuole sapere se dicevi sul serio."
+  },
+  {
+   "titulo": "Prima dell'immersione",
+   "cena": "Lezione di sub su una spiaggia da cartolina. Prima di entrare in acqua bisogna indossare muta e bombole, e qualcuno aiuta con ogni chiusura.",
+   "papel_voce": "Dai la lezione e controlli ogni fibbia con molta cura.",
+   "papel_par": "{par} ha paura del mare e ha bisogno di tanta fiducia per entrare."
+  },
+  {
+   "titulo": "Ritratto per dieci euro",
+   "cena": "Una piazza di Parigi al tramonto. Chi fa ritratti per dieci euro decide di farne uno gratis, a una condizione.",
+   "papel_voce": "Fai ritratti in piazza e detti la condizione.",
+   "papel_par": "{par} è in vacanza e accetta la condizione prima di sapere qual è."
+  },
+  {
+   "titulo": "Cosa dicono le carte",
+   "cena": "Una tenda a lume di candela, un mazzo di tarocchi e una persona che vuole sapere del suo futuro in amore. Le carte dicono cose sempre più precise.",
+   "papel_voce": "Leggi le carte e inventi previsioni audaci.",
+   "papel_par": "{par} è lì per curiosità e comincia a crederci davvero."
+  },
+  {
+   "titulo": "Qualcuno nella stiva",
+   "cena": "Una nave pirata assalta un mercantile. Nel caos, chi comanda i pirati trova una persona nascosta nella stiva.",
+   "papel_voce": "Sei a capo dei pirati e decidi la sorte di chi sta nella stiva.",
+   "papel_par": "{par} si nasconde nella stiva e prova a convincerti a non buttare nessuno in mare."
+  },
+  {
+   "titulo": "Tavolo da poker",
+   "cena": "Un saloon del vecchio West. Una persona forestiera entra, si siede al tavolo da poker e sfida chi non ha mai perso una partita.",
+   "papel_voce": "Non hai mai perso a poker e non hai intenzione di cominciare stasera.",
+   "papel_par": "{par} è in città da oggi e punta troppo alto."
+  },
+  {
+   "titulo": "Banchetto a Roma",
+   "cena": "Roma antica, un banchetto nella domus di una famiglia potente. Uva, cuscini e una persona invitata che nessuno sa da dove arrivi.",
+   "papel_voce": "Offri il banchetto e vuoi scoprire chi sia la persona misteriosa.",
+   "papel_par": "{par} è lì senza invito e deve reggere la bugia fino a fine serata."
+  },
+  {
+   "titulo": "Pista al neon",
+   "cena": "Festa a tema anni Ottanta, musicassette e luci al neon. Due persone si contendono il centro della pista con la stessa coreografia.",
+   "papel_voce": "Conosci ogni passo a memoria e non hai intenzione di dividere la pista.",
+   "papel_par": "{par} copia ogni tuo passo e ne aggiunge pure uno suo."
+  },
+  {
+   "titulo": "Lettere del 1955",
+   "cena": "Anni Cinquanta. Due persone che si scrivono da mesi stanno per vedersi per la prima volta in una stazione.",
+   "papel_voce": "Hai scritto le lettere più audaci e ora devi essere all'altezza di ogni parola.",
+   "papel_par": "{par} ha portato le lettere e legge ad alta voce i passaggi più sfacciati."
+  },
+  {
+   "titulo": "Visita all'appartamento",
+   "cena": "Visita a un appartamento in vendita. Chi lo mostra ci tiene a presentare ogni stanza, soprattutto la camera da letto.",
+   "papel_voce": "Vendi l'appartamento e descrivi ogni angolo con cura.",
+   "papel_par": "{par} vuole comprare, ma pretende di provare tutto prima di firmare."
+  },
+  {
+   "titulo": "Capitolo bloccato",
+   "cena": "Una persona scrive romanzi rosa e si è bloccata sul capitolo più bollente. Per sbloccarsi, le serve qualcuno che reciti le battute.",
+   "papel_voce": "Scrivi il libro e dirigi ogni battuta, ogni pausa.",
+   "papel_par": "{par} ha accettato di aiutare e improvvisa ben oltre il copione."
+  },
+  {
+   "titulo": "Shampoo e relax",
+   "cena": "Un salone vuoto, martedì mattina. Lo shampoo richiede tempo, e chi lo fa sa esattamente dove massaggiare.",
+   "papel_voce": "Ti occupi dei capelli e non hai nessuna fretta.",
+   "papel_par": "{par} è qui per la prima volta e chiude gli occhi appena appoggia la testa."
+  },
+  {
+   "titulo": "Bivacco in quota",
+   "cena": "Bufera di neve in alta montagna. Il soccorso alpino trova una persona dispersa, ma con questo tempo si scende solo domani: la notte si passa in due, in un bivacco minuscolo.",
+   "papel_voce": "Sei del soccorso alpino e sai che l'unico modo per non congelare è stare a stretto contatto.",
+   "papel_par": "{par} ha perso il sentiero e ringrazia per ogni coperta. E per ogni abbraccio."
+  },
+  {
+   "titulo": "Caletta nascosta",
+   "cena": "Una barca a noleggio per un giorno, lungo la costa sarda. A bordo ci sono solo chi guida e chi ha noleggiato, e il mare è troppo calmo per rientrare presto.",
+   "papel_voce": "Porti la barca e conosci una caletta che non è sulle mappe.",
+   "papel_par": "{par} ha noleggiato la gita e vuole vedere tutto quello che è compreso."
+  },
+  {
+   "titulo": "Agriturismo nelle Langhe",
+   "cena": "Un agriturismo nelle Langhe, una notte di nebbia, il camino acceso e una sola prenotazione sul registro. Chi gestisce il posto versa il vino e si siede a chiacchierare.",
+   "papel_voce": "Gestisci l'agriturismo e conosci tutte le storie della zona.",
+   "papel_par": "{par} viaggia senza compagnia per riposare e non si aspettava tanta conversazione."
+  },
+  {
+   "titulo": "La stessa promozione",
+   "cena": "Due persone si contendono la stessa promozione da mesi. Alla festa aziendale finiscono da sole sul terrazzo, senza pubblico.",
+   "papel_voce": "Pensi che la promozione sia tua e glielo dici in faccia.",
+   "papel_par": "{par} la pensa all'opposto e propone di risolverla in un altro modo."
+  },
+  {
+   "titulo": "Primo contatto",
+   "cena": "Un'astronave atterra in giardino. Chi arriva da un altro pianeta vuole capire le usanze della Terra, a partire dal bacio.",
+   "papel_voce": "Sei la prima persona della Terra a stabilire un contatto e devi spiegare tutto con la pratica.",
+   "papel_par": "{par} arriva da un altro pianeta e vuole imparare ogni usanza con una dimostrazione."
+  },
+  {
+   "titulo": "Manuale perso",
+   "cena": "È arrivato a casa un assistente robotico di ultima generazione, che esegue qualsiasi comando vocale. Solo che il manuale è sparito.",
+   "papel_voce": "Hai comprato l'assistente e provi i comandi uno per uno.",
+   "papel_par": "{par} fa il robot, esegue tutto alla lettera e ogni tanto va in tilt."
+  },
+  {
+   "titulo": "Il pallone di là",
+   "cena": "Una casa al mare in affitto e, oltre la siepe, qualcuno che prende il sole tutti i giorni alla stessa ora. Oggi il pallone è finito di là.",
+   "papel_voce": "Hai fatto cadere il pallone di là apposta e vai a riprenderlo.",
+   "papel_par": "{par} prende il pallone e lo restituisce solo dopo una bella chiacchierata."
+  },
+  {
+   "titulo": "Serata d'inaugurazione",
+   "cena": "Un ristorante elegante la sera dell'inaugurazione. Al tavolo d'angolo siede la penna più temuta della città.",
+   "papel_voce": "Cucini ed esci dalla cucina per servire il piatto di persona.",
+   "papel_par": "{par} scrive le recensioni e non fa complimenti facili a nessuno."
+  },
+  {
+   "titulo": "Mani nell'argilla",
+   "cena": "Un laboratorio di ceramica, il tornio che gira e le mani sporche d'argilla. Chi insegna si mette alle spalle di chi impara e ne guida le mani.",
+   "papel_voce": "Dai la lezione e guidi ogni movimento da dietro.",
+   "papel_par": "{par} non ha mai toccato l'argilla e fa crollare il vaso apposta."
+  },
+  {
+   "titulo": "Duetto a sorpresa",
+   "cena": "Karaoke pieno, un giovedì sera. Due persone che non si conoscono vengono estratte a sorte per cantare un duetto romantico.",
+   "papel_voce": "Canti bene e prendi il duetto molto sul serio.",
+   "papel_par": "{par} canta malissimo e compensa con l'interpretazione."
+  },
+  {
+   "titulo": "Tra due piani",
+   "cena": "L'ascensore del palazzo si è fermato tra due piani. Il citofono non funziona e la manutenzione arriva tra un'ora.",
+   "papel_voce": "Hai il terrore dei posti chiusi e ti serve una distrazione, subito.",
+   "papel_par": "{par} mantiene la calma e ha qualche idea su come far passare il tempo."
+  },
+  {
+   "titulo": "Fuori programma",
+   "cena": "Una visita privata di Venezia, la sera. Chi fa da guida conosce ogni calle, e il percorso ufficiale viene abbandonato poco a poco.",
+   "papel_voce": "Fai da guida e porti {par} nei posti che le guide turistiche non citano.",
+   "papel_par": "{par} è in vacanza e vuole vedere tutto quello che non è nel programma."
+  },
+  {
+   "titulo": "Tela vivente",
+   "cena": "Un festival di body painting. Chi dipinge ha due ore per trasformare la pelle di qualcuno in un'opera d'arte.",
+   "papel_voce": "Dipingi e scegli dove va ogni pennellata.",
+   "papel_par": "{par} fa da tela e soffre il solletico in punti inaspettati."
+  },
+  {
+   "titulo": "Fortuna alla roulette",
+   "cena": "Il tavolo della roulette al casinò di Sanremo, le tre di notte. Chi sta vincendo tutto decide di dividere la fortuna con una persona mai vista prima.",
+   "papel_voce": "Non smetti di vincere e vuoi compagnia per festeggiare.",
+   "papel_par": "{par} ha perso quasi tutto e accetta qualsiasi scommessa per rifarsi."
+  },
+  {
+   "titulo": "Alla sbarra",
+   "cena": "Un tribunale improvvisato in salotto. L'accusa: aver rubato il cuore di qualcuno senza chiedere il permesso.",
+   "papel_voce": "Presiedi il processo e decidi la pena.",
+   "papel_par": "{par} siede al banco degli imputati e cura la propria difesa, con molto fascino."
+  },
+  {
+   "titulo": "Un favore alla corona",
+   "cena": "Un castello medievale, un trono e una persona della corte che ha perso una sfida e ora deve un favore a chi regna.",
+   "papel_voce": "Regni sul castello e riscuoti il favore come ti pare.",
+   "papel_par": "{par} fa parte della corte ed esegue l'ordine, ma a modo suo."
+  },
+  {
+   "titulo": "Pedinamento",
+   "cena": "Una persona è stata pagata per pedinarne un'altra e si è fatta scoprire. Il confronto avviene in un vicolo buio, o in cucina, va bene uguale.",
+   "papel_voce": "Hai pedinato {par} per giorni e la tua copertura è appena saltata.",
+   "papel_par": "{par} ha capito chi c'era alle sue costole e vuole sapere chi ha pagato."
+  },
+  {
+   "titulo": "Era solo una torta",
+   "cena": "Qualcuno chiama i vigili del fuoco per il fumo in cucina. Era solo una torta bruciata, ma la squadra è già sul posto.",
+   "papel_voce": "Rispondi alla chiamata e ci tieni a fare un controllo completo della casa.",
+   "papel_par": "{par} ha bruciato la torta e prova a spiegare che va tutto bene, senza molta convinzione."
+  },
+  {
+   "titulo": "Voto di silenzio",
+   "cena": "Un ritiro di meditazione dove è vietato parlare per tre giorni. Due persone nella stessa stanza comunicano solo con gesti e sguardi.",
+   "papel_voce": "Prendi il voto sul serio e rispondi a tutto solo con i gesti.",
+   "papel_par": "{par} le prova tutte per farti rompere il silenzio."
+  },
+  {
+   "titulo": "Esame domani",
+   "cena": "Lezione di guida con l'auto ferma in garage. L'esame della patente è domani, e chi insegna ha finito la pazienza.",
+   "papel_voce": "Insegni a guidare e correggi perfino la posizione delle mani sul volante.",
+   "papel_par": "{par} ha l'esame domani e non riesce a smettere di distrarsi."
+  },
+  {
+   "titulo": "Notte al museo",
+   "cena": "Un museo chiuso al pubblico. Chi ci lavora fa una visita privata dopo l'orario, solo con una torcia, e ogni opera ha una storia da raccontare.",
+   "papel_voce": "Lavori al museo e racconti la storia più piccante di ogni quadro.",
+   "papel_par": "{par} ha vinto la visita e vuole toccare proprio tutto quello che non si può toccare."
+  },
+  {
+   "titulo": "Fiori senza biglietto",
+   "cena": "Arriva un mazzo di fiori senza biglietto. Chi fa la consegna si ferma ad aiutare a scoprire chi l'ha mandato, e i sospetti cambiano direzione.",
+   "papel_voce": "Consegni i fiori e, in realtà, li hai mandati tu.",
+   "papel_par": "{par} riceve il mazzo e comincia a fare domande sospettose."
+  },
+  {
+   "titulo": "Cane in prestito",
+   "cena": "Un parco, la domenica. Una persona si è fatta prestare il cane dai vicini solo per attaccare bottone con chi passeggia lì ogni giorno.",
+   "papel_voce": "Non hai nemmeno un cane e ti inventi storie su di lui.",
+   "papel_par": "{par} di cani se ne intende e scopre la bugia in due minuti."
+  },
+  {
+   "titulo": "Dedica",
+   "cena": "Presentazione di un libro in libreria. Chi l'ha scritto firma le copie, e l'ultima persona in fila vuole più di un autografo.",
+   "papel_voce": "Hai scritto il libro e vuoi sapere cosa pensa {par} del capitolo proibito.",
+   "papel_par": "{par} ha letto il libro tre volte e conosce a memoria le parti più spinte."
+  },
+  {
+   "titulo": "Tavolo di gala",
+   "cena": "Serata di gala su una nave da crociera. Due persone senza compagnia dividono lo stesso tavolo e la stessa bottiglia di prosecco.",
+   "papel_voce": "Hai prenotato la crociera per scappare dalla routine e vuoi vivere una settimana diversa.",
+   "papel_par": "{par} è alla decima crociera e conosce ogni angolo nascosto della nave."
+  },
+  {
+   "titulo": "Scalo a New York",
+   "cena": "Un equipaggio in scalo per una notte a New York. Due persone dell'equipaggio hanno la camera sullo stesso piano dell'albergo.",
+   "papel_voce": "Piloti l'aereo e proponi una cena solo per due.",
+   "papel_par": "{par} lavora in cabina e dice che c'è una regola contro queste cose. Per ora."
+  },
+  {
+   "titulo": "Una moneta, un movimento",
+   "cena": "In piazza c'è una statua vivente che si muove solo quando qualcuno lascia una moneta. Ogni moneta vale un movimento diverso.",
+   "papel_voce": "Hai la tasca piena di monete e scegli cosa chiedere con ognuna.",
+   "papel_par": "{par} fa la statua e può muoversi solo quando riceve una moneta."
+  },
+  {
+   "titulo": "La prenotazione è mia",
+   "cena": "Ristorante pieno e un solo tavolo libero. Due persone arrivano nello stesso momento giurando di aver prenotato.",
+   "papel_voce": "Giuri che la prenotazione è tua e non ti sposti di un millimetro.",
+   "papel_par": "{par} propone di dividere il tavolo, giusto per vedere come va a finire."
+  },
+  {
+   "titulo": "Traccia trovata",
+   "cena": "Un attacco informatico ha colpito un'azienda, e chi si occupa della sicurezza ha seguito la traccia fino a un indirizzo. Ora bussa alla porta.",
+   "papel_voce": "Ti occupi della sicurezza dell'azienda e ti presenti di persona a chiedere spiegazioni.",
+   "papel_par": "{par} ha violato il sistema e ha una proposta per chiudere la faccenda senza polizia."
+  },
+  {
+   "titulo": "Camera sbagliata",
+   "cena": "In un albergo, la chiave apre la porta della camera sbagliata. Dentro, qualcuno esce in quel momento dalla doccia.",
+   "papel_voce": "Sei in camera, in accappatoio, e non urli. Chiedi soltanto che cosa ci faccia lì.",
+   "papel_par": "{par} ha sbagliato camera e deve spiegare l'equivoco senza balbettare."
+  },
+  {
+   "titulo": "Lezioni di seduzione",
+   "cena": "Una persona paga un corso privato per imparare a sedurre. La prima lezione è pratica, e chi insegna fa da bersaglio.",
+   "papel_voce": "Tieni il corso e dai un voto da zero a dieci a ogni tentativo di abbordaggio.",
+   "papel_par": "{par} paga il corso e prova le peggiori frasi da rimorchio del mondo prima di azzeccarne una."
+  },
+  {
+   "titulo": "Assaggia il cocktail",
+   "cena": "Corso di mixology, lezione privata. Ogni cocktail va assaggiato da chi insegna, e nessuno ci riesce al primo colpo.",
+   "papel_voce": "Insegni e assaggi ogni cocktail con l'aria di chi è difficile da accontentare.",
+   "papel_par": "{par} prepara i cocktail e ci mette più fascino che precisione."
+  },
+  {
+   "titulo": "Solo per annaffiare le piante",
+   "cena": "Una persona parte e lascia le chiavi a chi abita nel palazzo, per annaffiare le piante. Solo che rientra un giorno prima e trova quella persona nella vasca da bagno.",
+   "papel_voce": "Dovevi solo annaffiare le piante, ma la vasca ti ha tentato un po' troppo.",
+   "papel_par": "{par} rientra prima dal viaggio e decide come fartela pagare."
+  },
+  {
+   "titulo": "Una proposta dal lato oscuro",
+   "cena": "Chi protegge la città riesce finalmente a mettere all'angolo chi da anni manda all'aria i suoi piani. Ma lo scontro diventa una conversazione fin troppo lunga.",
+   "papel_voce": "Proteggi la città e hai giurato di mandare all'aria i piani di {par}.",
+   "papel_par": "{par} sta dalla parte dei cattivi e fa una proposta difficile da rifiutare."
+  },
+  {
+   "titulo": "Confessionale",
+   "cena": "Un reality show, notte fonda nel confessionale. Chi partecipa parla alla telecamera, e la produzione fa domande sempre più indiscrete.",
+   "papel_voce": "Lavori in produzione e fai le domande da dietro la telecamera.",
+   "papel_par": "{par} è nel cast del reality e confessa quello che non ha mai detto dentro la casa."
+  },
+  {
+   "titulo": "Metà della mappa",
+   "cena": "Due persone hanno due metà diverse della stessa mappa del tesoro. Nessuna delle due trova niente senza l'altra.",
+   "papel_voce": "Hai la metà di sopra della mappa e vuoi sapere quanto costa l'altra.",
+   "papel_par": "{par} ha la metà di sotto e la mostra solo in cambio di qualcosa."
+  },
+  {
+   "titulo": "Tenda per due",
+   "cena": "Campeggio in montagna e una tenda dove, alla fine, c'è posto per due solo a stretto contatto. Fuori, freddo e grilli.",
+   "papel_voce": "Hai piantato la tenda e giuri che sulla scatola sembrava più grande.",
+   "papel_par": "{par} ha accettato di dividerla e si lamenta dello spazio, ma non si allontana di un centimetro."
+  },
+  {
+   "titulo": "Apri la tenda",
+   "cena": "Un negozio di abbigliamento poco prima della chiusura. Chi lavora lì porta un capo dopo l'altro in camerino, e un parere sincero è obbligatorio.",
+   "papel_voce": "Lavori in negozio e dici la tua su ogni capo.",
+   "papel_par": "{par} prova tutto e chiede un parere aprendo la tenda ogni volta."
+  },
+  {
+   "titulo": "L'iscrizione nella tomba",
+   "cena": "Uno scavo in Egitto, una tomba appena aperta e un'iscrizione che promette un legame eterno a chi entra in coppia.",
+   "papel_voce": "Guidi lo scavo e non credi alle maledizioni.",
+   "papel_par": "{par} ha tradotto l'iscrizione e pensa che la maledizione sia già cominciata."
+  },
+  {
+   "titulo": "Linea aperta",
+   "cena": "Un programma radio notturno, linea aperta agli ascoltatori. Chi chiama vuole dedicare una canzone e finisce per raccontare un segreto in diretta.",
+   "papel_voce": "Conduci il programma e fai domande che in onda non si dovrebbero fare.",
+   "papel_par": "{par} ha chiamato per una dedica e decide di raccontare tutto."
+  },
+  {
+   "titulo": "Pacco scambiato",
+   "cena": "In portineria hanno scambiato i pacchi di due appartamenti, e il contenuto di quello sbagliato è molto intimo. È ora di restituirlo.",
+   "papel_voce": "Hai aperto il pacco senza volerlo e vai a restituirlo, morendo di curiosità.",
+   "papel_par": "{par} ha fatto l'acquisto e prova a mantenere un certo contegno mentre lo ritira."
+  }
+ ]
+}

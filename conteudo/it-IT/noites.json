@@ -1,0 +1,1004 @@
+{
+ "noites": [
+  {
+   "titulo": "Cena a lume di candela",
+   "passos": [
+    "Apparecchiate la tavola con le cose più belle che avete in casa.",
+    "Spegnete la TV e lasciate i telefoni in un'altra stanza.",
+    "Cucinate insieme un piatto di pasta semplice, senza complicarvi la vita.",
+    "A tavola, raccontatevi il momento più bello della settimana."
+   ],
+   "fase": 1
+  },
+  {
+   "titulo": "L'album dei ricordi",
+   "passos": [
+    "Tirate fuori le vostre vecchie foto, sul telefono o stampate.",
+    "Sceglietene dieci e raccontate la storia che c'è dietro a ognuna.",
+    "Trovate la foto più buffa e rifate la stessa posa.",
+    "Sceglietene una da stampare e attaccare sul frigo."
+   ],
+   "fase": 1
+  },
+  {
+   "titulo": "Cinema in casa",
+   "passos": [
+    "Scegliete un film che non avete mai visto, senza leggere la trama.",
+    "Preparate i popcorn come piacciono a voi, in una ciotola sola.",
+    "Fate un nido di cuscini e coperte sul divano.",
+    "Alla fine, date un voto da zero a dieci e difendetelo."
+   ],
+   "fase": 1
+  },
+  {
+   "titulo": "Picnic in salotto",
+   "passos": [
+    "Stendete una tovaglia sul pavimento del salotto.",
+    "Preparate un tagliere con formaggi, salumi, frutta e quello che trovate in frigo.",
+    "Mettete una playlist con le canzoni che hanno segnato la vostra storia.",
+    "Sdraiatevi sulla tovaglia e parlate dei progetti per l'anno prossimo."
+   ],
+   "fase": 1
+  },
+  {
+   "titulo": "La serata delle lettere",
+   "passos": [
+    "Scrivetevi una lettera a mano, una a testa, con calma.",
+    "Scambiatevi le lettere e leggetele in silenzio.",
+    "Poi leggete ad alta voce il passaggio preferito della lettera ricevuta.",
+    "Conservatele tutte e due in una scatola che è solo vostra."
+   ],
+   "fase": 1
+  },
+  {
+   "titulo": "Karaoke a due",
+   "passos": [
+    "Fate una lista delle canzoni che cantate in macchina.",
+    "Sceglietevi a vicenda la canzone da cantare, senza diritto di rifiuto.",
+    "Un giro si canta guardandosi negli occhi.",
+    "Chi stona di più sceglie il dolce."
+   ],
+   "fase": 1
+  },
+  {
+   "titulo": "Viaggio senza uscire di casa",
+   "passos": [
+    "Tirate a sorte un Paese che sognate di vedere.",
+    "Cucinate un piatto tipico di lì, anche se non viene perfetto.",
+    "Mettete musica di quel Paese e guardatevi le sue foto più belle.",
+    "Progettate quel viaggio sul serio, con tanto di date."
+   ],
+   "fase": 1
+  },
+  {
+   "titulo": "Il primo appuntamento",
+   "passos": [
+    "Fate finta che sia il vostro primo appuntamento.",
+    "Fatevi le classiche domande da primo appuntamento.",
+    "Magari scoprite una risposta nuova, anche dopo anni.",
+    "Chiudete con il bacio della buonanotte davanti alla porta di casa."
+   ],
+   "fase": 1
+  },
+  {
+   "titulo": "Partita con penitenza",
+   "passos": [
+    "Prendete un gioco da tavolo o un mazzo di carte che avete in casa.",
+    "Prima di cominciare, scrivete tre penitenze a testa su un foglietto.",
+    "Chi perde la partita pesca una delle penitenze di chi ha vinto.",
+    "L'ultima partita vale doppia penitenza."
+   ],
+   "fase": 1
+  },
+  {
+   "titulo": "Spa in casa",
+   "passos": [
+    "Preparate un asciugamano caldo, una crema e una musica rilassante.",
+    "Stendetevi a vicenda una maschera sul viso, con delicatezza.",
+    "Fate a turno un massaggio alle mani e ai piedi.",
+    "Finite con un lungo bagno, insieme o a turno."
+   ],
+   "fase": 1
+  },
+  {
+   "titulo": "Dolce a quattro mani",
+   "passos": [
+    "Scegliete un dolce che si prepara in un'ora: un tiramisù, una crostata, una panna cotta.",
+    "Dividetevi i compiti, ma assaggiate tutto insieme.",
+    "Ogni cucchiaino che vi imboccate vale un complimento.",
+    "Mangiatelo direttamente dalla teglia, sul divano."
+   ],
+   "fase": 2
+  },
+  {
+   "titulo": "Si balla in salotto",
+   "passos": [
+    "Spostate i mobili e fate spazio in mezzo al salotto.",
+    "Cominciate con una canzone movimentata per sciogliervi.",
+    "Passate ai lenti, guancia a guancia.",
+    "All'ultima canzone, nessuno parla."
+   ],
+   "fase": 2
+  },
+  {
+   "titulo": "Sotto le stelle",
+   "passos": [
+    "Andate sul balcone o aprite la finestra della camera.",
+    "Spegnete tutte le luci di casa.",
+    "Guardate il cielo abbracciandovi, sotto una coperta.",
+    "Raccontatevi un sogno rimasto finora segreto."
+   ],
+   "fase": 2
+  },
+  {
+   "titulo": "La lista dei desideri",
+   "passos": [
+    "Prendete carta e penna, un foglio solo per voi.",
+    "Scrivete venti cose che volete vivere come coppia.",
+    "Segnatene tre da fare entro quest'anno.",
+    "Mettete la lista in un posto dove la vedrete sempre."
+   ],
+   "fase": 2
+  },
+  {
+   "titulo": "Bagno con la schiuma",
+   "passos": [
+    "Preparate la vasca o una doccia calda con le luci basse.",
+    "Scegliete un profumo: una candela, un olio, un bagnoschiuma diverso dal solito.",
+    "Lavatevi i capelli a vicenda, piano.",
+    "Dal bagno si va dritto a letto, solo in asciugamano."
+   ],
+   "fase": 2
+  },
+  {
+   "titulo": "Massaggio con l'olio",
+   "passos": [
+    "Scaldate l'olio tra le mani prima di cominciare.",
+    "Una persona si sdraia e l'altra la massaggia per quindici minuti.",
+    "Chi riceve può dire solo tre cose: più forte, più piano, lì.",
+    "Scambiatevi di posto e ricominciate, senza nessuna fretta."
+   ],
+   "fase": 2
+  },
+  {
+   "titulo": "Obbligo o verità",
+   "passos": [
+    "Aprite Obbligo o verità al livello più leggero.",
+    "Ogni cinque carte, salite di un livello.",
+    "Chi salta una carta paga con un bacio, dove sceglie l'altra persona.",
+    "Fermatevi quando la voglia di giocare passa in secondo piano."
+   ],
+   "fase": 2
+  },
+  {
+   "titulo": "A occhi chiusi",
+   "passos": [
+    "Una persona si copre gli occhi con un foulard o una fascia.",
+    "L'altra le fa assaggiare cinque sapori diversi.",
+    "Poi cinque carezze diverse, in punti diversi.",
+    "Scambiatevi i ruoli e vedete chi indovina di più."
+   ],
+   "fase": 2
+  },
+  {
+   "titulo": "Sfilata privata",
+   "passos": [
+    "Scegliete tre capi a testa che piacciono all'altra persona.",
+    "Fate una sfilata in salotto, con tanto di musica.",
+    "Chi guarda dà un voto e può chiedere il bis.",
+    "L'ultimo capo lo sceglie chi sta guardando."
+   ],
+   "fase": 2
+  },
+  {
+   "titulo": "La serata del mai",
+   "passos": [
+    "Scrivete tre cose che non avete mai fatto come coppia.",
+    "Leggetele ad alta voce e guardate cosa coincide.",
+    "Sceglietene una da fare stasera stessa.",
+    "Tenete le altre per le prossime serate."
+   ],
+   "fase": 2
+  },
+  {
+   "titulo": "Una domanda, un indumento",
+   "passos": [
+    "Fatevi domande piccanti, una alla volta.",
+    "Chi non vuole rispondere si toglie un indumento.",
+    "Le risposte troppo corte non valgono.",
+    "Finisce quando qualcuno resta senza vestiti o senza coraggio."
+   ],
+   "fase": 3
+  },
+  {
+   "titulo": "I dadi della fortuna",
+   "passos": [
+    "Aprite i dadi dell'app o fatene due di carta.",
+    "Un dado dice l'azione: bacio, carezza, morso, sussurro.",
+    "L'altro dice dove. Vale ogni posto, tranne il più ovvio.",
+    "Ogni giro dura trenta secondi di cronometro."
+   ],
+   "fase": 3
+  },
+  {
+   "titulo": "Un messaggio sullo specchio",
+   "passos": [
+    "Di giorno, chi comincia lascia un messaggio audace sullo specchio del bagno.",
+    "La sera, chi l'ha letto deve fare quello che c'era scritto.",
+    "Poi la risposta va sullo stesso specchio.",
+    "I messaggi si cancellano solo il giorno dopo."
+   ],
+   "fase": 3
+  },
+  {
+   "titulo": "Ghiaccio e tè caldo",
+   "passos": [
+    "Preparate un bicchiere di ghiaccio e una tazza di tè tiepido.",
+    "Una persona si sdraia a occhi chiusi.",
+    "L'altra alterna baci freddi e baci caldi su tutto il corpo.",
+    "Fate cambio quando nessuno resiste più."
+   ],
+   "fase": 3
+  },
+  {
+   "titulo": "Fantasia a sorte",
+   "passos": [
+    "Aprite la modalità Fantasia e tirate a sorte uno scenario.",
+    "Leggete la scena e decidete un segnale per fermarvi.",
+    "Mettetevi addosso qualcosa che aiuti a entrare nella parte.",
+    "Restate nella parte finché la scena non finisce da sola."
+   ],
+   "fase": 3
+  },
+  {
+   "titulo": "L'asta dei desideri",
+   "passos": [
+    "Partite con venti gettoni a testa. Vanno bene anche dei fagioli secchi.",
+    "Scrivete dei desideri su foglietti e metteteli all'asta.",
+    "Chi fa l'offerta più alta si aggiudica il desiderio subito.",
+    "I gettoni avanzati diventano credito per la prossima serata."
+   ],
+   "fase": 3
+  },
+  {
+   "titulo": "Solo con gli occhi",
+   "passos": [
+    "Sedetevi faccia a faccia, a un palmo di distanza.",
+    "Per cinque minuti, niente mani. Solo sguardi e parole.",
+    "Raccontatevi nei dettagli cosa volete fare dopo.",
+    "Allo scadere del tempo, la prima carezza spetta a chi ha parlato meglio."
+   ],
+   "fase": 3
+  },
+  {
+   "titulo": "Chi comanda stasera",
+   "passos": [
+    "Fate pari o dispari per decidere chi comanda stasera.",
+    "Chi vince dà gli ordini per venti minuti, sempre con dolcezza.",
+    "Chi obbedisce può usare una parola di sicurezza in qualsiasi momento.",
+    "La prossima volta, i ruoli si invertono."
+   ],
+   "fase": 3
+  },
+  {
+   "titulo": "Suite per una notte",
+   "passos": [
+    "Trasformate la camera: luci basse colorate, lenzuola pulite, profumo nell'aria.",
+    "Fate finta di entrarci per la prima volta.",
+    "Per i primi quindici minuti il letto è vietato.",
+    "Dopo, la notte è tutta vostra."
+   ],
+   "fase": 3
+  },
+  {
+   "titulo": "Il bilancio del mese",
+   "passos": [
+    "Ripensate alle serate del mese e scegliete la vostra preferita, una a testa.",
+    "Rifate la preferita, uguale a com'era o più audace.",
+    "Parlate di cosa è cambiato tra voi in questo mese.",
+    "Decidete la prima serata del mese prossimo."
+   ],
+   "fase": 3
+  },
+  {
+   "titulo": "Colazione a letto",
+   "passos": [
+    "Chi punta la sveglia prima prepara la colazione senza fare rumore.",
+    "Portate tutto a letto su un vassoio, anche solo pane, burro e marmellata.",
+    "Fate colazione con calma, senza telefono.",
+    "Prima di alzarvi, dite un programma a testa per il weekend."
+   ],
+   "fase": 1
+  },
+  {
+   "titulo": "Una lettera a mano",
+   "passos": [
+    "Prendete carta e penna e andate in due stanze diverse.",
+    "Scrivete una lettera breve: cosa ammirate di più nell'altra persona, oggi.",
+    "Scambiatevi le lettere e leggetele in silenzio.",
+    "Mettetele in una scatola. È l'inizio di una collezione."
+   ],
+   "fase": 1
+  },
+  {
+   "titulo": "La serata delle playlist",
+   "passos": [
+    "Fate una playlist a testa con cinque canzoni che raccontano la vostra storia.",
+    "Spegnete la luce e lasciate accesa solo un'abat-jour.",
+    "Ascoltatele alternandovi, una a testa.",
+    "Dopo ogni canzone, chi l'ha scelta racconta perché."
+   ],
+   "fase": 1
+  },
+  {
+   "titulo": "Tramonto a due",
+   "passos": [
+    "Controllate a che ora tramonta il sole oggi.",
+    "Salite in terrazza, sul balcone o nel punto più alto vicino a casa.",
+    "Portatevi uno spritz o un calice di vino e restate lì finché non fa buio.",
+    "Al ritorno, decidete il prossimo posto."
+   ],
+   "fase": 1
+  },
+  {
+   "titulo": "Il piatto dell'infanzia",
+   "passos": [
+    "Scegliete a testa un piatto della vostra infanzia, magari quello della nonna.",
+    "Cucinateli tutti e due, dandovi una mano.",
+    "Mentre mangiate, raccontate il ricordo legato a ogni piatto.",
+    "Decidete quale diventa una tradizione di casa."
+   ],
+   "fase": 1
+  },
+  {
+   "titulo": "Serata senza schermi",
+   "passos": [
+    "Alle otto in punto, telefoni e TV finiscono in un cassetto.",
+    "Accendete delle candele in giro per casa.",
+    "Parlate, cucinate, sdraiatevi sul pavimento: vale tutto, tranne gli schermi.",
+    "Il telefono si riprende solo domani mattina."
+   ],
+   "fase": 1
+  },
+  {
+   "titulo": "La mappa del nostro amore",
+   "passos": [
+    "Prendete un foglio grande e disegnate una mappa con i posti importanti della vostra storia.",
+    "Segnate il posto del primo incontro, del primo bacio, del primo viaggio.",
+    "Aggiungete un posto a testa che volete ancora vedere insieme.",
+    "Appendete la mappa da qualche parte in casa."
+   ],
+   "fase": 1
+  },
+  {
+   "titulo": "Sotto la pioggia",
+   "passos": [
+    "Aspettate il prossimo giorno di pioggia, o aprite la canna dell'acqua in giardino.",
+    "Uscite insieme, senza ombrello.",
+    "Ballate, ridete e baciatevi sotto la pioggia.",
+    "Poi doccia calda e una tisana bollente in due."
+   ],
+   "fase": 1
+  },
+  {
+   "titulo": "Fonduta improvvisata",
+   "passos": [
+    "Sciogliete il cioccolato a bagnomaria.",
+    "Tagliate frutta, biscotti, quello che c'è in casa.",
+    "Sedetevi sul pavimento del salotto, tra i cuscini.",
+    "Imboccatevi a vicenda: vietato mangiare con le proprie mani."
+   ],
+   "fase": 1
+  },
+  {
+   "titulo": "Intervista di coppia",
+   "passos": [
+    "Scrivete dieci domande mai fatte prima.",
+    "Registrate solo l'audio mentre vi intervistate.",
+    "Rispondete con sincerità, anche a quelle difficili.",
+    "Conservate l'audio per riascoltarlo tra un anno."
+   ],
+   "fase": 1
+  },
+  {
+   "titulo": "Un libro in due",
+   "passos": [
+    "Scegliete un libro breve o un racconto.",
+    "Mettetevi a letto e leggete ad alta voce, un capitolo a testa.",
+    "Fermatevi quando vi viene voglia di commentare.",
+    "Datevi appuntamento per finirlo la settimana prossima."
+   ],
+   "fase": 1
+  },
+  {
+   "titulo": "La capsula del tempo",
+   "passos": [
+    "Scrivete una lettera a testa per voi due tra cinque anni.",
+    "Mettetele in una scatola con una foto di oggi e un oggetto che parla di voi.",
+    "Chiudetela e scriveteci sopra la data in cui aprirla.",
+    "Nascondete la scatola in un posto che conoscete solo voi."
+   ],
+   "fase": 1
+  },
+  {
+   "titulo": "La passeggiata dopo cena",
+   "passos": [
+    "Uscite dopo cena, senza sapere dove andare.",
+    "Camminate mano nella mano per strade che non prendete mai.",
+    "Fermatevi per un gelato o un caffè.",
+    "Sulla via del ritorno, raccontatevi una cosa mai detta prima."
+   ],
+   "fase": 1
+  },
+  {
+   "titulo": "Il mercato del sabato",
+   "passos": [
+    "Svegliatevi presto e andate insieme al mercato.",
+    "Scegliete a testa un ingrediente che non avete mai assaggiato.",
+    "A casa, inventate una ricetta con tutti e due gli ingredienti.",
+    "Date un voto al risultato, senza pietà."
+   ],
+   "fase": 1
+  },
+  {
+   "titulo": "La serata delle prime volte",
+   "passos": [
+    "Fate insieme la lista delle vostre prime volte: il primo sguardo, il primo messaggio, il primo bacio.",
+    "Raccontatele una per una, a turno, dal vostro punto di vista.",
+    "Scoprite i dettagli che non conoscevate.",
+    "Finite rifacendo il primo bacio."
+   ],
+   "fase": 1
+  },
+  {
+   "titulo": "Arte a quattro mani",
+   "passos": [
+    "Comprate una tela economica o usate un foglio grande.",
+    "Dipingete insieme, senza decidere prima il disegno.",
+    "Passatevi il pennello ogni minuto.",
+    "Firmatela in due e appendetela, anche se viene strana."
+   ],
+   "fase": 1
+  },
+  {
+   "titulo": "Pizza fatta in casa",
+   "passos": [
+    "Impastate insieme, con le mani.",
+    "Condite mezza pizza a testa, come vi pare.",
+    "Mentre cuoce, aprite un vino o un succo.",
+    "Scambiatevi le metà: si mangia la creazione dell'altra persona."
+   ],
+   "fase": 1
+  },
+  {
+   "titulo": "Campeggio in salotto",
+   "passos": [
+    "Costruite una capanna con lenzuola e sedie.",
+    "Portate cuscini, qualcosa da sgranocchiare e una torcia.",
+    "Raccontatevi storie, di paura o d'amore, scegliete voi.",
+    "Dormite lì."
+   ],
+   "fase": 1
+  },
+  {
+   "titulo": "Un complimento all'ora",
+   "passos": [
+    "Patto: dalle sette a mezzanotte, un complimento ogni ora.",
+    "Vale per messaggio, su un biglietto o dal vivo.",
+    "Vietato ripetere lo stesso complimento.",
+    "Alla fine, dite quale vi ha toccato di più."
+   ],
+   "fase": 1
+  },
+  {
+   "titulo": "Ritorno all'inizio",
+   "passos": [
+    "Tornate nel posto del primo appuntamento, o ricreatelo in casa.",
+    "Vestitevi più o meno come allora.",
+    "Ordinate lo stesso piatto, se ve lo ricordate.",
+    "Raccontatevi la prima impressione che avete avuto quel giorno."
+   ],
+   "fase": 1
+  },
+  {
+   "titulo": "Serata giochi da tavolo",
+   "passos": [
+    "Scegliete due o tre giochi da tavolo che avete in casa.",
+    "Chi perde una partita fa una coccola scelta da chi ha vinto.",
+    "Fate delle pause con qualcosa da sgranocchiare.",
+    "Chi vince la serata sceglie il film di domani."
+   ],
+   "fase": 1
+  },
+  {
+   "titulo": "L'orto sul balcone",
+   "passos": [
+    "Comprate dei vasi e dei semi di erbe aromatiche: basilico, prezzemolo, rosmarino.",
+    "Piantateli insieme sul davanzale o sul balcone.",
+    "Date un nome a ogni piantina.",
+    "Decidete chi annaffia, giorno per giorno."
+   ],
+   "fase": 1
+  },
+  {
+   "titulo": "Foto di coppia",
+   "passos": [
+    "Scegliete un angolo bello della casa, con una bella luce.",
+    "Usate l'autoscatto del telefono e fotografatevi senza pose studiate.",
+    "Fate smorfie, baci, abbracci.",
+    "Scegliete insieme la più bella e fatela stampare."
+   ],
+   "fase": 1
+  },
+  {
+   "titulo": "Dieci grazie",
+   "passos": [
+    "Scrivete dieci motivi a testa per cui volete dirvi grazie.",
+    "Leggetele alternandovi, una alla volta.",
+    "Non si risponde, si ascolta e basta.",
+    "Finite con un abbraccio di almeno un minuto."
+   ],
+   "fase": 1
+  },
+  {
+   "titulo": "Degustazione alla cieca",
+   "passos": [
+    "Bendatevi gli occhi a turno.",
+    "Fate assaggiare cinque sapori: dolce, salato, aspro, ghiacciato e piccante.",
+    "Chi ha gli occhi bendati prova a indovinarli tutti.",
+    "Poi fate cambio. Ogni risposta giusta vale un bacio."
+   ],
+   "fase": 2
+  },
+  {
+   "titulo": "Aperitivo in casa",
+   "passos": [
+    "Inventate un nome per il vostro bar.",
+    "Preparate un cocktail a testa con quello che c'è in casa, e qualcosa da stuzzicare.",
+    "Chi sta dietro al bancone serve, chi sta davanti attacca bottone.",
+    "Al secondo giro, invertite i ruoli."
+   ],
+   "fase": 2
+  },
+  {
+   "titulo": "Il ristorante privato",
+   "passos": [
+    "Chi cucina prepara e serve, chi è ospite si presenta solo all'ora stabilita.",
+    "Tavola apparecchiata, menù scritto a mano, musica bassa.",
+    "Chi serve lo fa con tutta la cura di un ristorante vero.",
+    "La prossima volta, i ruoli si invertono."
+   ],
+   "fase": 2
+  },
+  {
+   "titulo": "Serata anni 2000",
+   "passos": [
+    "Fate una playlist con le canzoni della vostra adolescenza.",
+    "Vestitevi come allora.",
+    "Ballate tutte le canzoni, senza nessun imbarazzo.",
+    "Raccontatevi le figuracce di quegli anni."
+   ],
+   "fase": 2
+  },
+  {
+   "titulo": "Sfida in cucina",
+   "passos": [
+    "Prendete tre ingredienti a caso dalla dispensa.",
+    "Avete venti minuti a testa per inventare un piatto con quelli.",
+    "Scambiatevi i piatti, assaggiate e date un voto.",
+    "Chi perde lava i piatti. Chi vince sceglie il dolce."
+   ],
+   "fase": 2
+  },
+  {
+   "titulo": "Massaggio ai piedi",
+   "passos": [
+    "Scaldate dell'acqua con il sale grosso in una bacinella.",
+    "Una persona mette i piedi a mollo mentre l'altra prepara la crema.",
+    "Massaggio lento, dito per dito.",
+    "Poi fate cambio."
+   ],
+   "fase": 2
+  },
+  {
+   "titulo": "Serata horror",
+   "passos": [
+    "Scegliete il film più spaventoso che avete il coraggio di vedere.",
+    "Spegnete tutte le luci.",
+    "State sotto la stessa coperta.",
+    "Chi urla prima offre la colazione."
+   ],
+   "fase": 2
+  },
+  {
+   "titulo": "Pigiama party",
+   "passos": [
+    "Scegliete due pigiami simili.",
+    "Popcorn, film, maschera per il viso: un pigiama party come si deve.",
+    "Fatevi una foto ridicola in due.",
+    "Dormite abbracciandovi."
+   ],
+   "fase": 2
+  },
+  {
+   "titulo": "Lezione di ballo",
+   "passos": [
+    "Scegliete un ballo: liscio, tango, salsa o bachata.",
+    "Mettete un video con una lezione per principianti.",
+    "Imparate insieme i primi passi.",
+    "Alla fine, ballate una canzone intera, anche sbagliando."
+   ],
+   "fase": 2
+  },
+  {
+   "titulo": "Mani e piedi sui colori",
+   "passos": [
+    "Spargete sul pavimento dei fogli di quattro colori.",
+    "A ogni giro, tirate a sorte un colore per una mano o un piede.",
+    "Chi perde l'equilibrio si toglie un indumento. Vale anche ostacolarsi.",
+    "Il gioco finisce quando qualcuno resta senza vestiti."
+   ],
+   "fase": 2
+  },
+  {
+   "titulo": "Doccia a due",
+   "passos": [
+    "Preparate il bagno con candele e musica.",
+    "Entrate insieme sotto la doccia.",
+    "A turno, lavatevi i capelli, con calma.",
+    "Uscite avvolgendovi nello stesso asciugamano."
+   ],
+   "fase": 2
+  },
+  {
+   "titulo": "Maschera viso a due",
+   "passos": [
+    "Fatevi insieme una maschera per il viso.",
+    "Mentre si asciuga, massaggiatevi le mani a vicenda.",
+    "Toglietevi la maschera con il cotone, a vicenda.",
+    "Finite con la crema e una pioggia di baci su tutto il viso."
+   ],
+   "fase": 2
+  },
+  {
+   "titulo": "Servizio fotografico sensuale",
+   "passos": [
+    "Chi posa sceglie i vestiti in cui si piace di più.",
+    "Chi scatta fotografa con il telefono e guida le pose.",
+    "Foto solo per voi, anche senza il viso se preferite.",
+    "Scegliete insieme le migliori e conservatele in un posto sicuro."
+   ],
+   "fase": 2
+  },
+  {
+   "titulo": "Il corpo come tela",
+   "passos": [
+    "Procuratevi dei colori lavabili per il corpo.",
+    "A turno, una persona dipinge sul corpo dell'altra.",
+    "Chi fa da tela non può muoversi.",
+    "Il disegno va via solo sotto la doccia, in due."
+   ],
+   "fase": 2
+  },
+  {
+   "titulo": "Cena con i piedi",
+   "passos": [
+    "Sedetevi faccia a faccia, a un tavolino piccolo.",
+    "Durante la cena, provocatevi solo con i piedi, sotto il tavolo.",
+    "Chi ride o protesta prima si toglie un indumento.",
+    "Il dolce si mangia in camera."
+   ],
+   "fase": 2
+  },
+  {
+   "titulo": "Messaggi proibiti",
+   "passos": [
+    "Durante il giorno, scambiatevi messaggi sempre più provocanti.",
+    "Fino alle sei del pomeriggio, solo testo.",
+    "Dopo le sei, valgono anche le foto, con i limiti che decidete voi.",
+    "La sera, mantenete le promesse."
+   ],
+   "fase": 2
+  },
+  {
+   "titulo": "Karaoke all'orecchio",
+   "passos": [
+    "Scegliete canzoni lente e romantiche.",
+    "Cantate guardandovi negli occhi, a un soffio di distanza.",
+    "Chi stona si becca un morso.",
+    "L'ultima canzone si canta piano, all'orecchio."
+   ],
+   "fase": 2
+  },
+  {
+   "titulo": "Lettura piccante",
+   "passos": [
+    "Scegliete un racconto erotico o la scena di un libro.",
+    "Leggete ad alta voce, un paragrafo a testa.",
+    "Fate delle pause per dirvi cosa ne pensate.",
+    "Se vi viene voglia, interrompete la lettura a metà."
+   ],
+   "fase": 2
+  },
+  {
+   "titulo": "Caccia al tesoro",
+   "passos": [
+    "Chi comincia nasconde dieci biglietti in giro per casa, ognuno con un indizio.",
+    "Ogni biglietto porta al successivo e contiene una piccola sfida.",
+    "L'ultimo biglietto è in camera da letto.",
+    "Il premio lo sceglie chi li ha nascosti."
+   ],
+   "fase": 2
+  },
+  {
+   "titulo": "Lento al buio",
+   "passos": [
+    "Spegnete tutto e lasciate solo una canzone lenta.",
+    "Ballate stringendovi, senza parlare.",
+    "A ogni canzone, via un indumento.",
+    "All'ultima, siete già in camera."
+   ],
+   "fase": 2
+  },
+  {
+   "titulo": "Baci a cronometro",
+   "passos": [
+    "Prendete un cronometro.",
+    "Prima un bacio di dieci secondi, poi di trenta, poi di un minuto.",
+    "A ogni giro, il bacio cambia posto.",
+    "All'ultimo giro, niente cronometro."
+   ],
+   "fase": 2
+  },
+  {
+   "titulo": "Parole al buio",
+   "passos": [
+    "Mettetevi a letto con tutte le luci spente.",
+    "Fatevi le domande che con la luce accesa vi metterebbero in imbarazzo.",
+    "Rispondete con sincerità, senza giudicare.",
+    "Quando le parole finiscono, lasciate parlare le mani."
+   ],
+   "fase": 2
+  },
+  {
+   "titulo": "Un regalo intimo",
+   "passos": [
+    "Sceglietevi a vicenda un capo di intimo.",
+    "Consegnatelo incartato, con un biglietto.",
+    "Chi lo riceve lo indossa e sfila.",
+    "Chi l'ha regalato decide cosa succede dopo."
+   ],
+   "fase": 2
+  },
+  {
+   "titulo": "Massaggio tantrico",
+   "passos": [
+    "Abbassate le luci e mettete una musica rilassante.",
+    "Una persona si sdraia, l'altra passa l'olio tiepido su tutto il corpo, molto, molto lentamente.",
+    "Respirate insieme, senza fretta di arrivare da nessuna parte.",
+    "Chi riceve può chiedere solo una cosa: più piano."
+   ],
+   "fase": 3
+  },
+  {
+   "titulo": "Al rallentatore",
+   "passos": [
+    "Patto: stasera tutto al rallentatore.",
+    "Baci, carezze e vestiti che scivolano via, sempre piano.",
+    "Chi accelera ricomincia da capo.",
+    "Vedete quanto resistete."
+   ],
+   "fase": 3
+  },
+  {
+   "titulo": "Hotel in casa",
+   "passos": [
+    "Mettete le lenzuola più belle e spruzzate un po' di profumo.",
+    "Lasciate gli asciugamani piegati e un cioccolatino sul cuscino.",
+    "Fate il check-in per gioco, come in albergo.",
+    "Quello che succede in camera resta in camera."
+   ],
+   "fase": 3
+  },
+  {
+   "titulo": "La ruota delle stanze",
+   "passos": [
+    "Scrivete il nome di ogni stanza della casa su un foglietto.",
+    "Tiratene a sorte uno.",
+    "Stasera, le coccole si fanno solo lì.",
+    "Se resta voglia, pescatene un altro."
+   ],
+   "fase": 3
+  },
+  {
+   "titulo": "Due sconosciuti",
+   "passos": [
+    "Datevi appuntamento in un bar come se non vi conosceste.",
+    "Inventatevi un nome e una storia a testa.",
+    "A turno, provate a sedurvi da zero, come la prima volta.",
+    "La serata finisce a casa, sempre nella parte."
+   ],
+   "fase": 3
+  },
+  {
+   "titulo": "Il tocco proibito",
+   "passos": [
+    "Per venti minuti, solo una persona può toccare.",
+    "L'altra resta sul letto, immobile.",
+    "Ogni cinque minuti, le carezze scendono un po' più giù.",
+    "Poi fate cambio."
+   ],
+   "fase": 3
+  },
+  {
+   "titulo": "Sussurri",
+   "passos": [
+    "Sdraiatevi a occhi chiusi.",
+    "A turno, sussurrate all'orecchio quello che volete fare, piano piano.",
+    "Chi ascolta non può rispondere, solo sentire.",
+    "Poi passate dalle parole ai fatti."
+   ],
+   "fase": 3
+  },
+  {
+   "titulo": "Spogliarello con musica",
+   "passos": [
+    "Chi guarda sceglie la canzone, chi balla fa lo spettacolo.",
+    "Via i vestiti piano, uno alla volta.",
+    "Chi guarda non può toccare finché la canzone non finisce.",
+    "Poi fate cambio."
+   ],
+   "fase": 3
+  },
+  {
+   "titulo": "Cioccolato sul corpo",
+   "passos": [
+    "Sciogliete del cioccolato o usate una salsa al cioccolato.",
+    "A turno, disegnatevi addosso con la salsa.",
+    "Ripulite tutto con la bocca, senza fretta.",
+    "Finite con una doccia insieme."
+   ],
+   "fase": 3
+  },
+  {
+   "titulo": "Lo specchio",
+   "passos": [
+    "Portate uno specchio grande vicino al letto, o mettetevi davanti a uno.",
+    "Guardatevi, accarezzatevi e osservatevi nel riflesso.",
+    "Dite ad alta voce quello che vedete.",
+    "Stavolta, la luce resta accesa."
+   ],
+   "fase": 3
+  },
+  {
+   "titulo": "Confessioni su carta",
+   "passos": [
+    "Scrivete una fantasia a testa su un foglio, con i dettagli.",
+    "Scambiatevi i fogli e leggete in silenzio.",
+    "Parlate di cosa vi andrebbe di fare e cosa no.",
+    "Scegliete un pezzetto di una delle due da fare stasera."
+   ],
+   "fase": 3
+  },
+  {
+   "titulo": "Provocazione tutto il giorno",
+   "passos": [
+    "La mattina, a turno, raccontate cosa farete la sera, nei dettagli.",
+    "Durante il giorno, solo messaggi per ricordarlo, niente foto.",
+    "Nessun contatto fisico fino all'ora stabilita.",
+    "Quando arriva l'ora, mantenete ogni promessa."
+   ],
+   "fase": 3
+  },
+  {
+   "titulo": "Lenzuola di raso",
+   "passos": [
+    "Mettete lenzuola di raso, o le più morbide che avete.",
+    "Spalmatevi l'olio a vicenda.",
+    "Lasciate scivolare i corpi, senza fretta.",
+    "Niente vestiti per tutta la notte."
+   ],
+   "fase": 3
+  },
+  {
+   "titulo": "Un gioco nuovo",
+   "passos": [
+    "Scegliete insieme un sex toy su un negozio online discreto.",
+    "Quando arriva, apritelo insieme, senza imbarazzo.",
+    "Leggete come funziona e provatelo piano.",
+    "Decidete da chi si comincia."
+   ],
+   "fase": 3
+  },
+  {
+   "titulo": "In macchina",
+   "passos": [
+    "Uscite in macchina la sera, senza meta.",
+    "Fermatevi in un posto tranquillo e sicuro, con una bella vista.",
+    "Pomiciate sul sedile di dietro come a sedici anni.",
+    "Tornate a casa prima che qualcuno bussi al finestrino."
+   ],
+   "fase": 3
+  },
+  {
+   "titulo": "Il barattolo degli ordini",
+   "passos": [
+    "Scrivete cinque ordini a testa su foglietti piegati.",
+    "Mescolateli tutti in un barattolo.",
+    "A turno, pescate ed eseguite l'ordine dell'altra persona.",
+    "L'ordine che nessuno se la sente di eseguire diventa un bacio."
+   ],
+   "fase": 3
+  },
+  {
+   "titulo": "Polsi legati",
+   "passos": [
+    "Decidete i limiti e una parola di sicurezza.",
+    "Legate i polsi di chi comincia con una cravatta o un foulard.",
+    "Chi ha le mani libere fa quello che vuole, senza fretta.",
+    "Al giro dopo, i ruoli si invertono."
+   ],
+   "fase": 3
+  },
+  {
+   "titulo": "Senza mani",
+   "passos": [
+    "Per mezz'ora, niente mani per nessuno.",
+    "Solo bocca, corpo e respiro.",
+    "Chi usa le mani prima paga una penitenza.",
+    "Dopo, le mani tornano in gioco."
+   ],
+   "fase": 3
+  },
+  {
+   "titulo": "La scena del film",
+   "passos": [
+    "Scegliete una scena hot di un film che amate.",
+    "Rifatela, battute comprese.",
+    "Il finale si può improvvisare.",
+    "Si registra solo nella memoria."
+   ],
+   "fase": 3
+  },
+  {
+   "titulo": "Conto alla rovescia",
+   "passos": [
+    "Patto: si va oltre solo dopo dieci minuti di baci.",
+    "Fate partire il cronometro.",
+    "Finché non suona, solo baci e mani sopra i vestiti.",
+    "Quando suona, via libera."
+   ],
+   "fase": 3
+  },
+  {
+   "titulo": "Acqua, fuochino, fuoco",
+   "passos": [
+    "Chi comincia nasconde un piccolo oggetto nei propri vestiti.",
+    "L'altra persona lo cerca solo con le mani, seguendo acqua, fuochino, fuoco.",
+    "Chi lo trova sceglie un premio.",
+    "Poi vi scambiate, e i nascondigli si fanno sempre più audaci."
+   ],
+   "fase": 3
+  },
+  {
+   "titulo": "Una serata senza vestiti",
+   "passos": [
+    "Patto: una serata intera in casa senza niente addosso.",
+    "Cucinate, guardate un film e parlate così.",
+    "Chi si rimette qualcosa addosso prima paga una penitenza.",
+    "Approfittate di ogni stanza."
+   ],
+   "fase": 3
+  },
+  {
+   "titulo": "Seduzione al telefono",
+   "passos": [
+    "Chi comincia esce di casa per mezz'ora.",
+    "Chiamatevi e parlate come se ci fosse un oceano in mezzo, sempre più provocanti.",
+    "Chi è fuori racconta cosa farà appena rientra.",
+    "Una volta a casa, si mantiene la parola."
+   ],
+   "fase": 3
+  }
+ ]
+}

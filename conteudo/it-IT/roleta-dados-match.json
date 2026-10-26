@@ -1,0 +1,3082 @@
+{
+ "roleta": {
+  "leve": [
+   {
+    "t": "Imita la tua metà",
+    "seg": 30
+   },
+   {
+    "t": "Di' una battuta pessima"
+   },
+   {
+    "t": "Balla senza musica",
+    "seg": 30
+   },
+   {
+    "t": "Fai una serenata stonata"
+   },
+   {
+    "t": "Fai 5 complimenti di fila"
+   },
+   {
+    "t": "Smorfie finché non ride"
+   },
+   {
+    "t": "Racconta una figuraccia"
+   },
+   {
+    "t": "Parla con un accento strano",
+    "seg": 60
+   },
+   {
+    "t": "Fai la posa più trash"
+   },
+   {
+    "t": "Disegna la tua metà",
+    "seg": 60
+   },
+   {
+    "t": "Canta un ritornello"
+   },
+   {
+    "t": "Fissatevi senza ridere",
+    "seg": 30
+   },
+   {
+    "t": "Imita un animale da indovinare"
+   },
+   {
+    "t": "Parla come un robot"
+   },
+   {
+    "t": "Fai il solletico"
+   },
+   {
+    "t": "Svela un segreto stupido"
+   },
+   {
+    "t": "Fai ridere senza toccare",
+    "seg": 60
+   },
+   {
+    "t": "Inventa un nuovo nomignolo"
+   },
+   {
+    "t": "Imita un personaggio famoso"
+   },
+   {
+    "t": "Sfila in salotto"
+   },
+   {
+    "t": "Canta una sigla dei cartoni"
+   },
+   {
+    "t": "Parla solo in rima",
+    "seg": 60
+   },
+   {
+    "t": "Inventa una storia",
+    "seg": 60
+   },
+   {
+    "t": "Mima un film",
+    "seg": 60
+   },
+   {
+    "t": "Cammina come un pinguino"
+   },
+   {
+    "t": "Abbraccio da orso"
+   },
+   {
+    "t": "Fai un complimento esagerato"
+   },
+   {
+    "t": "Telecronaca da Serie A"
+   },
+   {
+    "t": "Fai la verticale, se riesci"
+   },
+   {
+    "t": "Racconta il sogno più strano"
+   },
+   {
+    "t": "Il tuo miglior passo di danza"
+   },
+   {
+    "t": "Mostra un talento nascosto"
+   },
+   {
+    "t": "Frase da rimorchio pessima"
+   },
+   {
+    "t": "Dichiarazione da soap opera"
+   },
+   {
+    "t": "Leggi la mano"
+   },
+   {
+    "t": "Predici il vostro futuro"
+   },
+   {
+    "t": "Fai un brindisi con l'acqua"
+   },
+   {
+    "t": "Imita un conduttore TV"
+   },
+   {
+    "t": "Parla senza la lettera A",
+    "seg": 30
+   },
+   {
+    "t": "Un balletto da social"
+   },
+   {
+    "t": "Resta su un piede solo",
+    "seg": 30
+   },
+   {
+    "t": "Mettiti una sua maglia"
+   },
+   {
+    "t": "Crea un'acconciatura assurda"
+   },
+   {
+    "t": "Massaggio alle mani",
+    "seg": 60
+   },
+   {
+    "t": "La tua prima impressione"
+   },
+   {
+    "t": "La tua paura più stupida"
+   },
+   {
+    "t": "Parla solo sussurrando",
+    "seg": 60
+   },
+   {
+    "t": "Un rap sulla tua metà"
+   },
+   {
+    "t": "Tre bacini sulla guancia"
+   },
+   {
+    "t": "Discorso da Oscar",
+    "seg": 60
+   },
+   {
+    "t": "Imita un neonato che piange"
+   },
+   {
+    "t": "Racconta una cosa mai detta"
+   },
+   {
+    "t": "Uno scioglilingua veloce"
+   },
+   {
+    "t": "Scrivi un bigliettino"
+   },
+   {
+    "t": "Una stretta di mano segreta"
+   },
+   {
+    "t": "Battaglia di cuscini",
+    "seg": 30
+   },
+   {
+    "t": "Rispondi solo con domande",
+    "seg": 60
+   },
+   {
+    "t": "Balla il ballo del qua qua"
+   },
+   {
+    "t": "Svela una tua mania strana"
+   },
+   {
+    "t": "Un jingle sulla vostra coppia"
+   },
+   {
+    "t": "Massaggio alle spalle",
+    "seg": 60
+   },
+   {
+    "t": "Parla come un bambino"
+   },
+   {
+    "t": "Chiedi scusa in modo teatrale"
+   },
+   {
+    "t": "Una sua mania adorabile"
+   },
+   {
+    "t": "Canticchia e fai indovinare"
+   },
+   {
+    "t": "Posa da supereroe"
+   },
+   {
+    "t": "Una capanna di lenzuola"
+   },
+   {
+    "t": "Un bacio a stampo veloce"
+   },
+   {
+    "t": "Abbraccio da dietro"
+   },
+   {
+    "t": "Cavalluccio per la tua metà"
+   },
+   {
+    "t": "Sfida a carta, sasso, forbice"
+   },
+   {
+    "t": "Braccio di ferro"
+   },
+   {
+    "t": "Lotta di pollici"
+   },
+   {
+    "t": "Parla solo a gesti",
+    "seg": 60
+   },
+   {
+    "t": "Commenta ogni sua mossa",
+    "seg": 60
+   },
+   {
+    "t": "Inventa un pettegolezzo"
+   },
+   {
+    "t": "Uno spot sulla tua metà"
+   },
+   {
+    "t": "Insegna una cosa che sai fare",
+    "seg": 60
+   },
+   {
+    "t": "Disegna sulla schiena"
+   },
+   {
+    "t": "Intervista la tua metà",
+    "seg": 60
+   },
+   {
+    "t": "Una poesia in un minuto",
+    "seg": 60
+   },
+   {
+    "t": "Resta immobile come una statua",
+    "seg": 30
+   },
+   {
+    "t": "Un selfie buffo insieme"
+   },
+   {
+    "t": "Mostra l'ultima foto scattata"
+   },
+   {
+    "t": "Imita la tua suoneria"
+   },
+   {
+    "t": "Un ricordo d'infanzia"
+   },
+   {
+    "t": "Fai 10 jumping jack"
+   },
+   {
+    "t": "Balla una canzone a sua scelta",
+    "seg": 30
+   },
+   {
+    "t": "Un bacio sul naso"
+   },
+   {
+    "t": "Un complimento in inglese"
+   },
+   {
+    "t": "Fai il gatto che vuole coccole"
+   },
+   {
+    "t": "Due verità e una bugia"
+   },
+   {
+    "t": "L'alfabeto al contrario"
+   },
+   {
+    "t": "Voce da speaker radiofonico"
+   },
+   {
+    "t": "Servi la tua metà come al bar",
+    "seg": 60
+   },
+   {
+    "t": "Fai un inchino reale"
+   },
+   {
+    "t": "Scegli la canzone di coppia"
+   },
+   {
+    "t": "5 frutti in 5 secondi"
+   },
+   {
+    "t": "Vendi una penna alla tua metà"
+   },
+   {
+    "t": "Fai un gioco di prestigio"
+   }
+  ],
+  "romantico": [
+   {
+    "t": "Bacio da film"
+   },
+   {
+    "t": "Massaggio ai piedi",
+    "seg": 120
+   },
+   {
+    "t": "Abbraccio stretto stretto",
+    "seg": 30
+   },
+   {
+    "t": "Bacio sulla fronte"
+   },
+   {
+    "t": "3 cose che ami della tua metà"
+   },
+   {
+    "t": "Ballate guancia a guancia",
+    "seg": 60
+   },
+   {
+    "t": "Bacio all'eschimese"
+   },
+   {
+    "t": "Grattini in testa",
+    "seg": 60
+   },
+   {
+    "t": "Occhi negli occhi, in silenzio",
+    "seg": 30
+   },
+   {
+    "t": "Racconta il colpo di fulmine"
+   },
+   {
+    "t": "Un bacio lentissimo",
+    "seg": 20
+   },
+   {
+    "t": "Fai il baciamano"
+   },
+   {
+    "t": "Baci sulle palpebre"
+   },
+   {
+    "t": "Perché hai scelto la tua metà?"
+   },
+   {
+    "t": "Ricorda il primo bacio"
+   },
+   {
+    "t": "Abbraccio a cucchiaio",
+    "seg": 120
+   },
+   {
+    "t": "Bacio lungo sulla guancia"
+   },
+   {
+    "t": "Dichiarati ad alta voce"
+   },
+   {
+    "t": "Ballate a occhi chiusi",
+    "seg": 60
+   },
+   {
+    "t": "Un valzer insieme",
+    "seg": 60
+   },
+   {
+    "t": "Carezze sul viso"
+   },
+   {
+    "t": "Scrivi ti amo sulla schiena"
+   },
+   {
+    "t": "Cosa ammiri della tua metà?"
+   },
+   {
+    "t": "Bacio con le mani sul viso"
+   },
+   {
+    "t": "Un progetto per voi due"
+   },
+   {
+    "t": "Fai una promessa"
+   },
+   {
+    "t": "Mano nella mano, in silenzio",
+    "seg": 60
+   },
+   {
+    "t": "Bacio sulla spalla"
+   },
+   {
+    "t": "Orecchio sul cuore, a turno",
+    "seg": 30
+   },
+   {
+    "t": "Respirate allo stesso ritmo",
+    "seg": 60
+   },
+   {
+    "t": "La vostra foto più bella"
+   },
+   {
+    "t": "Un complimento al suo sorriso"
+   },
+   {
+    "t": "Un grazie per le piccole cose"
+   },
+   {
+    "t": "Canta sottovoce una canzone"
+   },
+   {
+    "t": "Bacio sul polso"
+   },
+   {
+    "t": "Carezze sulla schiena",
+    "seg": 60
+   },
+   {
+    "t": "Massaggio alla schiena",
+    "seg": 120
+   },
+   {
+    "t": "Il vostro giorno più bello"
+   },
+   {
+    "t": "Bacio da ritorno a casa"
+   },
+   {
+    "t": "Un pregio che nessuno vede"
+   },
+   {
+    "t": "Abbraccio dondolando, in piedi",
+    "seg": 60
+   },
+   {
+    "t": "Rifai la dichiarazione"
+   },
+   {
+    "t": "Fronte contro fronte"
+   },
+   {
+    "t": "Bacio a farfalla"
+   },
+   {
+    "t": "Descrivi voi due a 80 anni"
+   },
+   {
+    "t": "Emozioni del primo incontro"
+   },
+   {
+    "t": "Riempi di baci"
+   },
+   {
+    "t": "Ti amo, detto in 3 modi"
+   },
+   {
+    "t": "Recita una poesia d'amore"
+   },
+   {
+    "t": "Bacio sul mento"
+   },
+   {
+    "t": "Cosa ti ha conquistato?"
+   },
+   {
+    "t": "Viso tra le mani e ti amo"
+   },
+   {
+    "t": "Una crisi superata insieme"
+   },
+   {
+    "t": "Cosa ti è mancato oggi?"
+   },
+   {
+    "t": "Scegliete un sogno a due"
+   },
+   {
+    "t": "Bacio del buongiorno"
+   },
+   {
+    "t": "La vostra risata più folle"
+   },
+   {
+    "t": "Un complimento al suo profumo"
+   },
+   {
+    "t": "In cosa ti ha cambiato?"
+   },
+   {
+    "t": "Abbraccio al buio",
+    "seg": 60
+   },
+   {
+    "t": "Dedica una canzone"
+   },
+   {
+    "t": "Bacio all'angolo della bocca"
+   },
+   {
+    "t": "Una promessa per la settimana"
+   },
+   {
+    "t": "Sfogliate le foto di una volta",
+    "seg": 120
+   },
+   {
+    "t": "Una sua premura che ricordi"
+   },
+   {
+    "t": "Disegna un cuore sul braccio"
+   },
+   {
+    "t": "Fai le tue promesse nuziali"
+   },
+   {
+    "t": "Massaggio al viso",
+    "seg": 60
+   },
+   {
+    "t": "Abbraccia e di' grazie"
+   },
+   {
+    "t": "Complimento all'orecchio"
+   },
+   {
+    "t": "Bacio senza mani",
+    "seg": 30
+   },
+   {
+    "t": "Descrivete la casa dei sogni"
+   },
+   {
+    "t": "Un suo traguardo da applaudire"
+   },
+   {
+    "t": "Testa sulle sue gambe",
+    "seg": 60
+   },
+   {
+    "t": "Bacio della pace"
+   },
+   {
+    "t": "Il vostro giorno perfetto"
+   },
+   {
+    "t": "Ti amo in un'altra lingua"
+   },
+   {
+    "t": "Confida una paura"
+   },
+   {
+    "t": "Esaudisci un piccolo desiderio"
+   },
+   {
+    "t": "Sussurra cosa provi"
+   },
+   {
+    "t": "Un anniversario speciale"
+   },
+   {
+    "t": "Abbraccio da koala",
+    "seg": 30
+   },
+   {
+    "t": "Una canzone che parla di voi"
+   },
+   {
+    "t": "Fai da cuscino",
+    "seg": 120
+   },
+   {
+    "t": "Naso nell'incavo del collo",
+    "seg": 30
+   },
+   {
+    "t": "Un complimento ai suoi occhi"
+   },
+   {
+    "t": "Occhi chiusi, mano nella mano",
+    "seg": 30
+   },
+   {
+    "t": "Cosa ha di unico la tua metà"
+   },
+   {
+    "t": "Baci lenti su tutto il viso",
+    "seg": 30
+   },
+   {
+    "t": "Racconta un sogno su di voi"
+   },
+   {
+    "t": "La tua gelosia più stupida"
+   },
+   {
+    "t": "Il nomignolo che preferisci"
+   },
+   {
+    "t": "Coccole fino a un sorriso",
+    "seg": 60
+   },
+   {
+    "t": "Ricorda un viaggio insieme"
+   },
+   {
+    "t": "Rifate il vostro primo ciao"
+   },
+   {
+    "t": "Abbraccio da addio in stazione",
+    "seg": 30
+   },
+   {
+    "t": "Cercate la vostra prima chat"
+   },
+   {
+    "t": "Perché ti fidi della tua metà?"
+   },
+   {
+    "t": "Il tuo nome sulla sua mano"
+   },
+   {
+    "t": "La tua metà in una parola"
+   }
+  ],
+  "picante": [
+   {
+    "t": "Bacio sul collo",
+    "seg": 20
+   },
+   {
+    "t": "Togliti un indumento"
+   },
+   {
+    "t": "Sussurra qualcosa di malizioso"
+   },
+   {
+    "t": "Togli un suo indumento"
+   },
+   {
+    "t": "Balla in modo sensuale",
+    "seg": 60
+   },
+   {
+    "t": "Bacia dove ti chiede"
+   },
+   {
+    "t": "Mordicchia il suo labbro"
+   },
+   {
+    "t": "Massaggio con l'olio sul corpo",
+    "seg": 120
+   },
+   {
+    "t": "Siediti in braccio",
+    "seg": 60
+   },
+   {
+    "t": "Spogliarello lentissimo",
+    "seg": 60
+   },
+   {
+    "t": "Bacio con gli occhi bendati"
+   },
+   {
+    "t": "Benda gli occhi alla tua metà"
+   },
+   {
+    "t": "Bacio dietro l'orecchio"
+   },
+   {
+    "t": "Baci sulla pancia"
+   },
+   {
+    "t": "Provoca senza toccare",
+    "seg": 60
+   },
+   {
+    "t": "Bacio sull'interno coscia"
+   },
+   {
+    "t": "Massaggio con i polpastrelli",
+    "seg": 90
+   },
+   {
+    "t": "Mordicchia il lobo"
+   },
+   {
+    "t": "Resta in intimo"
+   },
+   {
+    "t": "Sdraiati e lasciati esplorare",
+    "seg": 120
+   },
+   {
+    "t": "Baci giù lungo il petto"
+   },
+   {
+    "t": "Graffia piano la schiena"
+   },
+   {
+    "t": "Di' cosa vuoi fare dopo"
+   },
+   {
+    "t": "Confessa una fantasia"
+   },
+   {
+    "t": "Bacio col ghiaccio in bocca"
+   },
+   {
+    "t": "Ghiaccio sul suo corpo",
+    "seg": 60
+   },
+   {
+    "t": "Un lungo bacio con la lingua",
+    "seg": 60
+   },
+   {
+    "t": "Togliti un capo senza mani"
+   },
+   {
+    "t": "Tira i capelli, con dolcezza"
+   },
+   {
+    "t": "Bacia tutta la schiena",
+    "seg": 60
+   },
+   {
+    "t": "Soffia piano sul suo corpo",
+    "seg": 60
+   },
+   {
+    "t": "Quasi un bacio, senza toccare"
+   },
+   {
+    "t": "Mostra dove ami i baci"
+   },
+   {
+    "t": "Guida la sua mano su di te",
+    "seg": 60
+   },
+   {
+    "t": "Baci dal piede al ginocchio"
+   },
+   {
+    "t": "Un vocale malizioso"
+   },
+   {
+    "t": "Tocca sotto i vestiti"
+   },
+   {
+    "t": "Un morso sulla spalla"
+   },
+   {
+    "t": "Un complimento al suo corpo"
+   },
+   {
+    "t": "Cosa ti eccita di più?"
+   },
+   {
+    "t": "Tocca solo con le labbra",
+    "seg": 60
+   },
+   {
+    "t": "Bacia, mani dietro la schiena"
+   },
+   {
+    "t": "Togliti ciò che ti chiede"
+   },
+   {
+    "t": "Doccia insieme"
+   },
+   {
+    "t": "Sdraiati sopra la tua metà"
+   },
+   {
+    "t": "Bacio sull'ombelico"
+   },
+   {
+    "t": "Un succhiotto dove non si vede"
+   },
+   {
+    "t": "Bacia piano la nuca"
+   },
+   {
+    "t": "Annusa il suo corpo"
+   },
+   {
+    "t": "Abbraccio pelle contro pelle"
+   },
+   {
+    "t": "Una posa sensuale"
+   },
+   {
+    "t": "Mostra il tocco che ti piace"
+   },
+   {
+    "t": "Leggi qualcosa di piccante"
+   },
+   {
+    "t": "Occhi chiusi: dov'è il bacio?"
+   },
+   {
+    "t": "Blocca i suoi polsi"
+   },
+   {
+    "t": "Massaggio alle cosce",
+    "seg": 90
+   },
+   {
+    "t": "Tocca senza spogliare",
+    "seg": 60
+   },
+   {
+    "t": "Sguardo voglioso, senza ridere",
+    "seg": 30
+   },
+   {
+    "t": "Un gemito nell'orecchio"
+   },
+   {
+    "t": "Prendi per i fianchi e bacia"
+   },
+   {
+    "t": "Spingi contro il muro e bacia"
+   },
+   {
+    "t": "Succhia un suo dito"
+   },
+   {
+    "t": "Massaggio al sedere",
+    "seg": 60
+   },
+   {
+    "t": "Una palpata al sedere"
+   },
+   {
+    "t": "Al buio, solo con le mani",
+    "seg": 120
+   },
+   {
+    "t": "Racconta un sogno erotico"
+   },
+   {
+    "t": "Parola spinta scritta addosso"
+   },
+   {
+    "t": "Rivela il tuo punto debole"
+   },
+   {
+    "t": "Stai sopra, solo baci",
+    "seg": 60
+   },
+   {
+    "t": "Pelle d'oca in 60 secondi",
+    "seg": 60
+   },
+   {
+    "t": "Un pensiero spinto, ora"
+   },
+   {
+    "t": "Ricevi carezze, immobile",
+    "seg": 60
+   },
+   {
+    "t": "Bacia l'incavo della schiena"
+   },
+   {
+    "t": "Chiedi una cosa sensuale"
+   },
+   {
+    "t": "Prendi in braccio la tua metà"
+   },
+   {
+    "t": "Provoca davanti allo specchio",
+    "seg": 60
+   },
+   {
+    "t": "Lecca il suo labbro"
+   },
+   {
+    "t": "Muovi i fianchi, piano",
+    "seg": 30
+   },
+   {
+    "t": "Baci dal polso alla spalla"
+   },
+   {
+    "t": "Baci solo dove c'è stoffa"
+   },
+   {
+    "t": "Bacio, mani tra i capelli"
+   },
+   {
+    "t": "Sussurra il suo nome"
+   },
+   {
+    "t": "Una carezza da brividi"
+   },
+   {
+    "t": "Disegna con la lingua"
+   },
+   {
+    "t": "Il naso lungo il collo"
+   },
+   {
+    "t": "Di spalle, provoca"
+   },
+   {
+    "t": "Mani lungo le sue gambe",
+    "seg": 60
+   },
+   {
+    "t": "Bacia finché non geme"
+   },
+   {
+    "t": "Mordicchia il mento"
+   },
+   {
+    "t": "Dove avresti voluto farlo?"
+   },
+   {
+    "t": "Bacia dove ha i brividi"
+   },
+   {
+    "t": "Tocca e fai indovinare"
+   },
+   {
+    "t": "Spoglia e bacia, pezzo a pezzo"
+   },
+   {
+    "t": "Solo una sua camicia addosso"
+   },
+   {
+    "t": "Spogliati, occhi negli occhi",
+    "seg": 60
+   },
+   {
+    "t": "Una regola per stanotte"
+   },
+   {
+    "t": "Gattona verso la tua metà"
+   },
+   {
+    "t": "Intrappola con le gambe"
+   },
+   {
+    "t": "Provoca con il piede"
+   },
+   {
+    "t": "Cosa faresti senza vestiti?"
+   }
+  ],
+  "proibido": [
+   {
+    "t": "Sesso orale alla tua metà",
+    "seg": 120
+   },
+   {
+    "t": "La tua metà sta sopra"
+   },
+   {
+    "t": "A quattro zampe",
+    "seg": 90
+   },
+   {
+    "t": "Fai venire la tua metà"
+   },
+   {
+    "t": "Solo mani, fino alla fine",
+    "seg": 90
+   },
+   {
+    "t": "Toccati mentre ti guarda",
+    "seg": 60
+   },
+   {
+    "t": "Decide tutto la tua metà",
+    "seg": 300
+   },
+   {
+    "t": "Lega e provoca",
+    "seg": 120
+   },
+   {
+    "t": "Una sveltina, adesso"
+   },
+   {
+    "t": "Fate sesso fuori dalla camera"
+   },
+   {
+    "t": "Porta al limite e fermati"
+   },
+   {
+    "t": "69 fino allo scadere",
+    "seg": 120
+   },
+   {
+    "t": "Di fianco, piano piano"
+   },
+   {
+    "t": "In piedi contro il muro"
+   },
+   {
+    "t": "Sul bordo del letto"
+   },
+   {
+    "t": "Faccia a faccia, in braccio"
+   },
+   {
+    "t": "Gambe al petto"
+   },
+   {
+    "t": "Masturbatevi a vicenda",
+    "seg": 120
+   },
+   {
+    "t": "Ricevi sesso orale",
+    "seg": 120
+   },
+   {
+    "t": "Sesso con gli occhi bendati"
+   },
+   {
+    "t": "Fate l'amore allo specchio"
+   },
+   {
+    "t": "Sesso a luce accesa"
+   },
+   {
+    "t": "Sesso in silenzio assoluto"
+   },
+   {
+    "t": "Vietato trattenere i gemiti"
+   },
+   {
+    "t": "Orgasmo insieme"
+   },
+   {
+    "t": "Ognuno si tocca, a distanza",
+    "seg": 120
+   },
+   {
+    "t": "Un sex toy, se ce l'avete",
+    "seg": 120
+   },
+   {
+    "t": "Vieni solo quando te lo dice"
+   },
+   {
+    "t": "Fatti implorare"
+   },
+   {
+    "t": "Spogliati del tutto, ora"
+   },
+   {
+    "t": "Scegli la posizione di stasera"
+   },
+   {
+    "t": "Cambiate posizione ogni minuto",
+    "seg": 300
+   },
+   {
+    "t": "Lecca tutto il suo corpo",
+    "seg": 120
+   },
+   {
+    "t": "Orale con il ghiaccio in bocca"
+   },
+   {
+    "t": "Frasi spinte senza sosta"
+   },
+   {
+    "t": "Racconta cosa stai facendo"
+   },
+   {
+    "t": "Dai l'ordine: toccati"
+   },
+   {
+    "t": "Sopra, dando le spalle"
+   },
+   {
+    "t": "Fate l'amore piano piano",
+    "seg": 300
+   },
+   {
+    "t": "Sesso forte e veloce"
+   },
+   {
+    "t": "Bacia fino a lì sotto"
+   },
+   {
+    "t": "Sesso occhi negli occhi"
+   },
+   {
+    "t": "Lingua dove ti dice"
+   },
+   {
+    "t": "Solo bocca, niente mani",
+    "seg": 120
+   },
+   {
+    "t": "Spoglia la tua metà di fretta"
+   },
+   {
+    "t": "Morsi dove ti è permesso"
+   },
+   {
+    "t": "Sculaccia, chi le prende conta"
+   },
+   {
+    "t": "Blocca la tua metà sul letto",
+    "seg": 120
+   },
+   {
+    "t": "Sesso senza mani",
+    "seg": 120
+   },
+   {
+    "t": "Chiedi esattamente cosa vuoi"
+   },
+   {
+    "t": "Realizza una sua fantasia"
+   },
+   {
+    "t": "Un video hard insieme"
+   },
+   {
+    "t": "Fai ciò che ama di più"
+   },
+   {
+    "t": "Una cosa mai fatta prima"
+   },
+   {
+    "t": "Strusciati sulla tua metà"
+   },
+   {
+    "t": "Tutto tranne la penetrazione",
+    "seg": 300
+   },
+   {
+    "t": "Di' come vuoi venire stasera"
+   },
+   {
+    "t": "Gambe sulle sue spalle"
+   },
+   {
+    "t": "A pancia in giù, pelle a pelle"
+   },
+   {
+    "t": "Sulla sedia, in braccio"
+   },
+   {
+    "t": "Anale, ma solo se vi va"
+   },
+   {
+    "t": "Dita dove ti chiede"
+   },
+   {
+    "t": "Gemi il suo nome"
+   },
+   {
+    "t": "Domina con parola di sicurezza",
+    "seg": 300
+   },
+   {
+    "t": "Sesso a ritmo di musica",
+    "seg": 180
+   },
+   {
+    "t": "Insegna come farti venire"
+   },
+   {
+    "t": "Chi viene prima perde"
+   },
+   {
+    "t": "Fingete di non conoscervi"
+   },
+   {
+    "t": "Non fermarti dopo il primo"
+   },
+   {
+    "t": "In ginocchio sul letto"
+   },
+   {
+    "t": "Missionario, pelle a pelle"
+   },
+   {
+    "t": "Guida la tua metà a parole",
+    "seg": 180
+   },
+   {
+    "t": "Massaggio che finisce in sesso",
+    "seg": 300
+   },
+   {
+    "t": "Doccia che finisce a letto"
+   },
+   {
+    "t": "Spogliatevi solo il necessario"
+   },
+   {
+    "t": "Fai perdere il controllo"
+   },
+   {
+    "t": "Solo la punta della lingua"
+   },
+   {
+    "t": "Toccati mentre fate l'amore"
+   },
+   {
+    "t": "Siediti sul suo viso"
+   },
+   {
+    "t": "Mettiti in ginocchio"
+   },
+   {
+    "t": "Chi geme prima obbedisce"
+   },
+   {
+    "t": "Mani legate e sesso orale"
+   },
+   {
+    "t": "Stasera ricevi e basta",
+    "seg": 300
+   },
+   {
+    "t": "Cuscino sotto i fianchi"
+   },
+   {
+    "t": "Fai tremare le sue gambe"
+   },
+   {
+    "t": "Vieni dove ti chiede"
+   },
+   {
+    "t": "Resisti 5 minuti senza venire",
+    "seg": 300
+   },
+   {
+    "t": "Sex toy e sesso orale"
+   },
+   {
+    "t": "Il ritmo lo decide la tua metà",
+    "seg": 180
+   },
+   {
+    "t": "Provate una posizione nuova",
+    "seg": 120
+   },
+   {
+    "t": "La tua metà resta immobile",
+    "seg": 180
+   },
+   {
+    "t": "Sesso senza baci sulla bocca"
+   },
+   {
+    "t": "Obbedisci in silenzio",
+    "seg": 180
+   },
+   {
+    "t": "Vieni senza spogliarti"
+   },
+   {
+    "t": "Usa la sua mano su di te"
+   },
+   {
+    "t": "5 minuti di soli preliminari",
+    "seg": 300
+   },
+   {
+    "t": "Massaggio alle parti intime",
+    "seg": 120
+   },
+   {
+    "t": "Confessa un desiderio segreto"
+   },
+   {
+    "t": "Senza vestiti, guardatevi",
+    "seg": 60
+   },
+   {
+    "t": "Olio sui corpi, pelle a pelle",
+    "seg": 120
+   }
+  ]
+ },
+ "dados": {
+  "leve": {
+   "acoes": [
+    "Stringi",
+    "Annusa",
+    "Punzecchia",
+    "Gratta",
+    "Elogia",
+    "Misura",
+    "Esamina",
+    "Fotografa",
+    "Descrivi",
+    "Valuta",
+    "Sfiora",
+    "Pizzica piano"
+   ],
+   "lugares": [
+    "il naso",
+    "l'orecchio",
+    "il ginocchio",
+    "il gomito",
+    "la guancia",
+    "il mento",
+    "la mano",
+    "il piede",
+    "la pancia",
+    "la spalla",
+    "la fronte",
+    "l'alluce"
+   ]
+  },
+  "romantico": {
+   "acoes": [
+    "Bacia",
+    "Bacia piano",
+    "Bacia a occhi chiusi",
+    "Sbaciucchia",
+    "Riempi di baci",
+    "Accarezza",
+    "Sfiora",
+    "Accarezza piano",
+    "Massaggia",
+    "Tocca appena",
+    "Ammira",
+    "Annusa"
+   ],
+   "lugares": [
+    "la fronte",
+    "le mani",
+    "il viso",
+    "la guancia",
+    "le spalle",
+    "i capelli",
+    "le dita",
+    "il mento",
+    "la nuca",
+    "la punta del naso",
+    "le braccia",
+    "la schiena"
+   ]
+  },
+  "picante": {
+   "acoes": [
+    "Bacia",
+    "Bacia piano",
+    "Bacia con voglia",
+    "Bacia e lecca",
+    "Sfiora",
+    "Bacia e mordicchia",
+    "Mordicchia",
+    "Accarezza",
+    "Stuzzica",
+    "Esplora",
+    "Massaggia piano",
+    "Accarezza con le unghie",
+    "Bacia senza fretta",
+    "Copri di baci",
+    "Lecca piano",
+    "Mordi piano",
+    "Sbaciucchia",
+    "Annusa",
+    "Esplora con la bocca",
+    "Stuzzica con la lingua",
+    "Scalda con la bocca",
+    "Sfiora col ghiaccio",
+    "Riscalda col fiato",
+    "Sfiora con le labbra"
+   ],
+   "lugares": [
+    "il collo",
+    "la nuca",
+    "l'orecchio",
+    "i fianchi",
+    "la coscia",
+    "le spalle",
+    "la schiena",
+    "la clavicola",
+    "i polsi",
+    "il mento",
+    "l'ombelico",
+    "la pancia",
+    "il petto",
+    "l'interno coscia",
+    "l'inguine",
+    "il sedere",
+    "le gambe",
+    "le caviglie",
+    "il basso ventre",
+    "tutto il corpo",
+    "le braccia",
+    "la mascella",
+    "le scapole",
+    "il lobo"
+   ]
+  },
+  "proibido": {
+   "acoes": [
+    "Lecca piano",
+    "Mordi piano",
+    "Assapora",
+    "Divora",
+    "Tortura di baci",
+    "Bacia con la lingua",
+    "Esplora con la lingua",
+    "Lecca e bacia",
+    "Scalda con l'olio",
+    "Raffredda e scalda",
+    "Stuzzica senza fretta",
+    "Sfiora col respiro",
+    "Bacia a bocca aperta",
+    "Lecca senza sosta",
+    "Accarezza con voglia",
+    "Mordicchia",
+    "Copri di baci bagnati",
+    "Accarezza con la lingua"
+   ],
+   "lugares": [
+    "i capezzoli",
+    "l'interno coscia",
+    "l'inguine",
+    "il sedere",
+    "il collo",
+    "il basso ventre",
+    "le reni",
+    "i polsi",
+    "i fianchi",
+    "le cosce",
+    "tutta la pelle",
+    "la nuca",
+    "le parti intime",
+    "l'ombelico",
+    "il petto",
+    "le dita",
+    "la schiena",
+    "le caviglie"
+   ]
+  }
+ },
+ "match": [
+  {
+   "t": "Ballare una canzone intera abbracciandovi",
+   "nivel": "leve"
+  },
+  {
+   "t": "Una battaglia di solletico di un minuto",
+   "nivel": "leve"
+  },
+  {
+   "t": "Un abbraccio da orso di un minuto intero",
+   "nivel": "leve"
+  },
+  {
+   "t": "Imitarvi a vicenda e vedere chi ci azzecca di più",
+   "nivel": "leve"
+  },
+  {
+   "t": "Un massaggio alle spalle di cinque minuti",
+   "nivel": "leve"
+  },
+  {
+   "t": "Gara di smorfie, a turno si fa da giudice",
+   "nivel": "leve"
+  },
+  {
+   "t": "Cantare insieme il ritornello di una vostra canzone",
+   "nivel": "leve"
+  },
+  {
+   "t": "Una sfilata in salotto con i vestiti più strani che avete",
+   "nivel": "leve"
+  },
+  {
+   "t": "Grattini in testa fino a quasi addormentarsi",
+   "nivel": "leve"
+  },
+  {
+   "t": "Gara di sguardi: chi ride paga un bacio",
+   "nivel": "leve"
+  },
+  {
+   "t": "Raccontare il vostro primo incontro nella versione più esagerata possibile",
+   "nivel": "leve"
+  },
+  {
+   "t": "Ballare una canzone scatenata come se nessuno vi vedesse",
+   "nivel": "leve"
+  },
+  {
+   "t": "Scambiarvi un capo d'abbigliamento",
+   "nivel": "leve"
+  },
+  {
+   "t": "Un minuto occhi negli occhi senza ridere",
+   "nivel": "leve"
+  },
+  {
+   "t": "Disegnarvi a vicenda in trenta secondi",
+   "nivel": "leve"
+  },
+  {
+   "t": "Una battaglia di cuscini di un minuto",
+   "nivel": "leve"
+  },
+  {
+   "t": "La posa di coppia per la foto più stupida dell'anno",
+   "nivel": "leve"
+  },
+  {
+   "t": "Carta, sasso, forbice: chi vince riceve una coccola",
+   "nivel": "leve"
+  },
+  {
+   "t": "Bacio all'eschimese, naso contro naso",
+   "nivel": "leve"
+  },
+  {
+   "t": "Un massaggio alle mani, dito per dito",
+   "nivel": "leve"
+  },
+  {
+   "t": "Farvi ridere a vicenda senza toccarvi",
+   "nivel": "leve"
+  },
+  {
+   "t": "Recitare per un minuto come una coppia da soap opera",
+   "nivel": "leve"
+  },
+  {
+   "t": "Raccontare la barzelletta più brutta che conoscete",
+   "nivel": "leve"
+  },
+  {
+   "t": "Indovinare una canzone solo canticchiata",
+   "nivel": "leve"
+  },
+  {
+   "t": "Mimare un film, a turno si indovina",
+   "nivel": "leve"
+  },
+  {
+   "t": "Braccio di ferro: chi vince esprime un desiderio",
+   "nivel": "leve"
+  },
+  {
+   "t": "Costruire una capanna di lenzuola in salotto",
+   "nivel": "leve"
+  },
+  {
+   "t": "Dire a turno tre manie buffe della propria metà",
+   "nivel": "leve"
+  },
+  {
+   "t": "Parlare solo cantando per due minuti",
+   "nivel": "leve"
+  },
+  {
+   "t": "Parlare con un accento diverso per cinque minuti",
+   "nivel": "leve"
+  },
+  {
+   "t": "Un giro di verità solo con domande sceme",
+   "nivel": "leve"
+  },
+  {
+   "t": "Raccontare la figuraccia più grande della vostra vita",
+   "nivel": "leve"
+  },
+  {
+   "t": "Indovinare una parola disegnata nell'aria",
+   "nivel": "leve"
+  },
+  {
+   "t": "Un brindisi con quello che c'è in frigo",
+   "nivel": "leve"
+  },
+  {
+   "t": "Inventarvi a vicenda un nuovo nomignolo",
+   "nivel": "leve"
+  },
+  {
+   "t": "Imparare insieme un balletto dai social",
+   "nivel": "leve"
+  },
+  {
+   "t": "Insegnarvi a vicenda una cosa che sapete fare",
+   "nivel": "leve"
+  },
+  {
+   "t": "Gara a chi resta più a lungo su un piede solo",
+   "nivel": "leve"
+  },
+  {
+   "t": "Imitare un animale, a turno si indovina",
+   "nivel": "leve"
+  },
+  {
+   "t": "Fare a turno la telecronaca di ogni gesto, come in Serie A",
+   "nivel": "leve"
+  },
+  {
+   "t": "Farvi a vicenda una pettinatura assurda",
+   "nivel": "leve"
+  },
+  {
+   "t": "Lotta di pollici, al meglio delle tre",
+   "nivel": "leve"
+  },
+  {
+   "t": "Schiaffetti sulle mani: chi è lento perde",
+   "nivel": "leve"
+  },
+  {
+   "t": "Creare insieme una playlist di cinque canzoni",
+   "nivel": "leve"
+  },
+  {
+   "t": "Raccontare una storia d'infanzia mai raccontata",
+   "nivel": "leve"
+  },
+  {
+   "t": "Mostrare la foto più brutta che avete nel telefono",
+   "nivel": "leve"
+  },
+  {
+   "t": "Girare un video scemo di trenta secondi",
+   "nivel": "leve"
+  },
+  {
+   "t": "Rispondere a tutto con un'altra domanda per due minuti",
+   "nivel": "leve"
+  },
+  {
+   "t": "Vietato dire sì o no per cinque minuti",
+   "nivel": "leve"
+  },
+  {
+   "t": "Scioglilingua: chi sbaglia prima perde",
+   "nivel": "leve"
+  },
+  {
+   "t": "Indovinare un oggetto al tatto, a occhi chiusi",
+   "nivel": "leve"
+  },
+  {
+   "t": "Assaggiare qualcosa dalla cucina a occhi chiusi e indovinare",
+   "nivel": "leve"
+  },
+  {
+   "t": "Cantare una canzone famosa riscrivendo il testo per voi",
+   "nivel": "leve"
+  },
+  {
+   "t": "Inventare una storia insieme, una frase a testa",
+   "nivel": "leve"
+  },
+  {
+   "t": "Inventare una stretta di mano segreta",
+   "nivel": "leve"
+  },
+  {
+   "t": "Leggervi la mano a vicenda inventando il futuro",
+   "nivel": "leve"
+  },
+  {
+   "t": "Intervistarvi a vicenda come due star",
+   "nivel": "leve"
+  },
+  {
+   "t": "Dire i tre desideri che chiedereste al genio della lampada",
+   "nivel": "leve"
+  },
+  {
+   "t": "Assegnarvi a vicenda un superpotere, spiegando perché",
+   "nivel": "leve"
+  },
+  {
+   "t": "Elencare cinque cose folli da fare insieme un giorno",
+   "nivel": "leve"
+  },
+  {
+   "t": "Io non ho mai, versione senza malizia",
+   "nivel": "leve"
+  },
+  {
+   "t": "Imitare la voce di un personaggio dei cartoni",
+   "nivel": "leve"
+  },
+  {
+   "t": "Acqua in bocca: a turno si prova a far ridere",
+   "nivel": "leve"
+  },
+  {
+   "t": "Palline di carta nel cestino, al meglio delle cinque",
+   "nivel": "leve"
+  },
+  {
+   "t": "Aeroplanini di carta: vince il lancio più lungo",
+   "nivel": "leve"
+  },
+  {
+   "t": "Statue musicali: chi si muove paga pegno",
+   "nivel": "leve"
+  },
+  {
+   "t": "Gioco della sedia con una sedia sola",
+   "nivel": "leve"
+  },
+  {
+   "t": "Sfida di rime di un minuto",
+   "nivel": "leve"
+  },
+  {
+   "t": "Complimenti buffi dalla A alla Z, una lettera a testa",
+   "nivel": "leve"
+  },
+  {
+   "t": "Due verità e una bugia, a turno si indovina",
+   "nivel": "leve"
+  },
+  {
+   "t": "Una canzone a sorpresa e una coreografia improvvisata, a turno",
+   "nivel": "leve"
+  },
+  {
+   "t": "Tris: chi perde lava i piatti",
+   "nivel": "leve"
+  },
+  {
+   "t": "Venti domande per indovinare un personaggio famoso",
+   "nivel": "leve"
+  },
+  {
+   "t": "Torre di oggetti di casa: chi la fa cadere perde",
+   "nivel": "leve"
+  },
+  {
+   "t": "Teatrino con i calzini infilati sulle mani",
+   "nivel": "leve"
+  },
+  {
+   "t": "Raccontare il momento più bello della settimana",
+   "nivel": "leve"
+  },
+  {
+   "t": "Scegliere il nome della vostra band",
+   "nivel": "leve"
+  },
+  {
+   "t": "Decidere chi vi interpreterebbe nel film della vostra storia",
+   "nivel": "leve"
+  },
+  {
+   "t": "Dare un titolo buffo a ogni anno insieme",
+   "nivel": "leve"
+  },
+  {
+   "t": "Tenere un cucchiaino in equilibrio sul naso",
+   "nivel": "leve"
+  },
+  {
+   "t": "Mandarvi un vocale tenero dallo stesso divano",
+   "nivel": "leve"
+  },
+  {
+   "t": "Lanciarvi popcorn in bocca da lontano",
+   "nivel": "leve"
+  },
+  {
+   "t": "Doppiare una scena famosa di un film",
+   "nivel": "leve"
+  },
+  {
+   "t": "Raccontare il peggior appuntamento prima di stare insieme",
+   "nivel": "leve"
+  },
+  {
+   "t": "Scegliervi a vicenda i vestiti per domani",
+   "nivel": "leve"
+  },
+  {
+   "t": "Quiz: chi conosce meglio la propria metà",
+   "nivel": "leve"
+  },
+  {
+   "t": "Vendervi a vicenda come in una televendita",
+   "nivel": "leve"
+  },
+  {
+   "t": "Una posizione yoga in coppia, senza cadere",
+   "nivel": "leve"
+  },
+  {
+   "t": "Fare un giuramento di coppia scemo",
+   "nivel": "leve"
+  },
+  {
+   "t": "Inventare tre parole che capite solo voi",
+   "nivel": "leve"
+  },
+  {
+   "t": "Gioco dello specchio: a turno si fa e si copia",
+   "nivel": "leve"
+  },
+  {
+   "t": "Raccontare il sogno più strano che avete fatto",
+   "nivel": "leve"
+  },
+  {
+   "t": "Acqua, fuochino, fuoco con un oggetto nascosto",
+   "nivel": "leve"
+  },
+  {
+   "t": "Mostrare il video più divertente che avete nel telefono",
+   "nivel": "leve"
+  },
+  {
+   "t": "Nomi, cose, città a voce, con una lettera estratta",
+   "nivel": "leve"
+  },
+  {
+   "t": "Presentarvi a vicenda come il premio di un quiz in TV",
+   "nivel": "leve"
+  },
+  {
+   "t": "Un minuto di applausi a vicenda, senza motivo",
+   "nivel": "leve"
+  },
+  {
+   "t": "Fare rime con i vostri nomi finché non vi bloccate",
+   "nivel": "leve"
+  },
+  {
+   "t": "Fare a turno gli effetti sonori di ogni gesto",
+   "nivel": "leve"
+  },
+  {
+   "t": "Dire la stessa parola nello stesso momento, senza mettervi d'accordo",
+   "nivel": "leve"
+  },
+  {
+   "t": "Ballare a luce spenta, guancia a guancia",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Un bacio lungo, senza fretta di finire",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Massaggio alla schiena con l'olio",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Ascoltare un lento sul letto, abbracciandovi",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Occhi negli occhi, dirvi a turno cosa amate di più",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Farvi una doccia insieme, adesso",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Bacio da film, con tanto di casqué",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Carezze sul viso, senza dire niente",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Ricordare il primo bacio e rifarlo uguale",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Baciare piano tutto il viso, a turno",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Cinque minuti abbracciandovi in silenzio",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Tre complimenti sussurrati all'orecchio",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Massaggio ai piedi",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Scrivere col dito sulla schiena una parola d'amore",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Abbraccio a cucchiaio, subito",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Ballare a piedi nudi in salotto",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Un bacio sulla fronte, sugli occhi e sulla bocca, in quest'ordine",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Mano nella mano, raccontare un sogno per il vostro futuro",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Fronte contro fronte, respirando insieme per un minuto",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Leggere ad alta voce i vostri primi messaggi",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Baci leggeri sul collo",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Scegliere una canzone e dire perché è la vostra",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Raccontare quando avete capito di amarvi",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Ringraziarvi a vicenda per una cosa che di solito passa inosservata",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Baciare una a una le dita della mano",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Abbraccio da dietro, con il mento sulla spalla",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Ballare la canzone del vostro primo incontro",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Scrivere un bigliettino d'amore e leggerlo ad alta voce",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Promettere una piccola cosa per questa settimana",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Ricordare insieme il giorno più felice della vostra storia",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Raccontare cosa avete pensato al primo appuntamento",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Bacio a occhi chiusi, contando fino a dieci",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Raccontare a turno un momento di orgoglio per la propria metà",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Riguardare le foto dei primi tempi, abbracciandovi",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Bacio con le mani sul viso",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Tenervi per mano, accarezzandovi col pollice",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Testa in grembo e coccole, a turno",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Dire perché vi scegliereste di nuovo",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Confidare una paura e ricevere un abbraccio",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Rifare una vostra vecchia foto",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Sussurrare ti amo in tre modi diversi",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Una dichiarazione d'amore improvvisata di un minuto",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Baci lenti sulla spalla",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Rifare la dichiarazione, a modo vostro",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Raccontare cosa è cambiato da quando state insieme",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Disegnare un cuore sul palmo della mano",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Raccontare i tre ricordi più belli della vostra storia",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Orecchio sul petto, ad ascoltare il cuore",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Carezze sulla schiena sotto la maglietta",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Un bacio a sorpresa sulla nuca",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Scrivervi una promessa sul dorso della mano",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Ballare a turno sui piedi della propria metà",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Sdraiarvi a guardare il soffitto e parlare sottovoce",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Registrare un vocale d'amore da ascoltare in una giornata no",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Scegliere una vostra foto e raccontarne la storia",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Un bacio a sorpresa nel mezzo di una frase",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Bacini lungo tutto il braccio, dal polso alla spalla",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Pettinarvi a vicenda con dolcezza",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Dire un pregio per ogni anno insieme",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Una serenata stonata, ma col cuore",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Raccontare la prima cosa che avete notato della propria metà",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Addormentarvi mano nella mano",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Abbraccio da arrivi in aeroporto",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Un bacio sul palmo della mano",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Ballare un lento in cucina",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Raccontare a turno una giornata salvata dalla propria metà",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Carezze sulle sopracciglia fino a rilassarvi del tutto",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Lodare il modo di amare della propria metà",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Dire cosa vi mancherebbe di più in una relazione a distanza",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Abbracciarvi e dirvi a turno: «Per me sei...»",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Raccontare come sarebbe una giornata perfetta insieme",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Bacio della pace, anche senza aver litigato",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Raccontare a turno cosa vi calma della propria metà",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Appoggiare la testa sulla spalla e restare così",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Carezze sulla nuca con la punta delle dita",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Raccontare com'è andato il vostro primo ti amo",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Mano nella mano, promettervi di prendervi più cura a vicenda",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Rintanarvi insieme sotto la coperta",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Cantare sottovoce all'orecchio",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Scaldarvi le mani a vicenda",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Raccontare un pregio della propria metà che nessuno conosce",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Baciare il neo preferito della propria metà",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Guardare il cielo dalla finestra, abbracciandovi",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Complimenti al sorriso finché non spunta davvero",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Raccontare cosa vi manca di più dei primi tempi",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Chiedere scusa per una piccola cosa con un bacio",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Raccontare una cosa della propria metà che vi fa ridere",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Cullarvi a turno in braccio per un minuto",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Un valzer improvvisato per tutta la casa",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Dire tre cose che adorate del corpo della propria metà",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Abbraccio dondolando piano, a occhi chiusi",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Baciare piano l'interno del polso",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Nascondere un bigliettino con un ti amo in una tasca",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Un bacio per ogni anno insieme",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Coprirvi di baci della buonanotte",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Fare un brindisi alla vostra storia",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Sedervi faccia a faccia, ginocchia contro ginocchia, e parlare",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Condividere un ricordo di coppia che non avete mai raccontato a nessuno",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Un bacio di saluto, come prima di partire per un viaggio",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Massaggio alle tempie, lentissimo",
+   "nivel": "romantico"
+  },
+  {
+   "t": "Ballo sensuale, a turno",
+   "nivel": "picante"
+  },
+  {
+   "t": "Baci sul collo fino ai brividi",
+   "nivel": "picante"
+  },
+  {
+   "t": "Bendare la propria metà e baciare dove si vuole, a turno",
+   "nivel": "picante"
+  },
+  {
+   "t": "Massaggio con l'olio su tutto il corpo",
+   "nivel": "picante"
+  },
+  {
+   "t": "Spogliarello su una canzone scelta da voi",
+   "nivel": "picante"
+  },
+  {
+   "t": "Bacio passandovi un cubetto di ghiaccio",
+   "nivel": "picante"
+  },
+  {
+   "t": "In braccio alla propria metà, baciarvi senza fretta",
+   "nivel": "picante"
+  },
+  {
+   "t": "Provocarvi senza baciarvi sulla bocca",
+   "nivel": "picante"
+  },
+  {
+   "t": "Spogliarvi a vicenda, un capo alla volta",
+   "nivel": "picante"
+  },
+  {
+   "t": "Mordicchiare il labbro nel bel mezzo del bacio",
+   "nivel": "picante"
+  },
+  {
+   "t": "Baciarvi contro il muro",
+   "nivel": "picante"
+  },
+  {
+   "t": "Doccia insieme che finisce a letto",
+   "nivel": "picante"
+  },
+  {
+   "t": "Passarvi il ghiaccio sul corpo a vicenda",
+   "nivel": "picante"
+  },
+  {
+   "t": "Sussurrarvi all'orecchio cosa vorreste fare adesso",
+   "nivel": "picante"
+  },
+  {
+   "t": "Baciare il corpo dal collo fino ai fianchi",
+   "nivel": "picante"
+  },
+  {
+   "t": "Ruoli: chi guida e chi si lascia andare",
+   "nivel": "picante"
+  },
+  {
+   "t": "Raccontare una fantasia ad alta voce",
+   "nivel": "picante"
+  },
+  {
+   "t": "Fare l'amore a luce accesa",
+   "nivel": "picante"
+  },
+  {
+   "t": "Cominciare sul divano e finire in camera",
+   "nivel": "picante"
+  },
+  {
+   "t": "Provare una posizione nuova",
+   "nivel": "picante"
+  },
+  {
+   "t": "Fare l'amore al buio, solo col tatto",
+   "nivel": "picante"
+  },
+  {
+   "t": "Restare in intimo fino a fine serata",
+   "nivel": "picante"
+  },
+  {
+   "t": "Miele o Nutella sul corpo, da togliere con la bocca",
+   "nivel": "picante"
+  },
+  {
+   "t": "Graffiarvi piano la schiena",
+   "nivel": "picante"
+  },
+  {
+   "t": "Massaggio solo con i polpastrelli",
+   "nivel": "picante"
+  },
+  {
+   "t": "Baciare la pancia piano, senza fretta",
+   "nivel": "picante"
+  },
+  {
+   "t": "Togliere un capo a ogni bacio",
+   "nivel": "picante"
+  },
+  {
+   "t": "Mordicchiare il lobo dell'orecchio",
+   "nivel": "picante"
+  },
+  {
+   "t": "Baciare l'interno coscia",
+   "nivel": "picante"
+  },
+  {
+   "t": "Massaggio alle cosce con l'olio",
+   "nivel": "picante"
+  },
+  {
+   "t": "Sdraiarvi senza vestiti e solo accarezzarvi",
+   "nivel": "picante"
+  },
+  {
+   "t": "Passare la lingua dal collo all'orecchio",
+   "nivel": "picante"
+  },
+  {
+   "t": "Provocarvi sopra i vestiti per un minuto",
+   "nivel": "picante"
+  },
+  {
+   "t": "Un complimento spinto sussurrato all'orecchio",
+   "nivel": "picante"
+  },
+  {
+   "t": "Baciare tutta la schiena, dalla nuca in giù",
+   "nivel": "picante"
+  },
+  {
+   "t": "Farvi rabbrividire solo col respiro",
+   "nivel": "picante"
+  },
+  {
+   "t": "Passare un tessuto morbido sul corpo",
+   "nivel": "picante"
+  },
+  {
+   "t": "Massaggio ai piedi che sale sempre di più",
+   "nivel": "picante"
+  },
+  {
+   "t": "Ballo stretto con le mani libere di esplorare",
+   "nivel": "picante"
+  },
+  {
+   "t": "Provocarvi con i baci e fermarvi sul più bello",
+   "nivel": "picante"
+  },
+  {
+   "t": "Baciarvi solo con la punta della lingua",
+   "nivel": "picante"
+  },
+  {
+   "t": "Leccare piano le labbra",
+   "nivel": "picante"
+  },
+  {
+   "t": "Succhiare un dito guardandovi negli occhi",
+   "nivel": "picante"
+  },
+  {
+   "t": "Scegliervi a vicenda l'intimo da indossare",
+   "nivel": "picante"
+  },
+  {
+   "t": "Sbottonare una camicia con la bocca",
+   "nivel": "picante"
+  },
+  {
+   "t": "Uscire dalla doccia con l'asciugamano e provocare",
+   "nivel": "picante"
+  },
+  {
+   "t": "Massaggio alla schiena con le mani calde",
+   "nivel": "picante"
+  },
+  {
+   "t": "Un bacio con la lingua lungo e profondo",
+   "nivel": "picante"
+  },
+  {
+   "t": "Mostrare dove vi piace di più ricevere baci",
+   "nivel": "picante"
+  },
+  {
+   "t": "Guidare la mano dove il tocco vi piace di più",
+   "nivel": "picante"
+  },
+  {
+   "t": "Baciare l'ombelico e scendere solo un pochino",
+   "nivel": "picante"
+  },
+  {
+   "t": "Abbraccio da dietro con le mani curiose",
+   "nivel": "picante"
+  },
+  {
+   "t": "Respirare sul collo senza toccare",
+   "nivel": "picante"
+  },
+  {
+   "t": "Massaggio con il corpo, senza usare le mani",
+   "nivel": "picante"
+  },
+  {
+   "t": "Due minuti di baci senza usare le mani",
+   "nivel": "picante"
+  },
+  {
+   "t": "Due minuti di sole mani, senza baci",
+   "nivel": "picante"
+  },
+  {
+   "t": "Sfilare in intimo per la camera",
+   "nivel": "picante"
+  },
+  {
+   "t": "Mandarvi una foto audace dalla stessa stanza",
+   "nivel": "picante"
+  },
+  {
+   "t": "Leggere un racconto erotico ad alta voce",
+   "nivel": "picante"
+  },
+  {
+   "t": "Raccontare il sogno più spinto che avete fatto",
+   "nivel": "picante"
+  },
+  {
+   "t": "Corpo sopra corpo, solo baci",
+   "nivel": "picante"
+  },
+  {
+   "t": "Tenere ferma la nuca durante il bacio",
+   "nivel": "picante"
+  },
+  {
+   "t": "Baci dietro le ginocchia e sui polpacci",
+   "nivel": "picante"
+  },
+  {
+   "t": "Piccoli morsi sulla spalla e sulla nuca",
+   "nivel": "picante"
+  },
+  {
+   "t": "Massaggio con l'olio sul petto e sulla pancia",
+   "nivel": "picante"
+  },
+  {
+   "t": "Portarvi in braccio fino al letto",
+   "nivel": "picante"
+  },
+  {
+   "t": "Baci sopra l'intimo",
+   "nivel": "picante"
+  },
+  {
+   "t": "Domande sulla coppia: chi sbaglia si toglie un capo",
+   "nivel": "picante"
+  },
+  {
+   "t": "Dire a turno tre dettagli del corpo della propria metà che vi accendono",
+   "nivel": "picante"
+  },
+  {
+   "t": "Provocare con il piede sotto la coperta",
+   "nivel": "picante"
+  },
+  {
+   "t": "Bacio al rallentatore, solo le labbra che si sfiorano",
+   "nivel": "picante"
+  },
+  {
+   "t": "Massaggio alla schiena stando a cavalcioni",
+   "nivel": "picante"
+  },
+  {
+   "t": "Scegliere tre punti del corpo dove ricevere un bacio",
+   "nivel": "picante"
+  },
+  {
+   "t": "Guardarvi senza toccarvi per due minuti",
+   "nivel": "picante"
+  },
+  {
+   "t": "Baciare piano il petto",
+   "nivel": "picante"
+  },
+  {
+   "t": "Togliere i calzini con la bocca",
+   "nivel": "picante"
+  },
+  {
+   "t": "Toccare solo dove i vestiti non coprono",
+   "nivel": "picante"
+  },
+  {
+   "t": "Dire dove baciare, passo dopo passo",
+   "nivel": "picante"
+  },
+  {
+   "t": "Mettervi di spalle a turno e lasciarvi esplorare",
+   "nivel": "picante"
+  },
+  {
+   "t": "Baciare e mordicchiare i fianchi",
+   "nivel": "picante"
+  },
+  {
+   "t": "Fingere di essere due sconosciuti che flirtano",
+   "nivel": "picante"
+  },
+  {
+   "t": "Aprire i pantaloni piano piano",
+   "nivel": "picante"
+  },
+  {
+   "t": "Indossare solo una camicia della propria metà, e nient'altro",
+   "nivel": "picante"
+  },
+  {
+   "t": "Un minuto senza vestiti a guardarvi",
+   "nivel": "picante"
+  },
+  {
+   "t": "Annusare il profumo della pelle su tutto il corpo",
+   "nivel": "picante"
+  },
+  {
+   "t": "Restare in silenzio mentre si ricevono baci su tutto il corpo",
+   "nivel": "picante"
+  },
+  {
+   "t": "Sussurrarvi il nome, lentamente",
+   "nivel": "picante"
+  },
+  {
+   "t": "Tenere fermi i polsi durante il bacio",
+   "nivel": "picante"
+  },
+  {
+   "t": "Prendervi per mano e filare in camera",
+   "nivel": "picante"
+  },
+  {
+   "t": "Dare un voto a ogni bacio sul corpo",
+   "nivel": "picante"
+  },
+  {
+   "t": "Mani sotto i vestiti, piano piano",
+   "nivel": "picante"
+  },
+  {
+   "t": "Strofinare il naso piano lungo il collo",
+   "nivel": "picante"
+  },
+  {
+   "t": "Farvi implorare il prossimo bacio",
+   "nivel": "picante"
+  },
+  {
+   "t": "Baci vicino all'inguine, senza arrivarci",
+   "nivel": "picante"
+  },
+  {
+   "t": "Muovere i fianchi in braccio, ancora con i vestiti addosso",
+   "nivel": "picante"
+  },
+  {
+   "t": "Tre domande intime, vietato mentire",
+   "nivel": "picante"
+  },
+  {
+   "t": "Togliervi la maglia e stringervi forte",
+   "nivel": "picante"
+  },
+  {
+   "t": "Baciare la clavicola da una parte all'altra",
+   "nivel": "picante"
+  },
+  {
+   "t": "Massaggio al sedere con l'olio",
+   "nivel": "picante"
+  },
+  {
+   "t": "Pomiciare un minuto in corridoio",
+   "nivel": "picante"
+  },
+  {
+   "t": "Legare le mani con un foulard o una cravatta",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Comandi e obbedienza fino a fine serata, ruoli a sorte",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Realizzare adesso un pezzo di una vecchia fantasia",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Portarvi al limite e fermarvi, più volte",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Sculacciate, con una parola di sicurezza concordata",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Vietato toccare finché non arriva il permesso",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Fare l'amore davanti allo specchio",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Sesso orale fino alla fine",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Un 69",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Farlo da dietro, a quattro zampe",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Una sveltina fuori dalla camera da letto",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Toccarvi a vicenda guardandovi negli occhi",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Arrivare all'orgasmo insieme",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Fare sesso sotto la doccia",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Frasi spinte per tutto il tempo",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Usare un sex toy, se ne avete uno in casa",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Guardare un video hard insieme e rifare una scena",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Girare un video solo per voi due",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Masturbarvi guardandovi, senza toccarvi a vicenda",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Tirare i capelli nel momento giusto",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Farlo in piedi, contro il muro",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Stare sopra e decidere il ritmo, a turno",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Bendare e non dire cosa arriva",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Fare sesso sul divano",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Mordere e lasciare il segno dove i vestiti coprono",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Farlo a cucchiaio, di fianco",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Sesso orale a occhi bendati, a turno",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Sesso orale in ginocchio, senza fretta",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Masturbazione con l'olio fino all'orgasmo, a turno",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Sveltina senza spogliarvi, aprendo solo lo stretto necessario",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Farlo sul tavolo della cucina",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Farlo sul pavimento, sopra una coperta",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Gemere forte, senza trattenervi",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Sesso orale in piedi",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Sesso orale con il ghiaccio in bocca",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Sopra, dando le spalle: chi sta sotto guarda e basta",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Farlo con le gambe sulle spalle",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Farlo su una sedia, in braccio",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Sul bordo del letto, con chi guida in piedi",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Fare sesso senza fare il minimo rumore",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Far venire due volte la propria metà",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Venire solo quando arriva il permesso",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Sex toy e sesso orale insieme, se ne avete uno",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Sesso anale piano, con il lubrificante se c'è",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Leccare tutto il corpo fino ad arrivare al sesso orale",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Sesso orale senza usare le mani",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Descrivere nei dettagli come volete venire stasera",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Un massaggio professionale che sconfina",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Farlo a pancia in giù, pelle contro pelle",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Bloccare i polsi al letto mentre fate l'amore",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Tre posizioni diverse prima di venire",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Sveltina da cinque minuti cronometrati",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Farlo sul piano del lavandino in bagno",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Venire sulla pancia o sul petto della propria metà",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Sedersi sul viso della propria metà",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Bacio nero, solo se vi va",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Invertire i ruoli: chi di solito guida obbedisce",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Sesso orale da dietro, a quattro zampe",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Morsi sulle cosce prima del sesso orale",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Sex toy su di sé, con la propria metà a guardare",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Chiedere il permesso prima di ogni tocco",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Parole sporche al momento giusto, come d'accordo",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Farvi implorare prima dell'orgasmo, a turno",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Farlo in maschera o in costume, se ce l'avete",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Sesso orale con sottofondo di frasi spinte",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Venire guardandovi negli occhi",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Decidere a turno dove venire",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Masturbare la propria metà da dietro, a cucchiaio",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Farlo in ginocchio, faccia a faccia",
+   "nivel": "proibido"
+  },
+  {
+   "t": "In piedi, da dietro, tenendo i fianchi",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Strofinare i corpi nudi fino all'orgasmo",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Dirigere a parole la propria metà che si tocca",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Polsi legati con una cintura, con la parola di sicurezza",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Farlo piano, occhi negli occhi tutto il tempo",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Usare il sex toy sulla propria metà baciandovi sulla bocca",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Dopo il primo orgasmo, continuare fino al secondo",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Farlo senza mai staccarvi, neanche un secondo",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Mani e bocca insieme, senza sosta",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Chiedere una cosa che non avete mai avuto il coraggio di chiedere",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Farlo sulla lavatrice in centrifuga",
+   "nivel": "proibido"
+  },
+  {
+   "t": "In ginocchio, in attesa del prossimo ordine",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Sesso orale fino a far tremare le gambe",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Farlo con il corpo tutto unto d'olio",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Farlo davanti alla finestra, a tende chiuse",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Il gioco della perquisizione che sfugge di mano",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Passare la serata senza vestiti e farlo ogni volta che vi va",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Raccontare come vi toccate quando nessuno vi vede",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Fare sesso senza usare le mani",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Farlo con la porta aperta, con la casa tutta per voi",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Mordere il cuscino per non urlare",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Sesso orale a turno, un minuto a testa",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Scegliere la posizione, senza discussioni",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Sveltina in bagno, a porta chiusa a chiave",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Sesso orale sul divano, in ginocchio sul tappeto",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Gemere il nome della propria metà all'orecchio",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Venire con gli occhi bendati",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Una sculacciata a ogni cambio di posizione",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Stare sopra, prima piano e poi velocissimo",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Farlo con la musica a tutto volume",
+   "nivel": "proibido"
+  },
+  {
+   "t": "Far venire la propria metà senza spogliarvi del tutto",
+   "nivel": "proibido"
+  }
+ ]
+}

@@ -1,0 +1,1604 @@
+{
+ "quiz": [
+  {
+   "p": "Se {par} potesse ordinare qualsiasi cosa da mangiare adesso, cosa arriverebbe in tavola?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale canzone canta {par} sotto la doccia, pensando che nessuno senta?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Secondo {par}, qual è la tua mania che dà più sui nervi?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Nella colazione dei sogni di {par}, cosa non può mancare per nessun motivo?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale serie TV {par} ha già visto tre volte e rivedrebbe anche stasera?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Se domani {par} avesse un giorno libero a sorpresa, come lo passerebbe?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Qual è il difetto che {par} ammette di avere senza farsi pregare?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Che animale terrebbe in casa {par}, se non ci fossero limiti?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale odore riporta subito {par} all'infanzia?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Dolce o salato: cosa sceglie {par} alle undici di sera?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Qual è stato il primo lavoro di {par}?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale posto del mondo {par} conosce solo in foto e sogna di vedere dal vivo?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Qual è la parola o l'espressione che {par} ripete di più durante il giorno?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale film ha fatto piangere {par}, anche se non lo ammetterebbe mai?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Qual è la prima cosa che fa {par} appena si sveglia?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale cibo {par} non mangerebbe nemmeno per tutto l'oro del mondo?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Se domani {par} diventasse una celebrità, per quale motivo sarebbe?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale soprannome d'infanzia {par} preferirebbe che nessuno ricordasse?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Caldo o freddo: con quale dei due {par} è di umore migliore?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale app apre più spesso {par} sul telefono, messaggi a parte?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Qual è la paura più sciocca di {par}? Scarafaggi, altezza, buio...",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale regalo ha ricevuto {par} fingendo di apprezzarlo?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale talento nascosto {par} pensa di avere, senza che nessuno lo noti?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Qual è il piatto che {par} pensa di cucinare meglio di chiunque altro?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale materia {par} odiava a scuola?",
+   "nivel": "leve"
+  },
+  {
+   "p": "All'aperitivo del sabato, cosa ordina {par} senza nemmeno guardare la lista?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Qual è l'ultima cosa che ha fatto ridere {par} fino alle lacrime?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Domenica di pioggia: qual è il programma preferito di {par}?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale concerto {par} pagherebbe una fortuna per vedere da vicino?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale piccola cosa riesce a rovinare la giornata di {par}?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Qual era il cartone animato preferito di {par} ai tempi delle elementari?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale piatto della nonna {par} chiederebbe, se potesse mangiarlo un'ultima volta?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale pizza ordina {par} senza pensarci due volte?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Che mestiere sognava di fare {par} a sei anni?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quali patatine o biscotti {par} mette nel carrello senza guardare il prezzo?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale sport segue {par}, anche solo quando ci sono i Mondiali?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Qual è il vestito peggiore che {par} abbia mai indossato giurando che fosse alla moda?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale canzone salta subito {par} quando parte in riproduzione casuale?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale personaggio di un film o di una serie {par} vorrebbe essere per un giorno?",
+   "nivel": "leve"
+  },
+  {
+   "p": "A che ora va a dormire {par} in un normale giorno feriale?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale superstizione segue {par}, pur dicendo di non crederci?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Qual è l'angolo della casa dove {par} ama stare di più?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale frutto {par} mangerebbe tutti i giorni senza mai stancarsi?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Qual è il ricordo d'infanzia più lontano che ha {par}?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Qual era il gioco preferito di {par} in cortile?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Se {par} potesse avere un superpotere, quale sceglierebbe?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale gusto di gelato finisce sempre per prendere {par}?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Cosa colleziona {par}, o ha collezionato in passato?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Come prende il caffè {par}? Espresso, macchiato, lungo, corretto...",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale cantante {par} ascolta di nascosto per non farsi prendere in giro?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale faccenda di casa {par} detesta di più?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale faccenda di casa {par} fa quasi volentieri?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale vacanza dell'infanzia {par} ricorda ancora oggi?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Che nome darebbe {par} a un cane?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Di quale film {par} sa le battute a memoria?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale mania ha {par} a tavola?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Qual è il posto della città dove {par} va più volentieri?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale piatto ordina sempre {par} nello stesso ristorante, senza nemmeno aprire il menù?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale cantante o gruppo ha segnato l'adolescenza di {par}?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Cosa dimentica sempre {par} quando esce di casa?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale sticker manda più spesso {par} su WhatsApp?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale gioco, da tavolo o sul telefono, {par} prende troppo sul serio?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Qual è stato il primo cellulare di {par}?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Che tipo di video {par} guarda per ore senza accorgersene?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Qual è la peggiore abitudine di {par} prima di dormire?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Da che lato del letto preferisce dormire {par}?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale parola {par} sbaglia sempre a pronunciare?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Come si chiamava il migliore amico o la migliore amica di {par} ai tempi della scuola?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Se {par} potesse vivere in un'altra epoca, quale sceglierebbe?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale odore {par} trova insopportabile?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Qual è l'ingrediente che {par} metterebbe ovunque? Parmigiano, peperoncino, aglio...",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale hobby {par} ha iniziato e lasciato a metà?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Qual è la prima cosa che fa {par} appena rientra a casa?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale lingua {par} vorrebbe parlare alla perfezione?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale programma TV guardava {par} dopo la scuola?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Cosa divora ancora {par}, senza vergogna, alle feste di compleanno dei bambini? Pizzette, patatine, torta...",
+   "nivel": "leve"
+  },
+  {
+   "p": "Qual è la cosa di tutti i giorni che {par} rimanda sempre per pigrizia?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Se {par} aprisse un'attività tutta sua, cosa venderebbe?",
+   "nivel": "leve"
+  },
+  {
+   "p": "In quale reality show {par} pensa che se la caverebbe alla grande?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale strumento {par} vorrebbe saper suonare?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Qual è la bibita analcolica preferita di {par}? Chinotto, aranciata, tè freddo...",
+   "nivel": "leve"
+  },
+  {
+   "p": "Cosa fa {par} per calmarsi quando si arrabbia?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Qual è la marachella più grossa che {par} abbia combinato alle elementari?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Qual è il numero fortunato di {par}?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale consiglio della mamma o del papà {par} ripete ancora oggi?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale genere di film {par} non sceglie mai?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Se {par} potesse cenare con una persona famosa a scelta, chi sarebbe?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale oggetto porterebbe {par} su un'isola deserta?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale cibo consola {par} quando sta male?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale canzone mette {par} quando fa le pulizie di casa?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Qual è stato il primo concerto che {par} ha visto dal vivo?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale mania ha {par} con il telefono?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Qual è la festa preferita di {par}? Natale, Capodanno, Ferragosto...",
+   "nivel": "leve"
+  },
+  {
+   "p": "Se {par} avesse duecento euro da spendere entro stasera, cosa comprerebbe?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Qual è il dolce a cui {par} non dice mai di no?",
+   "nivel": "leve"
+  },
+  {
+   "p": "A quale cibo di strada {par} non sa resistere? Arancino, piadina, supplì...",
+   "nivel": "leve"
+  },
+  {
+   "p": "Per quale motivo {par} arriva quasi sempre in ritardo?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Se {par} passasse un giorno intero senza telefono, qual è la prima cosa che farebbe?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Cosa esclama {par} quando sbatte il mignolo del piede contro uno spigolo?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Quale rumore fa perdere la pazienza a {par}?",
+   "nivel": "leve"
+  },
+  {
+   "p": "Qual è la prima cosa che {par} ha notato di te?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "In quale momento {par} ha capito di provare qualcosa di serio per te?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale vostro appuntamento {par} rifarebbe identico, senza cambiare niente?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale canzone {par} direbbe che è la vostra canzone?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Dove immagina {par} che vivrete tra dieci anni?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Cosa ammira di più {par} in te, senza dirtelo quasi mai?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Qual è il giorno in cui {par} ha provato più orgoglio per te?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale tuo gesto fa sciogliere subito il cuore di {par}?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale viaggio di coppia è in cima alla lista di {par}?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Se {par} potesse rivivere un giorno con te, quale sceglierebbe?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Secondo {par}, cosa fate voi due meglio di qualsiasi altra coppia?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Qual è stato il vostro litigio più stupido, secondo {par}?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Con una parola sola, come descriverebbe {par} il vostro primo bacio?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale sogno {par} vuole realizzare con te prima di ogni altro?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale tua frase {par} si porta nel cuore ancora oggi?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quando {par} ha una giornata storta, cosa fai tu che aiuta di più?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale nomignolo affettuoso {par} ama di più sentirsi dire da te?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale ricordo dei primi mesi {par} ama raccontare di più?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale tuo regalo ha emozionato di più {par}?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Se {par} scrivesse un libro su di voi, che titolo avrebbe?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale tuo dettaglio {par} pensa di essere l'unica persona a notare?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale periodo difficile, secondo {par}, ha rafforzato di più la vostra coppia?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale vostra tradizione {par} ci tiene a rispettare ogni anno?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale promessa ti farebbe oggi {par}, sapendo di mantenerla davvero?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "In quale posto {par} si sente più a casa con te?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale tuo traguardo {par} ha festeggiato come se fosse suo?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Se vinceste al Superenalotto, quale sarebbe il primo progetto di coppia di {par}?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale tuo messaggio {par} ha riletto più di una volta?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Cosa cambierebbe {par} nella vostra routine per avere più tempo per voi due?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Dove si trovava {par} quando ti ha detto \"ti amo\" per la prima volta?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Di cosa avete parlato nella vostra prima lunga chiacchierata, secondo {par}?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Cosa indossavi al vostro primo appuntamento, nel ricordo di {par}?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Qual è il modo preferito di {par} di ricevere coccole?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale tuo complimento lascia {par} senza parole dalla felicità?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Abbraccio, bacio, carezze tra i capelli o una coccola: cosa preferisce {par} dopo una giornata lunga?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "In quale momento {par} ha pensato: \"è la persona giusta\"?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale film, secondo {par}, vi somiglia di più?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale serata a due {par} farebbe ogni settimana, potendo?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Dove sceglierebbe {par} di festeggiare il vostro anniversario?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Cosa manca di più a {par} quando non potete vedervi?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Qual è la sorpresa più bella che {par} ti abbia mai preparato?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale sorpresa {par} adorerebbe ricevere senza averla mai chiesta?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale momento della giornata con te {par} considera il migliore?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale piatto {par} collega a un vostro momento speciale?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Cosa ricorda di più {par} del vostro primo viaggio insieme?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale tua mania {par} trova tenera, anche se si lamenta?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Qual è la dichiarazione più bella che {par} abbia mai sentito da te?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale angolo della casa {par} sente più vostro?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Come immagina {par} la festa perfetta per celebrare voi due?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "In quale momento {par} ha sentito di più quanto ci tieni?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Qual è il rituale della buonanotte con te che {par} preferisce?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Che tipo di appuntamento {par} trova il più romantico in assoluto?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale gesto d'affetto in pubblico {par} adora?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Qual è stata la vostra giornata più divertente, nel ricordo di {par}?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Cosa fai tu che {par} trova la cosa più romantica del mondo?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale posto dei vostri inizi {par} vorrebbe rivedere?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale vostra foto {par} ama di più?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale sfida {par} pensa che vincerete ancora insieme?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Qual è la figuraccia più grande che avete fatto in coppia, secondo {par}?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale profumo fa pensare subito {par} a te?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Qual è il modo preferito di {par} di svegliarsi accanto a te?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Contatto fisico, parole, regali, tempo insieme o un aiuto concreto: come sente di più il tuo amore {par}?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale vostro saluto prima di una partenza è stato il più difficile per {par}?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Che tipo di dichiarazione preferisce {par}: detta, scritta o dimostrata con un gesto?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Come sarebbe una giornata perfetta a due per {par}, dalla colazione alla sera?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Che nome darebbe {par} a un vostro animale?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale esperienza semplice {par} vuole vivere con te entro quest'anno?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Secondo {par}, cosa ti ha fatto perdere la testa?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Qual è la cosa più coraggiosa che {par} abbia mai fatto per te?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale tuo atteggiamento fa sentire {par} al sicuro?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Che tipo di coccola {par} adora ricevere senza nessun motivo?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale piatto {par} ama di più cucinare per te?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quali tue scuse sono sembrate più sincere a {par}?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale scena di un film romantico {par} vorrebbe vivere con te?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Cosa ama fare {par} con te in una domenica senza programmi?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale posto della città custodisce una vostra storia che {par} adora raccontare?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Cosa immagina {par} che farete insieme a ottant'anni?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Qual è stato il primo regalo che {par} ti ha fatto?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale vostra data {par} non dimentica mai?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Qual è stata la vostra notte più romantica, nel ricordo di {par}?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Chi, tra parenti e amici, secondo {par}, fa più il tifo per voi?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale tuo cambiamento, da quando vi conoscete, piace di più a {par}?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Di quale argomento {par} potrebbe ascoltarti parlare per ore?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Qual è il modo di chiedere scusa che funziona meglio con {par}?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Che tipo di coccola chiede {par} senza dire una parola?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Al mattino, al rientro o prima di dormire: quale tuo abbraccio preferisce {par}?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale grande progetto {par} vuole realizzare con te nei prossimi cinque anni?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale parola userebbe {par} per descrivere voi due oggi?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Cosa pensa {par} che sia cambiato di più tra voi dall'inizio?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale consiglio darebbe {par} a una coppia che si è appena messa insieme?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale tuo sguardo {par} riconosce anche da lontano?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "In quale occasione {par} ha dovuto avere più pazienza con te?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quando {par} sta male, quale tua attenzione fa più la differenza?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale serie TV vista insieme è piaciuta di più a {par}?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Qual è la volta in cui {par} ha riso di più con te?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Che tipo di messaggio a metà giornata fa sorridere {par} senza motivo?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale parte del tuo viso {par} ama di più guardare?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale giorno {par} considera l'inizio ufficiale della vostra storia?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale hobby {par} vorrebbe iniziare con te?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "Quale tuo aiuto {par} non dimenticherà mai?",
+   "nivel": "romantico"
+  },
+  {
+   "p": "A quale parte del tuo corpo {par} resiste di meno?",
+   "nivel": "picante"
+  },
+  {
+   "p": "In quale posto fuori casa {par} ha pensato di baciarti senza fermarsi più?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Con quale tuo vestito {par} annullerebbe tutti i programmi della serata?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Mattina, pomeriggio o sera: quando {par} ha più voglia di te?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Qual è stato il vostro bacio più bollente, nel ricordo di {par}?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Quale fantasia {par} non ha mai avuto il coraggio di proporti?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Cosa fai tu che dà subito i brividi a {par}?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Luce accesa, luce soffusa o buio totale: cosa preferisce {par}?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Quale tuo profumo spinge {par} ad avvicinarsi di più?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Quale posto insolito {par} sceglierebbe per un'avventura a due?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Quale canzone sceglierebbe {par} per una serata più calda?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Se {par} potesse chiederti una cosa audace stasera, cosa sarebbe?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Bocca a parte, dove ama di più ricevere baci {par}?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Qual è il messaggio più malizioso che {par} ti abbia mai mandato?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Lento o di corsa: qual è il ritmo preferito di {par}?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Quale tua parola, sussurrata all'orecchio, fa più effetto a {par}?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Quale tuo capo d'abbigliamento {par} ti toglierebbe per primo?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Doccia insieme, massaggio o un gioco: cosa sceglie {par} per accendere la serata?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Dove eravate quando {par} ha sentito per la prima volta desiderio per te?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Cosa vuole provare {par} senza avertelo ancora detto?",
+   "nivel": "picante"
+  },
+  {
+   "p": "In quale punto del collo {par} ama di più sentire la tua bocca?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Che tipo di tocco fa rabbrividire {par}: leggero, deciso o con le unghie?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Qual è il posto più strano in cui avete pomiciato, secondo {par}?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Quale tuo capo di intimo {par} trova più provocante?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Quale tuo sguardo {par} capisce subito come un invito?",
+   "nivel": "picante"
+  },
+  {
+   "p": "In quale momento della giornata {par} adora ricevere una tua provocazione?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Quale persona famosa {par} trova più sexy?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Quale travestimento {par} vorrebbe vederti addosso?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Quale messaggio malizioso {par} adorerebbe ricevere in pieno orario di lavoro?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Qual è stato il momento più inaspettato in cui {par} ha avuto voglia di te?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Quale parte del tuo corpo {par} ama di più mordicchiare?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Schiena, piedi, collo o tutto il corpo: quale massaggio preferisce {par}?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Che tipo di bacio preferisce {par}: lento, intenso o provocante?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Quale notte a due {par} definirebbe indimenticabile?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Quale stanza della casa, camera a parte, {par} trova più eccitante?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Cosa fai senza accorgertene che accende {par}?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Quale tua frase da rimorchio ha funzionato davvero con {par}?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Quale tua foto {par} terrebbe solo per guardarla ogni tanto?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Che tipo di ballo vorrebbe vederti fare {par} in una serata a due?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Quale parte del corpo di {par} è la più sensibile al tocco?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Quali preliminari {par} farebbe durare tutta la notte?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Spiaggia, hotel, baita in montagna o macchina: quale scenario da fantasia sceglie {par}?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Ghiaccio, olio o una piuma: cosa userebbe {par} per provocarti?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Che tipo di provocazione discreta in pubblico {par} trova più eccitante?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Quale frase userebbe {par} per portarti in camera senza che nessuno se ne accorga?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Con quale vestito {par} si sente più sexy?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Cosa trova più sexy {par} in te quando non ci stai nemmeno provando?",
+   "nivel": "picante"
+  },
+  {
+   "p": "In quale punto del corpo {par} adora sentire il tuo respiro?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Che tipo di saluto al mattino fa pensare {par} a te per tutto il giorno?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Qual è stata la vostra doccia insieme più bollente, nel ricordo di {par}?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Benda sugli occhi, spogliarello o dadi erotici: a quale gioco {par} direbbe di sì stasera?",
+   "nivel": "picante"
+  },
+  {
+   "p": "In quale punto della schiena {par} ama di più sentire le tue mani?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Chi prende più spesso l'iniziativa tra voi due, secondo {par}?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Quale reazione di {par} tradisce che è scattato il desiderio?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Quale cibo {par} trova più sensuale da condividere a letto?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Che tipo di carezza sulle cosce {par} trova più provocante?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Cosa adora {par} che tu faccia ai suoi capelli mentre vi baciate?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Quale tuo modo di spogliarti provoca di più {par}?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Quale vostro ricordo bollente torna in mente a {par} quando sente la tua mancanza?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Chi comanda e chi obbedisce: quale ruolo vuole {par} in una serata speciale?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Dove vorrebbe passare {par} un weekend tutto per voi, senza uscire dalla stanza?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Quale dettaglio del tuo sorriso spinge {par} a baciarti?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Sul labbro, sul collo o sulla spalla: dove ama {par} un piccolo morso?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Quale complimento sensuale {par} ama di più sentirsi dire?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Che tipo di carezza piace a {par} all'inizio della serata?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Quale momento della giornata {par} trova perfetto per una sveltina?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Quale sarebbe il viaggio più sensuale che {par} farebbe con te?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Quale tua provocazione {par} ha fatto più fatica a dimenticare?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Quale tuo atteggiamento a una festa spinge {par} a voler tornare subito a casa?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Quale parola userebbe {par} per descrivere i tuoi baci?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Cosa fa {par} quando vuole sedurti senza dire niente?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Che tipo di tuo messaggio vocale fa più effetto a {par}?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Che tipo di abbraccio da dietro {par} trova più piacevole?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Qual è il punto debole più grande di {par} quando ti avvicini?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Quale film sceglierebbe {par} da guardare con te solo come scusa?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Seta, pizzo o cotone: quale tessuto {par} preferisce sulla pelle?",
+   "nivel": "picante"
+  },
+  {
+   "p": "In quale notte {par} ha sentito di più il tuo desiderio?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Che gioco di sguardi ama fare {par} in un posto pieno di gente?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Cosa vorrebbe sentirsi dire da te {par} prima di spegnere la luce?",
+   "nivel": "picante"
+  },
+  {
+   "p": "In quale periodo della vostra storia, secondo {par}, c'era più fuoco tra voi?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Cosa fai con le mani che {par} trova irresistibile?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Vino, cioccolato o menta: quale sapore di bacio {par} preferisce?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Quale sfida sensuale {par} accetterebbe stasera stessa?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Quale bigliettino malizioso {par} vorrebbe trovare in borsa o nello zaino?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Se {par} potesse preparare la scena di una notte perfetta, cosa ci sarebbe in camera?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Sussurro, sguardo o tocco: cosa trova più sensuale {par}?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Qual è stata la volta in cui {par} ha fatto più fatica ad aspettare di arrivare a casa?",
+   "nivel": "picante"
+  },
+  {
+   "p": "In quale momento la tua voce diventa più sexy per {par}?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Quale olio o crema sceglierebbe {par} per farsi fare un massaggio da te?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Quale capo {par} pensa che dovresti indossare più spesso in casa?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Per la vita, per la mano o per la nuca: come preferisce {par} che tu l'attiri a te?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Vasca da bagno, amaca o tappeto in salotto: dove vorrebbe {par} una notte bollente?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Quale parte del corpo di {par} merita più attenzioni di quelle che riceve?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Quanto dovrebbero durare i preliminari, secondo {par}?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Cosa vorrebbe fare {par} in una camera d'albergo e non ha mai fatto?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Quale tua abitudine del mattino risveglia il desiderio di {par}?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Cosa vuole {par} che tu faccia la prossima volta che avrete casa libera?",
+   "nivel": "picante"
+  },
+  {
+   "p": "In quale occasione {par} ha sentito di più la mancanza del tuo corpo?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Quale tuo accessorio {par} trova più seducente?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Se {par} potesse scegliere una serata a tema, quale sarebbe il tema?",
+   "nivel": "picante"
+  },
+  {
+   "p": "Qual è la posizione preferita di {par}?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Quale posizione {par} vuole provare con te e non avete ancora provato?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Cosa porta {par} all'orgasmo più in fretta?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Come preferisce {par} ricevere il sesso orale?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Dare o ricevere sesso orale: cosa preferisce {par}?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Vibratore, plug o stimolatore: quale vorrebbe provare {par} in coppia?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Qual è stata la vostra volta più intensa a letto, secondo {par}?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Dove farebbe sesso {par}, se non ci fosse nessun rischio che qualcuno vi veda?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Quale limite {par} non supera per nessun motivo a letto?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Quale fantasia spinta ha {par} senza averla mai detta ad alta voce?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "A parte l'ovvio, quale parte del tuo corpo {par} adora di più baciare e leccare?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Quale parola spinta {par} ama sentirsi dire sul più bello?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Quale ritmo porta {par} all'orgasmo?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Quante volte a settimana farebbe sesso {par}, se la scelta fosse solo sua?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Qual è il posto più audace in cui avete fatto sesso, per {par}?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Quale sex toy {par} usa più volentieri quando non ci sei?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "In quale situazione {par} si masturba più spesso pensando a te?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Quale fantasia di dominazione {par} vivrebbe volentieri con te?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Chi comanda a letto, secondo {par}?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Manette, benda o corda morbida: cosa userebbe {par} su di te come prima cosa?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Quale parte del sesso {par} farebbe durare il doppio?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Qual è l'orario ideale, per {par}, per fare l'amore senza fretta?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Quale tuo gemito o suono a letto eccita di più {par}?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Quando arrivi all'orgasmo, dove preferisce {par} che tu venga?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Quale categoria di porno {par} cerca più spesso?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Cosa adora {par} che tu faccia con la lingua?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Qual è stata la vostra sveltina più folle, nel ricordo di {par}?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Tirata di capelli, morso o graffio: cosa piace di più a {par} sul più bello?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Cosa farebbe {par} in una notte intera in hotel, senza nessun limite?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Che tipo di foto senza veli {par} vorrebbe ricevere da te?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Quale parte del corpo di {par} è la scorciatoia più rapida per l'orgasmo?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Qual è il pensiero più spinto che {par} abbia mai avuto al lavoro?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Quale stanza della casa {par} vuole inaugurare facendo sesso?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Sconosciuti al bar, primo appuntamento o massaggio con lieto fine: quale gioco di ruolo farebbe {par}?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Quanto dovrebbe durare il sesso perfetto, secondo {par}?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "A cosa pensa {par} quando vuole arrivare all'orgasmo più in fretta?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Qual è il ricordo più bello di sesso orale che {par} ha con te?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Lubrificante classico, effetto caldo o aromatizzato: quale preferisce {par}?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Macchina, spiaggia o tenda in campeggio: dove farebbe sesso {par}?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Qual è il punto più sensibile di {par} durante il sesso orale?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Gemiti sommessi, frasi spinte o silenzio: com'è {par} a letto?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Fare sesso davanti allo specchio o filmarvi: cosa proverebbe prima {par}?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Da 0 a 10, che voto dà {par} alla vostra prima volta?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Cosa fai a letto che, secondo {par}, sai fare solo tu?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Sesso anale: {par} lo adora, vuole provarlo o è un no?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Che tipo di preliminari fa supplicare {par} di andare oltre?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Dove eravate quando {par} ha avuto con te l'orgasmo più forte?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Quanti orgasmi ha avuto {par}, al massimo, in una notte sola?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Quale posizione sceglie {par} quando vuole guardarti negli occhi?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Quale posizione sceglie {par} quando vuole solo lasciarsi andare?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Cosa vorrebbe {par} che tu facessi di tua iniziativa a letto?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Dolce, selvaggio o tutti e due nella stessa notte: che sesso preferisce {par}?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Qual è la scusa più assurda che {par} ha usato per portarti a letto?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "In quale posto del lavoro o dell'università {par} ha immaginato di fare sesso con te?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Chi arriva prima all'orgasmo la maggior parte delle volte, secondo {par}?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Cosa fa {par} per trattenere l'orgasmo e durare di più?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Che tipo di tocco intimo {par} proprio non sopporta?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Quale parola di sicurezza sceglierebbe {par} per una notte più spinta?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Ascensore, camerino o scale del palazzo: quale posto proibito eccita di più {par}?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Quale sogno erotico su di te {par} ricorda ancora oggi?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Cosa ha voglia di farti {par} dopo un bicchiere di troppo?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "L'inizio, il durante o il dopo: quale parte del sesso {par} trova più bella?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Cosa adora fare {par} subito dopo l'orgasmo?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Quante volte al giorno {par} pensa a fare sesso con te?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Qual è il feticcio più inaspettato di {par}?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Quale parte del corpo, a parte le solite, eccita di più {par}?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Quale tuo vestito {par} vorrebbe strapparti di dosso in fretta?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Cosa fa passare di colpo la voglia a {par}?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Qual è stato il posto più scomodo in cui avete fatto sesso, secondo {par}?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Panna, cioccolato o miele: a quale gioco col cibo a letto {par} direbbe di sì?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Qual è il modo preferito di {par} di svegliarti per fare l'amore?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "In quale giorno della settimana, secondo {par}, fate l'amore meglio?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Quale posizione {par} trova la più faticosa, eppure la adora?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Quale frase spinta ti direbbe {par}, se perdesse ogni pudore?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Qual è stata la volta in cui avete rischiato di più di farvi beccare, nel ricordo di {par}?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Masturbazione reciproca, sesso orale o rapporto completo: cosa chiederebbe {par} adesso?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Se {par} potesse bendarti, cosa farebbe come prima cosa?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Che tipo di massaggio erotico vorrebbe ricevere da te {par}?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "In quale punto del corpo {par} ama sentire la tua mano mentre raggiunge l'orgasmo?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "In una notte senza orari e senza vicini, cosa farebbe {par} con te a letto?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Qual è stata la vostra volta più silenziosa per forza di cose, secondo {par}?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Quali preliminari, secondo {par}, mancano nel vostro letto?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Baciandovi, spogliandovi o andando subito al sodo: come preferisce cominciare {par}?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "69, in ginocchio o sul bordo del letto: quale sesso orale preferisce {par}?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Chi ha più fuoco tra voi due, secondo {par}?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Quale fantasia {par} ha già realizzato con te e vuole rifare?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Quale suono o frase fa capire a {par} che stai per arrivare all'orgasmo?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Cosa fa {par} per eccitarti quando hai la testa altrove?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Quale sensazione cerca di più {par} quando fa l'amore con te?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Quale limite aveva {par} e oggi non ha più?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Vibratore con telecomando: dove vorrebbe usarlo {par} insieme a te?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Che tipo di tocco con le dita fa impazzire {par}?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Qual è stata la notte in cui avete fatto l'amore più volte, secondo {par}?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Cosa vorrebbe sentirti dire {par} mentre raggiungi l'orgasmo?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Come sarebbe per {par} la notte di sesso perfetta, dall'inizio alla fine?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "In quale stanza della casa {par} non farebbe sesso per nessun motivo?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "In una videochiamata hot, cosa ti chiederebbe di fare {par}?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Quale tuo profumo o sapore piace di più a {par} durante il sesso orale?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Da 0 a 10, quanto piace a {par} fare sesso di prima mattina?",
+   "nivel": "proibido"
+  },
+  {
+   "p": "Dove ti lascerebbe un succhiotto {par}, se nessuno potesse vederlo?",
+   "nivel": "proibido"
+  }
+ ]
+}

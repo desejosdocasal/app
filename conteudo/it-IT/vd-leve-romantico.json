@@ -1,0 +1,535 @@
+{
+ "leve": {
+  "verdades": [
+   "Qual è la prima cosa che hai notato di {par} e non hai mai avuto il coraggio di dire?",
+   "C'è una mania di {par} che ti dà sui nervi, ma fai finta di niente? Quale?",
+   "Se vi scambiaste i corpi per un giorno, qual è la prima cosa che faresti?",
+   "Racconta la figuraccia più grande che hai fatto davanti a {par}.",
+   "Quale piatto di {par} mangi solo per educazione?",
+   "Quale soprannome stavi per dare a {par} e all'ultimo ci hai ripensato?",
+   "Se {par} fosse il personaggio di una serie TV, chi sarebbe? E perché?",
+   "Al primo appuntamento, cosa ti passava davvero per la testa?",
+   "Qual è la gelosia più stupida che hai provato per {par}?",
+   "Racconta una tua abitudine che {par} non ha ancora scoperto.",
+   "Avete vinto al Superenalotto. Quale sarà il vostro primo litigio?",
+   "Qual è il piatto peggiore che hai cucinato per {par}? Racconta tutto.",
+   "Quale serie hai continuato a guardare di nascosto da {par}?",
+   "Com'è dormire accanto a {par}? Puoi lamentarti quanto vuoi.",
+   "Qual è l'ultima piccola bugia che hai detto a {par}?",
+   "Se potessi cancellare dalla faccia della terra una vostra foto, quale sceglieresti?",
+   "Quale mania hai preso da {par} senza accorgertene?",
+   "C'è un regalo di {par} che hai finto di adorare? Racconta.",
+   "Quale parola {par} sbaglia sempre e a te fa tenerezza?",
+   "Chi russa di più in questa casa? Descrivi il russare peggiore che hai mai sentito.",
+   "Cosa fai in casa quando {par} non c'è e non faresti mai davanti a {par}?",
+   "Ti ricordi cosa diceva il primo messaggio che hai mandato a {par}?",
+   "Cosa fa {par} col telefono in mano che ti fa saltare i nervi?",
+   "Quale tuo difetto {par} sopporta senza lamentarsi?",
+   "Cosa ti è sembrato strano della famiglia di {par} all'inizio?",
+   "Quale vestito di {par} faresti sparire dall'armadio, se potessi?",
+   "In che situazione {par} ti fa morire d'imbarazzo?",
+   "Qual è stato il motivo più stupido per cui avete litigato?",
+   "Se potessi inventare una nuova regola in casa, quale sarebbe?",
+   "Cosa fa {par} che ti fa ridere anche nel mezzo di un litigio?",
+   "Talento inutile: qual è il tuo che {par} non conosce ancora?",
+   "Da zero a dieci, quanto balla male {par}? Motiva il voto.",
+   "Qual è la tua scusa preferita per non uscire di casa?",
+   "Qual è la serata insieme andata peggio finora?",
+   "Se {par} avesse un tormentone tutto suo, quale sarebbe?",
+   "Su quale argomento hai fatto finta di capirci qualcosa, parlando con {par}?",
+   "La prima volta a casa di {par}, cosa hai pensato? Senza filtri.",
+   "Quando nessuno ti vede, che tipo di video guardi di più?",
+   "Chi molla prima in una discussione, qui? E perché?",
+   "Qual è il sogno più assurdo che hai fatto con {par} come protagonista?",
+   "Se {par} fosse un piatto, quale sarebbe? Spiega la scelta.",
+   "Quand'è stata l'ultima volta che avete riso fino alle lacrime? Cos'era successo?",
+   "Quale lavoro sarebbe un disastro totale per {par}?",
+   "Cosa facevi all'inizio per fare colpo su {par} e poi hai smesso?",
+   "Secondo te, a quale personaggio famoso somiglia {par}?",
+   "Qual è la cosa più a caso che hai cercato su internet per colpa di {par}?",
+   "Se {par} diventasse un animale per un giorno, quale sarebbe? Spiega.",
+   "Quale canzone ti vergogni di sapere a memoria?",
+   "Cosa fa {par} in cucina che ti mette l'ansia solo a guardare?",
+   "Se dovessi descrivere {par} con tre parole sole, quali sceglieresti?",
+   "Cosa pensavi del modo di vestire di {par} le prime volte che vi vedevate?",
+   "Qual è la cosa più strana che hai mangiato di nascosto in piena notte?",
+   "Se {par} avesse un canale online, di cosa parlerebbe? E quanti follower avrebbe?",
+   "Chi di voi due sopravvivrebbe più a lungo a un'apocalisse zombie? Perché?",
+   "Secondo te, quale tua mania mette più alla prova la pazienza di {par}?",
+   "Qual è la scusa più campata in aria che hai rifilato a {par}?",
+   "Se potessi leggere nella mente di {par} per un minuto, in quale momento lo faresti?",
+   "Qual è la volta in cui avete sbagliato strada di brutto cercando un posto? Di chi era la colpa?",
+   "Quale film ti ha fatto crollare dal sonno accanto a {par}, anche se poi hai detto che ti era piaciuto?",
+   "Quale piatto giuri di cucinare meglio di {par}? Puoi vantarti."
+  ],
+  "desafios": [
+   {
+    "t": "Imita {par} quando si sveglia la mattina. Non tralasciare nessun dettaglio."
+   },
+   {
+    "t": "Guarda {par} negli occhi senza ridere fino allo scadere del tempo.",
+    "seg": 30
+   },
+   {
+    "t": "Fai una dichiarazione d'amore con la voce di un telecronista di calcio."
+   },
+   {
+    "t": "Canta il ritornello di una canzone che ti ricorda {par}, come viene viene."
+   },
+   {
+    "t": "Lascia che {par} ti faccia un'acconciatura usando solo le mani.",
+    "seg": 60
+   },
+   {
+    "t": "Racconta la barzelletta peggiore che conosci. Se {par} ride, sei a posto."
+   },
+   {
+    "t": "Fai il solletico a {par} finché {par} non chiede tregua."
+   },
+   {
+    "t": "Di' tre cose belle di {par} con l'accento di un'altra regione."
+   },
+   {
+    "t": "Disegna {par} su un foglio o sul telefono. Senza cancellare niente.",
+    "seg": 60
+   },
+   {
+    "t": "Manda un vocale a {par}, anche se è qui accanto, raccontando com'è andata la tua giornata."
+   },
+   {
+    "t": "Lancia a {par} il tuo sguardo più seducente e reggilo finché {par} non scoppia a ridere."
+   },
+   {
+    "t": "Vai fino in cucina e torna sfilando come su una passerella."
+   },
+   {
+    "t": "Scegli una canzone e balla muovendo solo le spalle.",
+    "seg": 30
+   },
+   {
+    "t": "Fai vedere a {par} le ultime cinque foto della tua galleria."
+   },
+   {
+    "t": "Racconta cosa sta facendo {par} adesso, come in un documentario sugli animali.",
+    "seg": 30
+   },
+   {
+    "t": "Pronuncia il nome di {par} in cinque modi: cantando, sussurrando, con rabbia, piangendo e ridendo."
+   },
+   {
+    "t": "Vendi {par} come in una televendita. Inventa anche il prezzo.",
+    "seg": 30
+   },
+   {
+    "t": "Recita la vostra ultima discussione, interpretando entrambe le parti."
+   },
+   {
+    "t": "Stai su una gamba sola mentre dici cosa ti piace di più di {par}.",
+    "seg": 30
+   },
+   {
+    "t": "Racconta la tua giornata solo a gesti. {par} deve indovinare.",
+    "seg": 60
+   },
+   {
+    "t": "Fai ridere {par} senza contatto fisico e senza dire una parola.",
+    "seg": 60
+   },
+   {
+    "t": "Scambia un capo d'abbigliamento con {par} e tienilo addosso fino al prossimo turno."
+   },
+   {
+    "t": "Inventa una poesia di quattro versi sui piedi di {par}. Deve fare rima."
+   },
+   {
+    "t": "Prova a leccarti il gomito. Mettici tutto l'impegno.",
+    "seg": 15
+   },
+   {
+    "t": "Fino al prossimo turno, parli con {par} solo cantando."
+   },
+   {
+    "t": "{par} sceglie per te un soprannome ridicolo. Vale fino alla fine del gioco."
+   },
+   {
+    "t": "Imita {par} che ordina la pizza a domicilio, con tutti i dettagli."
+   },
+   {
+    "t": "Metti un cuscino in equilibrio sulla testa e cammina fino alla porta senza farlo cadere."
+   },
+   {
+    "t": "Apri WhatsApp e leggi ad alta voce l'ultimo messaggio che hai mandato."
+   },
+   {
+    "t": "Mettiti in posa con {par} per la foto di matrimonio più pacchiana che vi viene in mente."
+   },
+   {
+    "t": "Guarda {par} e fai un complimento esageratissimo, senza ridere."
+   },
+   {
+    "t": "Fai un rap di quattro righe su come è nata la vostra storia."
+   },
+   {
+    "t": "Annusa il collo di {par} e descrivi il profumo come se fosse un vino pregiato."
+   },
+   {
+    "t": "Chiudi gli occhi. {par} ti mette in mano un oggetto del salotto e tu indovini cos'è."
+   },
+   {
+    "t": "Ripeti tutto quello che dice {par}, come un pappagallo.",
+    "seg": 60
+   },
+   {
+    "t": "Inventa una storia dell'orrore con {par} come protagonista.",
+    "seg": 60
+   },
+   {
+    "t": "Lascia che {par} ti scatti una foto mentre fai la smorfia più brutta che riesci."
+   },
+   {
+    "t": "Imita un animale senza fare versi. {par} deve indovinare quale."
+   },
+   {
+    "t": "Fai tre salti e all'ultimo grida il nome di {par}."
+   },
+   {
+    "t": "Intervista {par} come in un servizio del TG. Tre domande, microfono immaginario."
+   },
+   {
+    "t": "Scegli un oggetto del salotto e racconta la sua storia d'amore.",
+    "seg": 60
+   },
+   {
+    "t": "{par} ti disegna qualcosa sulla schiena con il dito. Tu provi a indovinare."
+   },
+   {
+    "t": "Fai la tua migliore risata malefica, da cattivo dei cartoni animati."
+   },
+   {
+    "t": "Fai una serenata a {par} usando il telecomando come microfono.",
+    "seg": 30
+   },
+   {
+    "t": "Racconta com'è andata la tua giornata senza mai dire \"no\". Se sbagli, ricominci.",
+    "seg": 30
+   },
+   {
+    "t": "Fai la pubblicità del tuo piatto preferito, con tanto di jingle.",
+    "seg": 30
+   },
+   {
+    "t": "Imita {par} che racconta un pettegolezzo. Esagera con smorfie e gesti."
+   },
+   {
+    "t": "Fai indovinare a {par} un film, solo mimando.",
+    "seg": 60
+   },
+   {
+    "t": "Recita l'alfabeto al contrario il più veloce possibile. Se sbagli, {par} sceglie una smorfia che devi fare."
+   },
+   {
+    "t": "Cerca di non sbattere le palpebre mentre {par} ti fa le boccacce.",
+    "seg": 30
+   },
+   {
+    "t": "Prendi un cucchiaio in cucina e prova a tenerlo in equilibrio sul naso.",
+    "seg": 30
+   },
+   {
+    "t": "Inventa un nome di coppia unendo il tuo nome e quello di {par}. Poi gridalo come un coro da stadio."
+   },
+   {
+    "t": "Presenta il meteo dell'umore di {par} per la prossima settimana, con tanto di gesti da TG."
+   },
+   {
+    "t": "Lascia che {par} cambi lo sfondo del tuo telefono. Lo tieni così fino a domani."
+   },
+   {
+    "t": "Fino al prossimo turno, parli con {par} solo con la vocina da bebè."
+   },
+   {
+    "t": "Racconta come è iniziata la vostra storia, ma tutta inventata. Più è assurda, meglio è.",
+    "seg": 60
+   },
+   {
+    "t": "Inventa un passo di danza e insegnalo a {par}. Alla fine ballatelo fianco a fianco.",
+    "seg": 60
+   },
+   {
+    "t": "Leggi ad alta voce l'ultima chat tra voi sul telefono, recitandola come una telenovela strappalacrime."
+   },
+   {
+    "t": "Imita tre personaggi famosi, uno dopo l'altro. {par} deve indovinare chi sono.",
+    "seg": 60
+   },
+   {
+    "t": "Scegli una parola proibita per {par}. Se {par} la dice prima del prossimo turno, paga una penitenza inventata da te."
+   }
+  ]
+ },
+ "romantico": {
+  "verdades": [
+   "Quando hai capito che {par} ti piaceva sul serio?",
+   "Racconta un giorno in cui hai provato un grande orgoglio per {par}.",
+   "Cosa fa {par} senza accorgersene che ti scioglie il cuore?",
+   "Ti ricordi il vostro primo bacio? Raccontalo a modo tuo.",
+   "Quale posto vorresti tanto visitare con {par}? Perché proprio lì?",
+   "Quale canzone dedicheresti a {par} stasera?",
+   "Nel modo in cui {par} ti guarda, cosa ti piace di più?",
+   "Quando hai una giornata no, cosa fa {par} che ti aiuta?",
+   "Qual è stato il periodo più difficile per voi due? Cosa vi ha dato la forza di andare avanti?",
+   "Quale dettaglio di {par} trovi bellissimo e non dici quasi mai?",
+   "Come immagini voi due tra dieci anni, una domenica qualunque?",
+   "Qual è la cosa più tenera che {par} ha fatto per te?",
+   "Se doveste stare un mese senza vedervi, quale abitudine di {par} ti mancherebbe di più?",
+   "Cosa ti piace di più del dormire accanto a {par}?",
+   "Il primo ti amo: chi l'ha detto? Com'è andata?",
+   "C'è qualcosa per cui non hai mai ringraziato {par}? Fallo adesso.",
+   "C'è un profumo che ti fa pensare subito a {par}? Quale?",
+   "Se potessi rivivere un giorno con {par}, quale sceglieresti?",
+   "Cosa ti ha insegnato {par} senza nemmeno saperlo?",
+   "In che momento hai pensato: è con questa persona che voglio stare?",
+   "Nella vostra routine, cosa non cambieresti per niente al mondo?",
+   "Qual è stato il vostro bacio più indimenticabile finora? Perché?",
+   "Qual è la sorpresa più bella che {par} ti ha fatto?",
+   "Cosa provi quando {par} torna a casa?",
+   "Pensa a una piccola cosa che vorresti che {par} facesse più spesso. Qual è?",
+   "Qual è la vostra foto preferita? Cosa stava succedendo in quel momento?",
+   "Cosa è cambiato in te da quando conosci {par}?",
+   "Quale promessa vuoi fare a {par} stasera?",
+   "Qual è stata la vostra serata più bella? Cosa l'ha resa così speciale?",
+   "Come descriveresti {par} a uno sconosciuto?",
+   "Scommetto che {par} adora in segreto una tua mania. Quale pensi che sia?",
+   "Quale complimento di {par} ti porti dentro ancora oggi?",
+   "Ti capita di avere voglia di baciare {par} all'improvviso? In che situazione?",
+   "Qui in casa, qual è il tuo angolo preferito per stare con {par}?",
+   "Cosa fa {par} che ti fa sentire a casa?",
+   "Di tutto quello che avete vissuto, cosa racconti agli amici con più orgoglio?",
+   "Quando ti manca {par}, cosa fai?",
+   "Quale sogno vuoi ancora realizzare con {par}?",
+   "Racconta una volta in cui le premure di {par} ti sono rimaste nel cuore.",
+   "Cosa trovi più affascinante di {par} quando nessuno guarda?",
+   "Qual è la coccola che preferisci e che forse {par} nemmeno immagina?",
+   "Com'è stata la prima volta che hai visto {par}? Dove eravate?",
+   "Se scappaste via per un weekend, dove andreste?",
+   "Una parola per quello che {par} è per te. Qual è, e perché?",
+   "Cosa vuoi vivere con {par} che ancora non avete vissuto?",
+   "Ti ricordi la prima volta che hai sentito la mancanza di {par}?",
+   "Quale messaggio di {par} conserveresti per sempre?",
+   "Quale abbraccio di {par} preferisci: quello quando arriva, quello dei saluti o quello a sorpresa?",
+   "In che momento hai sentito di più l'amore di {par}?",
+   "Cosa vuoi ancora imparare da {par}?",
+   "Quali scuse di {par} ti sono arrivate dritte al cuore?",
+   "Quale tradizione tutta vostra vuoi creare con {par}?",
+   "Qual è il giorno più semplice con {par} che è diventato indimenticabile?",
+   "Se potessi tornare al primo appuntamento e dire una cosa a {par}, cosa diresti?",
+   "Cosa ti spinge di più a prenderti cura di {par}?",
+   "Qual è stato il vostro viaggio più bello? Cosa l'ha reso speciale?",
+   "Quale qualità di {par} vorresti avere anche tu?",
+   "Quale vostro ricordo vorresti chiudere in un barattolo per sempre?",
+   "Quale frase di {par} ti ripeti in testa quando ti serve forza?",
+   "Quale piccola cosa fa {par} che per te vale quanto un ti amo?"
+  ],
+  "desafios": [
+   {
+    "t": "Dai a {par} un lungo bacio sulla fronte."
+   },
+   {
+    "t": "Guarda {par} negli occhi e racconta cosa hai provato la prima volta che hai visto {par}."
+   },
+   {
+    "t": "Fai i grattini in testa a {par}, senza dire una parola.",
+    "seg": 120
+   },
+   {
+    "t": "Massaggia le mani di {par}, dito per dito.",
+    "seg": 60
+   },
+   {
+    "t": "Bacia il palmo della mano di {par} e di' una cosa che ammiri di {par}."
+   },
+   {
+    "t": "Abbraccia {par} forte forte e non mollare fino allo scadere del tempo.",
+    "seg": 60
+   },
+   {
+    "t": "Sussurra all'orecchio di {par} cosa ti ha colpito all'inizio."
+   },
+   {
+    "t": "Metti una canzone lenta a volume basso sul telefono e balla con {par}, qui, adesso.",
+    "seg": 120
+   },
+   {
+    "t": "Bacia {par} come nel vostro primo bacio."
+   },
+   {
+    "t": "A occhi chiusi, accarezza il viso di {par} come se volessi impararlo a memoria.",
+    "seg": 60
+   },
+   {
+    "t": "Scrivi con il dito sulla schiena di {par} una parola dolce. {par} deve indovinarla."
+   },
+   {
+    "t": "Bacia {par} in tre punti del viso. Scegli tu quali."
+   },
+   {
+    "t": "Per ogni bacio che dai sul braccio di {par}, di' una sua qualità."
+   },
+   {
+    "t": "Fai una dichiarazione a {par} come se foste all'altare, con tanto di invitati."
+   },
+   {
+    "t": "Sdraiati con la testa sulle gambe di {par} e racconta un bel ricordo vostro."
+   },
+   {
+    "t": "Manda adesso a {par} il messaggio che scriveresti se foste a chilometri di distanza."
+   },
+   {
+    "t": "Massaggia le spalle di {par}, piano piano.",
+    "seg": 120
+   },
+   {
+    "t": "Dai a {par} un bacio da cinema, con tanto di casqué."
+   },
+   {
+    "t": "Appoggia la fronte su quella di {par} e respira al suo stesso ritmo, in silenzio.",
+    "seg": 30
+   },
+   {
+    "t": "Accarezza piano il braccio di {par}, dalla spalla alla mano.",
+    "seg": 30
+   },
+   {
+    "t": "Dai un solo bacio, leggerissimo, sul collo di {par}."
+   },
+   {
+    "t": "Di' a {par} una cosa bella che non hai mai avuto il coraggio di dire."
+   },
+   {
+    "t": "Elenca ad alta voce cinque momenti con {par} che porti nel cuore."
+   },
+   {
+    "t": "Prendi il viso di {par} tra le mani e di' grazie per una cosa precisa."
+   },
+   {
+    "t": "Fai un massaggio ai piedi di {par}.",
+    "seg": 120
+   },
+   {
+    "t": "Dai a {par} un bacio all'eschimese, naso contro naso. Poi uno vero."
+   },
+   {
+    "t": "Guardando {par} negli occhi, racconta il giorno in cui hai avuto la certezza che era amore."
+   },
+   {
+    "t": "Abbraccia {par} da dietro e sussurra una cosa bella all'orecchio."
+   },
+   {
+    "t": "Registra adesso un vocale che {par} potrà ascoltare in una giornata difficile. {par} lo conserva."
+   },
+   {
+    "t": "Bacia la mano di {par} come nei film d'altri tempi e fai un complimento esageratissimo."
+   },
+   {
+    "t": "Imita la faccia che fa {par} quando è felice. Poi dai un bacio a {par}."
+   },
+   {
+    "t": "Disegna un cuore sulla schiena di {par} con la punta del dito."
+   },
+   {
+    "t": "Fai a {par} una promessa che puoi mantenere entro questa settimana."
+   },
+   {
+    "t": "Dai un bacio su ogni dito della mano di {par}."
+   },
+   {
+    "t": "Stringiti a {par} a cucchiaio, in silenzio.",
+    "seg": 120
+   },
+   {
+    "t": "Canta piano all'orecchio di {par} un pezzo della vostra canzone."
+   },
+   {
+    "t": "Fai sorridere {par} solo con le coccole, senza dire niente.",
+    "seg": 60
+   },
+   {
+    "t": "Apri sul telefono una vecchia foto di voi due e racconta cosa ricordi di quel giorno."
+   },
+   {
+    "t": "Bacia le palpebre di {par}, piano, una alla volta."
+   },
+   {
+    "t": "Scegli un punto del braccio di {par} e riempilo di bacini.",
+    "seg": 30
+   },
+   {
+    "t": "Di' tre cose che vuoi fare con {par} entro la fine dell'anno."
+   },
+   {
+    "t": "Guardando {par}, completa la frase: sono felice quando tu..."
+   },
+   {
+    "t": "Prendi la mano di {par} e racconta cosa ha fatto quella mano per te."
+   },
+   {
+    "t": "Dai un bacio a stampo a {par} ogni volta che {par} sorride.",
+    "seg": 60
+   },
+   {
+    "t": "Pronuncia il nome completo di {par} nel modo più dolce che riesci."
+   },
+   {
+    "t": "Sussurra all'orecchio di {par} tre cose che ami e che non c'entrano niente con l'aspetto fisico."
+   },
+   {
+    "t": "Tieni le mani di {par} e, guardando {par} negli occhi, racconta come sarebbe la vostra giornata perfetta.",
+    "seg": 60
+   },
+   {
+    "t": "Dai un bacio lentissimo sulla spalla di {par}."
+   },
+   {
+    "t": "Scrivi su un foglio un bigliettino d'amore di tre righe e consegnalo a {par} piegato in quattro."
+   },
+   {
+    "t": "Accarezza i capelli di {par} mentre racconti il giorno del vostro primo incontro.",
+    "seg": 60
+   },
+   {
+    "t": "Bacia {par} e, tra un bacio e l'altro, di' una cosa per cui vuoi dire grazie."
+   },
+   {
+    "t": "Mano nella mano con {par}, racconta un bel segreto che non hai mai rivelato."
+   },
+   {
+    "t": "Chiedi a {par} di chiudere gli occhi e descrivi ad alta voce, con tutta la tenerezza che hai, il viso di {par}.",
+    "seg": 60
+   },
+   {
+    "t": "Dai baci a stampo a {par}, contandoli ad alta voce, finché {par} non ti chiede di smettere."
+   },
+   {
+    "t": "Abbraccia {par} di fianco e organizza ad alta voce il prossimo weekend a due."
+   },
+   {
+    "t": "Massaggia la testa di {par} con la punta delle dita, piano piano.",
+    "seg": 90
+   },
+   {
+    "t": "Fai di nuovo a {par} la proposta di stare insieme, come la prima volta."
+   },
+   {
+    "t": "Fatti adesso un selfie con {par}, il più romantico possibile, e mettilo come sfondo."
+   },
+   {
+    "t": "Appoggia la testa sul petto di {par} e ascolta il cuore in silenzio.",
+    "seg": 60
+   },
+   {
+    "t": "Balla con {par} senza musica, solo al ritmo del respiro.",
+    "seg": 60
+   }
+  ]
+ }
+}
