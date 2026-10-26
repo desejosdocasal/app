@@ -6,19 +6,76 @@
  "curto": "Desideri",
  "manifesto": "Giochi di coppia: obbligo o verità, ruota, dadi e match dei desideri.",
  "niveis": {
-  "leve": { "nome": "Soft", "desc": "per cominciare in leggerezza" },
-  "romantico": { "nome": "Romantico", "desc": "coccole, baci, ricordi" },
-  "picante": { "nome": "Piccante", "desc": "carezze, provocazioni, camera da letto" },
-  "proibido": { "nome": "Senza Censura", "desc": "nessun filtro" }
+  "leve": {
+   "nome": "Soft",
+   "desc": "per cominciare in leggerezza"
+  },
+  "romantico": {
+   "nome": "Romantico",
+   "desc": "coccole, baci, ricordi"
+  },
+  "picante": {
+   "nome": "Piccante",
+   "desc": "carezze, provocazioni, camera da letto"
+  },
+  "proibido": {
+   "nome": "Senza Censura",
+   "desc": "nessun filtro"
+  }
  },
  "pacotes": {
-  "proibido": { "titulo": "Senza Censura", "texto": "Il livello senza nessun filtro, per quando volete arrivare fino in fondo.", "itens": ["Verità e obblighi senza censura", "Ruota e dadi senza censura", "Più posizioni e più zone nei dadi", "Desideri senza censura nel Match"] },
-  "datas": { "titulo": "Occasioni Speciali", "texto": "Carte pensate per le serate che meritano qualcosa di diverso.", "itens": ["Anniversario", "San Valentino", "Viaggio a due", "Dopo una litigata", "Serata speciale a casa"] },
-  "pro": { "titulo": "Desideri Pro", "texto": "Altri giochi per quando la routine torna a bussare.", "itens": ["Modalità Fantasia: scenari e ruoli da interpretare", "30 Serate a Due: un appuntamento a casa ogni sera", "Sfide a Distanza: per quando la distanza vi separa"] }
+  "proibido": {
+   "titulo": "Senza Censura",
+   "texto": "Il livello senza nessun filtro, per quando volete arrivare fino in fondo.",
+   "itens": [
+    "Verità e obblighi senza censura",
+    "Ruota e dadi senza censura",
+    "Più posizioni e più zone nei dadi",
+    "Desideri senza censura nel Match"
+   ],
+   "preco": "12,90 €"
+  },
+  "datas": {
+   "titulo": "Occasioni Speciali",
+   "texto": "Carte pensate per le serate che meritano qualcosa di diverso.",
+   "itens": [
+    "Anniversario",
+    "San Valentino",
+    "Viaggio a due",
+    "Dopo una litigata",
+    "Serata speciale a casa"
+   ],
+   "preco": "4,90 €"
+  },
+  "pro": {
+   "titulo": "Desideri Pro",
+   "texto": "Altri giochi per quando la routine torna a bussare.",
+   "itens": [
+    "Modalità Fantasia: scenari e ruoli da interpretare",
+    "30 Serate a Due: un appuntamento a casa ogni sera",
+    "Sfide a Distanza: per quando la distanza vi separa"
+   ],
+   "preco": "19,90 €"
+  }
  },
- "tipo": { "verdade": "verità", "desafio": "obbligo" },
- "ocasioes": { "aniversario": "Anniversario", "namorados": "San Valentino", "viagem": "Viaggio a due", "reconciliacao": "Dopo una litigata", "em_casa": "Serata speciale a casa" },
- "tiposCriar": { "verdade": "Verità", "desafio": "Obbligo", "roleta": "Ruota", "acao": "Azione del dado", "lugar": "Zona del dado" },
+ "tipo": {
+  "verdade": "verità",
+  "desafio": "obbligo"
+ },
+ "ocasioes": {
+  "aniversario": "Anniversario",
+  "namorados": "San Valentino",
+  "viagem": "Viaggio a due",
+  "reconciliacao": "Dopo una litigata",
+  "em_casa": "Serata speciale a casa"
+ },
+ "tiposCriar": {
+  "verdade": "Verità",
+  "desafio": "Obbligo",
+  "roleta": "Ruota",
+  "acao": "Azione del dado",
+  "lugar": "Zona del dado"
+ },
  "voce": "Tu",
  "seuPar": "Partner",
  "cronoAria": "Avvia il timer di {t}",
@@ -168,7 +225,11 @@
  "boasP": "Certi desideri restano chiusi in un cassetto perché chiederli mette imbarazzo. Qui a chiedere è il gioco. A voi basta il coraggio di girare la carta.",
  "boasSussurro": "Quello che succede dopo resta tra voi.",
  "boasAntes": "Prima di iniziare",
- "boasLi": ["Scegliete il vostro livello. Tutto il gioco lo segue, e potete cambiarlo quando volete.", "Si gioca a turno. Non ti va? Passi, senza dare spiegazioni.", "Scrivete i vostri nomi: il gioco mette il nome dell'altra persona dentro le carte."],
+ "boasLi": [
+  "Scegliete il vostro livello. Tutto il gioco lo segue, e potete cambiarlo quando volete.",
+  "Si gioca a turno. Non ti va? Passi, senza dare spiegazioni.",
+  "Scrivete i vostri nomi: il gioco mette il nome dell'altra persona dentro le carte."
+ ],
  "boasPrivB": "Tutto resta solo su questo telefono.",
  "boasPriv": "Niente registrazione, niente login, niente cloud. Nessuna traccia.",
  "abrirJogo": "Apri il gioco",

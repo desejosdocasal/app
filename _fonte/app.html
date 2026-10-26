@@ -970,7 +970,7 @@ function abreBloqueio(item) {
   const d = document.createElement('div'); d.className = 'folha'; d.setAttribute('aria-label', p.titulo); d.setAttribute('role', 'dialog'); d.setAttribute('aria-modal', 'true');
   d.innerHTML = `<div class="corpo"><span class="selo" style="color:var(--proibido)">${I.cadeado} ${L.naoLiberado}</span><h3>${p.titulo}</h3><p>${p.texto}</p>
     <ul>${p.itens.map(x => `<li>${x}</li>`).join('')}</ul>
-    <a class="btn p" href="${CHECKOUT[item]}" target="_blank" rel="noopener" style="text-decoration:none">${fx(L.liberar, { p: p.titulo })}</a>
+    <a class="btn p" href="${CHECKOUT[item]}" target="_blank" rel="noopener" style="text-decoration:none">${fx(L.liberar, { p: p.titulo })}${p.preco ? ' · ' + p.preco : ''}</a>
     <button class="btn f" data-acao="fecharFolha">${L.agoraNao}</button></div>`;
   d.addEventListener('click', e => { if (e.target === d) d.remove(); });
   document.body.appendChild(d);
