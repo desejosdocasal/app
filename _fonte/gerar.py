@@ -31,7 +31,7 @@ CHECKOUT = {
     'pt-BR': {'proibido': '#', 'datas': '#', 'pro': '#'},
     'it-IT': {'proibido': '#', 'datas': '#', 'pro': '#'},
 }[LINGUA]
-VERSAO = 2
+VERSAO = 3
 
 L = json.load(open(os.path.join(AQUI, 'textos', LINGUA + '.json'), encoding='utf-8'))
 
