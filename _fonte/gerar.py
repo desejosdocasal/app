@@ -32,7 +32,7 @@ CHECKOUT = {
     # Itália: as ofertas "dentro do app" da Cakto (Senza Censura a 12,90 €, Occasioni a 4,90 €, Pro a 19,90 €, total com a comissão)
     'it-IT': {'proibido': 'https://pay.cakto.com.br/9tf957m', 'datas': 'https://pay.cakto.com.br/3cwt22p', 'pro': 'https://pay.cakto.com.br/ufkhv67'},
 }[LINGUA]
-VERSAO = 4
+VERSAO = 5
 
 L = json.load(open(os.path.join(AQUI, 'textos', LINGUA + '.json'), encoding='utf-8'))
 
