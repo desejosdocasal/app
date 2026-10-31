@@ -29,10 +29,10 @@ PASTAS = {
 # links de checkout dos pacotes, por idioma (preencher quando o checkout existir)
 CHECKOUT = {
     'pt-BR': {'proibido': '#', 'datas': '#', 'pro': '#'},
-    # Itália: Hotmart em euro, IVA incluso (Senza Censura na oferta de 12,90 € do cadeado, Occasioni a 4,90 €, Pro a 19,90 €)
-    'it-IT': {'proibido': 'https://pay.hotmart.com/Y108239419F?off=8ohslvf8', 'datas': 'https://pay.hotmart.com/F108239448A', 'pro': 'https://pay.hotmart.com/P108279002V'},
+    # Itália: Hotmart em euro, IVA incluso, checkoutMode=10 para o banner (Senza Censura na oferta de 12,90 € do cadeado, Occasioni a 4,90 €, Pro a 19,90 €)
+    'it-IT': {'proibido': 'https://pay.hotmart.com/Y108239419F?off=8ohslvf8&checkoutMode=10', 'datas': 'https://pay.hotmart.com/F108239448A?checkoutMode=10', 'pro': 'https://pay.hotmart.com/P108279002V?checkoutMode=10'},
 }[LINGUA]
-VERSAO = 6
+VERSAO = 7
 
 L = json.load(open(os.path.join(AQUI, 'textos', LINGUA + '.json'), encoding='utf-8'))
 
