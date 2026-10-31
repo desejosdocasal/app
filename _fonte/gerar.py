@@ -29,10 +29,10 @@ PASTAS = {
 # links de checkout dos pacotes, por idioma (preencher quando o checkout existir)
 CHECKOUT = {
     'pt-BR': {'proibido': '#', 'datas': '#', 'pro': '#'},
-    # Itália: as ofertas "dentro do app" da Cakto (Senza Censura a 12,90 €, Occasioni a 4,90 €, Pro a 19,90 €, total com a comissão)
-    'it-IT': {'proibido': 'https://pay.cakto.com.br/9tf957m', 'datas': 'https://pay.cakto.com.br/3cwt22p', 'pro': 'https://pay.cakto.com.br/ufkhv67'},
+    # Itália: Hotmart em euro, IVA incluso (Senza Censura na oferta de 12,90 € do cadeado, Occasioni a 4,90 €, Pro a 19,90 €)
+    'it-IT': {'proibido': 'https://pay.hotmart.com/Y108239419F?off=8ohslvf8', 'datas': 'https://pay.hotmart.com/F108239448A', 'pro': 'https://pay.hotmart.com/P108279002V'},
 }[LINGUA]
-VERSAO = 5
+VERSAO = 6
 
 L = json.load(open(os.path.join(AQUI, 'textos', LINGUA + '.json'), encoding='utf-8'))
 
